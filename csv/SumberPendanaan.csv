@@ -1,0 +1,4629 @@
+Akun;Kelompok;Jenis;Objek;Rincian Objek;Sub Rincian Objek;Uraian Akun
+7;;;;;;PENDAPATAN DAERAH-LO
+7;1;;;;;PENDAPATAN ASLI DAERAH (PAD)-LO
+7;1;01;;;;Pajak Daerah-LO
+7;1;01;01;;;Pajak Kendaraan Bermotor (PKB)-LO
+7;1;01;01;01;;PKB-Mobil Penumpang-Sedan-LO
+7;1;01;01;01;001;PKB-Mobil Penumpang-Sedan-Pribadi-LO
+7;1;01;01;01;002;PKB-Mobil Penumpang-Sedan-Umum-LO
+7;1;01;01;01;003;"PKB-Mobil Penumpang-Sedan-Pemerintah
+Pusat–LO"
+7;1;01;01;01;004;"PKB-Mobil Penumpang-Sedan-Pemerintah
+Daerah-LO"
+7;1;01;01;02;;PKB-Mobil Penumpang-Jeep-LO
+7;1;01;01;02;001;PKB-Mobil Penumpang-Jeep-Pribadi-LO
+7;1;01;01;02;002;PKB-Mobil Penumpang-Jeep-Umum-LO
+7;1;01;01;02;003;"PKB-Mobil Penumpang-Jeep-Pemerintah Pusat–
+LO"
+7;1;01;01;02;004;"PKB-Mobil Penumpang-Jeep-Pemerintah
+Daerah-LO"
+7;1;01;01;03;;PKB-Mobil Penumpang-Minibus-LO
+7;1;01;01;03;001;PKB-Mobil Penumpang-Minibus-Pribadi-LO
+7;1;01;01;03;002;PKB-Mobil Penumpang-Minibus-Umum-LO
+7;1;01;01;03;003;"PKB-Mobil Penumpang-Minibus-Pemerintah
+Pusat –LO"
+7;1;01;01;03;004;"PKB-Mobil Penumpang-Minibus-Pemerintah
+Daerah-LO"
+7;1;01;01;04;;PKB-Mobil Bus-Microbus-LO
+7;1;01;01;04;001;PKB-Mobil Bus-Microbus-Pribadi-LO
+7;1;01;01;04;002;PKB-Mobil Bus-Microbus-Umum-LO
+7;1;01;01;04;003;PKB-Mobil Bus-Microbus-Pemerintah Pusat-LO
+7;1;01;01;04;004;"PKB-Mobil
+LO"
+7;1;01;01;05;;PKB-Mobil Bus-Bus-LO
+7;1;01;01;05;001;PKB-Mobil Bus-Bus-Pribadi-LO
+7;1;01;01;05;002;PKB–Mobil Bus-Bus-Umum-LO
+7;1;01;01;05;003;PKB-Mobil Bus-Bus-Pemerintah Pusat-LO
+7;1;01;01;05;004;PKB-Mobil Bus-Bus-Pemerintah Daerah-LO
+7;1;01;01;06;;PKB-Mobil Barang/Beban-Pick Up-LO
+7;1;01;01;08;;PKB-Mobil Barang/Beban-Truck-LO
+7;1;01;01;08;001;PKB-Mobil Barang/Beban-Truck-Pribadi-LO
+7;1;01;01;08;002;PKB-Mobil Barang/Beban-Truck-Umum-LO
+7;1;01;01;08;003;"PKB-Mobil
+Pusat–LO"
+7;1;01;01;08;004;"PKB-Mobil
+Daerah-LO"
+7;1;01;01;09;;PKB-Mobil Barang/Beban-Blind Van-LO
+7;1;01;01;09;001;"PKB-Mobil
+LO"
+7;1;01;01;09;002;PKB-Mobil Barang/Beban-Blind Van-Umum–LO
+7;1;01;01;09;003;PKB-Mobil
+7;1;01;01;09;004;PKB-Mobil
+7;1;01;01;10;;PKB-Sepeda Motor-Sepeda Motor Roda Dua–LO
+7;1;01;01;10;001;"PKB-Sepeda
+Pribadi-LO"
+7;1;01;01;10;002;"PKB-Sepeda
+Umum-LO"
+7;1;01;01;10;003;PKB-Sepeda
+7;1;01;01;10;004;PKB-Sepeda
+7;1;01;01;11;;PKB-Sepeda Motor-Sepeda Motor Roda Tiga–LO
+7;1;01;01;11;001;"PKB-Sepeda
+Pribadi–LO"
+7;1;01;01;11;002;"PKB-Sepeda
+Umum-LO"
+7;1;01;01;11;003;PKB-Sepeda
+7;1;01;01;11;004;PKB-Sepeda
+7;1;01;01;12;;"PKB-Kendaraan Bermotor yang Dioperasikan di
+Air–LO"
+7;1;01;01;12;001;"PKB-Kendaraan Bermotor yang Dioperasikan di
+Air-Pribadi-LO"
+7;1;01;01;12;002;"PKB-Kendaraan Bermotor yang Dioperasikan di
+Air-Umum-LO"
+7;1;01;01;12;003;"PKB-Kendaraan Bermotor yang Dioperasikan di
+Air-Pemerintah Pusat-LO"
+7;1;01;01;12;004;"PKB-Kendaraan Bermotor yang Dioperasikan di
+Air-Pemerintah Daerah-LO"
+7;1;01;01;13;;"PKB-Kendaraan Khusus Alat Berat/Alat Besar–
+LO"
+7;1;01;01;13;001;PKB-Kendaraan Khusus Alat Berat/Alat Besar-Pribadi–LO
+7;1;01;01;13;002;PKB-Kendaraan Khusus Alat Berat/Alat Besar-Umum–LO
+7;1;01;01;13;003;PKB-Kendaraan Khusus Alat Berat/Alat Besar-Pemerintah Pusat-LO
+7;1;01;01;13;004;PKB-Kendaraan Khusus Alat Berat/Alat Besar-Pemerintah Daerah-LO
+7;1;01;01;14;;PKB-Mobil Roda Tiga–LO
+7;1;01;01;14;001;PKB-Mobil Roda Tiga-Pribadi-LO
+7;1;01;01;14;002;PKB-Mobil Roda Tiga-Umum-LO
+7;1;01;01;14;003;PKB-Mobil Roda Tiga-Pemerintah Pusat-LO
+7;1;01;01;14;004;PKB-Mobil Roda Tiga-Pemerintah Daerah-LO
+7;1;01;02;;;"Bea Balik Nama Kendaraan Bermotor (BBNKB)–
+LO"
+7;1;01;02;01;;BBNKB-Mobil Penumpang-Sedan -LO
+7;1;01;02;01;001;BBNKB-Mobil Penumpang-Sedan-LO
+7;1;01;02;02;;BBNKB-Mobil Penumpang-Jeep-LO
+7;1;01;02;02;001;BBNKB-Mobil Penumpang-Jeep-LO
+7;1;01;02;03;;BBNKB-Mobil Penumpang-Minibus-LO
+7;1;01;02;03;01;BBNKB-Mobil Penumpang-Minibus-LO
+7;1;01;02;04;;BBNKB-Mobil Bus-Microbus-LO
+7;1;01;02;04;001;BBNKB-Mobil Bus-Microbus-LO
+7;1;01;02;05;;BBNKB-Mobil Bus-Bus–LO
+7;1;01;02;05;001;BBNKB-Mobil Bus-Bus-LO
+7;1;01;02;06;;BBNKB-Mobil Barang/Beban-Pick Up-LO
+7;1;01;02;06;001;BBNKB-Mobil Barang/Beban-Pick Up-LO
+7;1;01;02;07;;BBNKB-Mobil Barang/Beban-Light Truck-LO
+7;1;01;02;07;001;BBNKB-Mobil Barang/Beban-Light Truck-LO
+7;1;01;02;08;;BBNKB-Mobil Barang/Beban-Truck-LO
+7;1;01;02;08;001;BBNKB-Mobil Barang/Beban-Truck-LO
+7;1;01;02;09;;BBNKB-Mobil Barang/Beban-Blind Van-LO
+7;1;01;02;09;001;BBNKB-Mobil Barang/Beban-Blind Van-LO
+7;1;01;02;10;;BBNKB-Sepeda Motor-Sepeda Motor Roda Dua-LO
+7;1;01;02;10;001;BBNKB-Sepeda Motor-Sepeda Motor Roda Dua-LO
+7;1;01;02;11;;BBNKB-Sepeda Motor-Sepeda Motor Roda Tiga-LO
+7;1;01;02;11;001;BBNKB-Sepeda Motor-Sepeda Motor Roda Tiga-LO
+7;1;01;03;02;;PBBKB Bahan Bakar Solar–LO
+7;1;01;03;02;001;PBBKB Bahan Bakar Solar-LO
+7;1;01;03;03;;PBBKB Bahan Bakar Gas-LO
+7;1;01;03;03;001;PBBKB Bahan Bakar Gas-LO
+7;1;01;03;04;;PBBKB Bahan Bakar Lainnya-LO
+7;1;01;03;04;001;PBBKB Bahan Bakar Lainnya-LO
+7;1;01;04;;;Pajak Air Permukaan-LO
+7;1;01;04;01;;Pajak Air Permukaan-LO
+7;1;01;04;01;001;Pajak Air Permukaan-LO
+7;1;01;05;;;Pajak Rokok–LO
+7;1;01;05;01;;Pajak Rokok-LO
+7;1;01;05;01;001;Pajak Rokok-LO
+7;1;01;06;;;Pajak Hotel-LO
+7;1;01;06;01;;Pajak Hotel-LO
+7;1;01;06;01;001;Pajak Hotel-LO
+7;1;01;06;02;;Pajak Motel-LO
+7;1;01;06;02;001;Pajak Motel-LO
+7;1;01;06;03;;Pajak Losmen-LO
+7;1;01;06;03;001;Pajak Losmen-LO
+7;1;01;06;04;;Pajak Gubuk Pariwisata-LO
+7;1;01;06;04;001;Pajak Gubuk Pariwisata-LO
+7;1;01;06;05;;Pajak Wisma Pariwisata-LO
+7;1;01;06;05;001;Pajak Wisma Pariwisata-LO
+7;1;01;06;06;;Pajak Pesanggrahan-LO
+7;1;01;06;06;001;Pajak Pesanggrahan-LO
+7;1;01;06;07;;Pajak Rumah Penginapan dan Sejenisnya-LO
+7;1;01;06;07;001;Pajak Rumah Penginapan dan Sejenisnya-LO
+7;1;01;06;08;;"Pajak Rumah Kos dengan Jumlah Kamar Lebih
+dari 10 (Sepuluh)–LO"
+7;1;01;06;08;001;"Pajak Rumah Kos dengan Jumlah Kamar Lebih
+dari 10 (Sepuluh)–LO"
+7;1;01;07;;;Pajak Restoran–LO
+7;1;01;07;01;;Pajak Restoran dan Sejenisnya-LO
+7;1;01;07;01;001;Pajak Restoran dan Sejenisnya-LO
+7;1;01;07;02;;Pajak Rumah Makan dan Sejenisnya-LO
+7;1;01;07;02;001;Pajak Rumah Makan dan Sejenisnya-LO
+7;1;01;07;03;;Pajak Kafetaria dan Sejenisnya-LO
+7;1;01;07;03;001;Pajak Kafetaria dan Sejenisnya-LO
+7;1;01;07;04;;Pajak Kantin dan Sejenisnya-LO
+7;1;01;07;04;001;Pajak Kantin dan Sejenisnya-LO
+7;1;01;07;05;;Pajak Warung dan Sejenisnya-LO
+7;1;01;07;05;001;Pajak Warung dan Sejenisnya-LO
+7;1;01;07;06;;Pajak Bar dan Sejenisnya–LO
+7;1;01;07;06;001;Pajak Bar dan Sejenisnya-LO
+7;1;01;07;07;;Pajak Jasa Boga/Katering dan Sejenisnya-LO
+7;1;01;07;07;001;Pajak Jasa Boga/Katering dan Sejenisnya-LO
+7;1;01;08;;;Pajak Hiburan-LO
+7;1;01;08;01;;Pajak Tontonan Film–LO
+7;1;01;08;01;001;Pajak Tontonan Film–LO
+7;1;01;08;02;;"Pajak Pagelaran Kesenian/Musik/Tari/
+Busana-LO"
+7;1;01;08;02;001;Pajak Pagelaran Kesenian/Musik/Tari/Busana-LO
+7;1;01;08;03;;"Pajak Kontes Kecantikan, Binaraga, dan
+Sejenisnya-LO"
+7;1;01;08;03;001;"Pajak Kontes Kecantikan, Binaraga, dan
+Sejenisnya-LO"
+7;1;01;08;04;;Pajak Pameran–LO
+7;1;01;08;04;001;Pajak Pameran–LO
+7;1;01;08;05;;"Pajak Diskotik, Karaoke, Klub Malam, dan
+Sejenisnya-LO"
+7;1;01;08;05;001;"Pajak Diskotik, Karaoke, Klub Malam, dan
+Sejenisnya-LO"
+7;1;01;08;06;;Pajak Sirkus/Akrobat/Sulap-LO
+7;1;01;08;06;001;Pajak Sirkus/Akrobat/Sulap-LO
+7;1;01;08;07;;Pajak Permainan Biliar dan Bowling-LO
+7;1;01;08;07;001;Pajak Permainan Biliar dan Bowling-LO
+7;1;01;08;08;;"Pajak Pacuan Kuda, Kendaraan Bermotor, dan
+Permainan Ketangkasan–LO"
+7;1;01;08;08;001;"Pajak Pacuan Kuda, Kendaraan Bermotor, dan
+Permainan Ketangkasan–LO"
+7;1;01;08;09;;"Pajak Panti Pijat, Refleksi, Mandi Uap/Spa, dan
+Pusat Kebugaran (Fitness Center)-LO"
+7;1;01;08;09;001;"Pajak Panti Pijat, Refleksi, Mandi Uap/Spa, dan
+Pusat Kebugaran (Fitness Center)-LO"
+7;1;01;08;10;;Pajak Pertandingan Olahraga-LO
+7;1;01;08;10;001;Pajak Pertandingan Olahraga-LO
+7;1;01;09;;;Pajak Reklame-LO
+7;1;01;09;01;;"Pajak Reklame Papan/Billboard/Videotron/
+Megatron-LO"
+7;1;01;09;01;001;"Pajak Reklame Papan/Billboard/Videotron/
+Megatron-LO"
+7;1;01;09;02;;Pajak Reklame Kain-LO
+7;1;01;09;02;001;Pajak Reklame Kain-LO
+7;1;01;09;03;;Pajak Reklame Melekat/Stiker-LO
+7;1;01;09;03;001;Pajak Reklame Melekat/Stiker-LO
+7;1;01;09;04;;Pajak Reklame Selebaran-LO
+7;1;01;09;04;001;Pajak Reklame Selebaran-LO
+7;1;01;09;05;;Pajak Reklame Berjalan-LO
+7;1;01;09;05;001;Pajak Reklame Berjalan-LO
+7;1;01;09;06;;Pajak Reklame Udara-LO
+7;1;01;09;06;001;Pajak Reklame Udara-LO
+7;1;01;09;07;;Pajak Reklame Apung-LO
+7;1;01;09;07;001;Pajak Reklame Apung-LO
+7;1;01;09;08;;Pajak Reklame Suara-LO
+7;1;01;09;08;001;Pajak Reklame Suara-LO
+7;1;01;09;09;;Pajak Reklame Film/Slide-LO
+7;1;01;09;09;001;Pajak Reklame Film/Slide-LO
+7;1;01;09;10;;Pajak Reklame Peragaan-LO
+7;1;01;09;10;001;Pajak Reklame Peragaan-LO
+7;1;01;10;;;Pajak Penerangan Jalan-LO
+7;1;01;10;01;;Pajak Penerangan Jalan Dihasilkan Sendiri-LO
+7;1;01;10;01;001;Pajak Penerangan Jalan Dihasilkan Sendiri-LO
+7;1;01;10;02;;Pajak Penerangan Jalan Sumber Lain-LO
+7;1;01;10;02;001;Pajak Penerangan Jalan Sumber Lain-LO
+7;1;01;11;;;Pajak Parkir-LO
+7;1;01;11;01;;Pajak Parkir-LO
+7;1;01;11;01;001;Pajak Parkir-LO
+7;1;01;12;;;Pajak Air Tanah-LO
+7;1;01;12;01;;Pajak Air Tanah-LO
+7;1;01;12;01;001;Pajak Air Tanah-LO
+7;1;01;13;;;Pajak Sarang Burung Walet-LO
+7;1;01;13;01;;Pajak Sarang Burung Walet-LO
+7;1;01;13;01;001;Pajak Sarang Burung Walet-LO
+7;1;01;14;;;Pajak Mineral Bukan Logam dan Batuan-LO
+7;1;01;14;01;;Pajak Asbes-LO
+7;1;01;14;01;001;Pajak Asbes-LO
+7;1;01;14;02;;Pajak Batu Tulis-LO
+7;1;01;14;02;001;Pajak Batu Tulis-LO
+7;1;01;14;03;;Pajak Batu Setengah Permata-LO
+7;1;01;14;03;001;Pajak Batu Setengah Permata-LO
+7;1;01;14;04;;Pajak Batu Kapur-LO
+7;1;01;14;04;001;Pajak Batu Kapur-LO
+7;1;01;14;05;;Pajak Batu Apung-LO
+7;1;01;14;05;001;Pajak Batu Apung-LO
+7;1;01;14;06;;Pajak Batu Permata-LO
+7;1;01;14;06;001;Pajak Batu Permata-LO
+7;1;01;14;07;;Pajak Bentonit-LO
+7;1;01;14;07;001;Pajak Bentonit-LO
+7;1;01;14;08;;Pajak Dolomit-LO
+7;1;01;14;08;001;Pajak Dolomit-LO
+7;1;01;14;09;;Pajak Felspar-LO
+7;1;01;14;09;001;Pajak Felspar-LO
+7;1;01;14;10;;Pajak Garam Batu (Halite)-LO
+7;1;01;14;10;001;Pajak Garam Batu (Halite)-LO
+7;1;01;14;11;;Pajak Grafit-LO
+7;1;01;14;11;001;Pajak Grafit-LO
+7;1;01;14;12;;Pajak Granit/Andesit-LO
+7;1;01;14;12;001;Pajak Granit/Andesit-LO
+7;1;01;14;13;;Pajak Gips-LO
+7;1;01;14;13;001;Pajak Gips-LO
+7;1;01;14;14;;Pajak Kalsit-LO
+7;1;01;14;14;001;Pajak Kalsit-LO
+7;1;01;14;15;;Pajak Kaolin-LO
+7;1;01;14;15;001;Pajak Kaolin-LO
+7;1;01;14;16;;Pajak Leusit-LO
+7;1;01;14;16;001;Pajak Leusit-LO
+7;1;01;14;17;;Pajak Magnesit-LO
+7;1;01;14;17;001;Pajak Magnesit-LO
+7;1;01;14;18;;Pajak Mika-LO
+7;1;01;14;18;001;Pajak Mika-LO
+7;1;01;14;19;;Pajak Marmer-LO
+7;1;01;14;19;001;Pajak Marmer-LO
+7;1;01;14;20;;Pajak Nitrat-LO
+7;1;01;14;20;001;Pajak Nitrat-LO
+7;1;01;14;21;;Pajak Opsidien-LO
+7;1;01;14;21;001;Pajak Opsidien-LO
+7;1;01;14;22;;Pajak Oker-LO
+7;1;01;14;22;001;Pajak Oker-LO
+7;1;01;14;23;;Pajak Pasir dan Kerikil-LO
+7;1;01;14;23;001;Pajak Pasir dan Kerikil-LO
+7;1;01;14;24;;Pajak Pasir Kuarsa-LO
+7;1;01;14;24;001;Pajak Pasir Kuarsa-LO
+7;1;01;14;25;;Pajak Perlit-LO
+7;1;01;14;25;001;Pajak Perlit-LO
+7;1;01;14;26;;Pajak Phospat-LO
+7;1;01;14;26;001;Pajak Phospat-LO
+7;1;01;14;27;;Pajak Talk-LO
+7;1;01;14;27;001;Pajak Talk-LO
+7;1;01;14;28;;Pajak Tanah Serap (Fullers Earth)-LO
+7;1;01;14;28;001;Pajak Tanah Serap (Fullers Earth)-LO
+7;1;01;14;29;;Pajak Tanah Diatome-LO
+7;1;01;14;29;001;Pajak Tanah Diatome-LO
+7;1;01;14;30;;Pajak Tanah Liat-LO
+7;1;01;14;30;001;Pajak Tanah Liat-LO
+7;1;01;14;31;;Pajak Tawas (Alum)-LO
+7;1;01;14;31;001;Pajak Tawas (Alum)-LO
+7;1;01;14;32;;Pajak Tras-LO
+7;1;01;14;32;001;Pajak Tras-LO
+7;1;01;14;33;;Pajak Yarosif-LO
+7;1;01;14;33;001;Pajak Yarosif-LO
+7;1;01;14;34;;Pajak Zeolit-LO
+7;1;01;14;34;001;Pajak Zeolit-LO
+7;1;01;14;35;;Pajak Basal-LO
+7;1;01;14;35;001;Pajak Basal-LO
+7;1;01;14;36;;Pajak Trakit-LO
+7;1;01;14;36;001;Pajak Trakit-LO
+7;1;01;14;37;;"Pajak Mineral bukan Logam dan Batuan
+Lainnya-LO"
+7;1;01;14;37;001;"Pajak Mineral bukan Logam dan Batuan
+Lainnya-LO"
+7;1;01;15;;;"Pajak Bumi dan Bangunan Perdesaan dan
+Perkotaan (PBBP2)-LO"
+7;1;01;15;01;;PBBP2-LO
+7;1;01;15;01;001;PBBP2-LO
+7;1;01;16;;;"Bea Perolehan Hak Atas Tanah dan Bangunan
+(BPHTB)-LO"
+7;1;01;16;01;;BPHTB-Pemindahan Hak-LO
+7;1;01;16;01;001;BPHTB-Pemindahan Hak-LO
+7;1;01;16;02;;BPHTB-Pemberian Hak Baru-LO
+7;1;01;16;02;001;BPHTB-Pemberian Hak Baru-LO
+7;1;02;;;;Retribusi Daerah-LO
+7;1;02;01;03;;"Retribusi Pelayanan Pemakaman dan
+Pengabuan Mayat-LO"
+7;1;02;01;03;001;"Retribusi Pelayanan Penguburan/Pemakaman
+termasuk Penggalian dan serta Pengurukan
+Pembakaran/Pengabuan Mayat-LO"
+7;1;02;01;03;002;"Retribusi Sewa Tempat Pemakaman atau
+Pembakaran/Pengabuan Mayat-LO"
+7;1;02;01;04;;"Retribusi Pelayanan Parkir di Tepi Jalan
+Umum-LO"
+7;1;02;01;04;001;"Retribusi Penyediaan Pelayanan Parkir di Tepi
+Jalan Umum-LO"
+7;1;02;01;05;;Retribusi Pelayanan Pasar-LO
+7;1;02;01;05;001;Retribusi Pelataran-LO
+7;1;02;01;05;002;Retribusi Los-LO
+7;1;02;01;05;003;Retribusi Kios-LO
+7;1;02;01;06;;Retribusi Pengujian Kendaraan Bermotor-LO
+7;1;02;01;06;001;Retribusi Pengujian Kendaraan Bermotor-LO
+7;1;02;01;07;;"Retribusi Pemeriksaan Alat Pemadam
+Kebakaran-LO"
+7;1;02;01;07;001;"Retribusi Pelayanan Pemeriksaan dan/atau
+Pengujian Alat Pemadam Kebakaran-LO"
+7;1;02;01;07;002;"Retribusi Pelayanan Pemeriksaan dan/atau
+Pengujian Alat Penanggulangan Kebakaran-LO"
+7;1;02;01;07;003;"Retribusi Pelayanan Pemeriksaan dan/atau
+Pengujian Alat Penyelamatan Jiwa-LO"
+7;1;02;01;08;;Retribusi Penggantian Biaya Cetak Peta-LO
+7;1;02;01;08;001;Retribusi Penyediaan Peta Dasar (Garis)-LO
+7;1;02;01;08;002;Retribusi Penyediaan Peta Foto-LO
+7;1;02;01;08;003;Retribusi Penyediaan Peta Digital-LO
+7;1;02;01;08;004;Retribusi Penyediaan Peta Tematik-LO
+7;1;02;01;08;005;Retribusi Penyediaan Peta Teknis (Struktur)-LO
+7;1;02;01;09;;"Retribusi
+Kakus-LO"
+7;1;02;01;09;001;"Retribusi
+Kakus-LO"
+7;1;02;01;10;;Retribusi Pengolahan Limbah Cair-LO
+7;1;02;01;10;001;Retribusi Rumah Tangga-LO
+7;1;02;01;10;002;Retribusi Perkantoran-LO
+7;1;02;01;10;003;Retribusi Industri-LO
+7;1;02;01;11;;Retribusi Pelayanan Tera/Tera Ulang-LO
+7;1;02;01;11;001;"Retribusi Pelayanan Pengujian Alat-Alat Ukur,
+Takar, Timbang, dan Perlengkapannya-LO"
+7;1;02;01;11;002;"Retribusi Pengujian Barang dalam Keadaan
+Terbungkus-LO"
+7;1;02;01;12;;Retribusi Pelayanan Pendidikan-LO
+7;1;02;01;12;001;"Retribusi Pelayanan Penyelenggaraan
+Pendidikan Teknis-LO"
+7;1;02;01;12;002;"Retribusi Pelayanan Penyelenggaraan Pelatihan
+Teknis-LO"
+7;1;02;01;12;003;"Retribusi Pelayanan Penyelenggaraan
+Pendidikan dan Pelatihan Teknis-LO"
+7;1;02;01;13;;"Retribusi Pengawasan dan Pengendalian
+Menara Telekomunikasi-LO"
+7;1;02;01;13;001;"Retribusi Pengawasan dan Pengendalian
+Menara Telekomunikasi-LO"
+7;1;02;02;;;Retribusi Jasa Usaha-LO
+7;1;02;02;01;;Retribusi Pemakaian Kekayaan Daerah-LO
+7;1;02;02;01;001;Retribusi Penyewaan Tanah dan Bangunan-LO
+7;1;02;02;01;002;Retribusi Penyewaan Tanah-LO
+7;1;02;02;01;003;Retribusi Penyewaan Bangunan-LO
+7;1;02;02;01;004;Retribusi Pemakaian Laboratorium-LO
+7;1;02;02;01;005;Retribusi Pemakaian Ruangan-LO
+7;1;02;02;01;006;Retribusi Pemakaian Kendaraan Bermotor-LO
+7;1;02;02;02;;Retribusi Pasar Grosir dan/atau Pertokoan-LO
+7;1;02;02;02;001;"Retribusi Penyediaan Fasilitas Pasar Grosir
+Berbagai Jenis Barang yang Dikontrakkan-LO"
+7;1;02;02;02;002;"Retribusi Penyediaan Fasilitas Pasar/Pertokoan
+yang Dikontrakkan-LO"
+7;1;02;02;03;;Retribusi Tempat Pelelangan-LO
+7;1;02;02;03;001;Retribusi Penyediaan Tempat Pelelangan-LO
+7;1;02;02;03;002;"Retribusi Penyediaan Fasilitas Lainnya di
+Tempat Pelelangan"
+7;1;02;02;04;;Retribusi Terminal-LO
+7;1;02;02;04;001;"Retribusi Pelayanan Penyediaan Tempat Parkir
+untuk Kendaraan Penumpang dan Bus Umum-LO"
+7;1;02;02;04;002;"Retribusi
+Kegiatan"
+7;1;02;02;04;003;Retribusi
+7;1;02;02;08;;Retribusi Pelayanan Kepelabuhanan-LO
+7;1;02;02;08;001;Retribusi Pelayanan Kepelabuhanan-LO
+7;1;02;02;09;;Retribusi Tempat Rekreasi dan Olahraga-LO
+7;1;02;02;09;001;"Retribusi Pelayanan Tempat Rekreasi dan
+Olahraga-LO"
+7;1;02;02;10;;Retribusi Penyeberangan di Air-LO
+7;1;02;02;10;001;Retribusi Pelayanan Penyeberangan Orang-LO
+7;1;02;02;10;002;Retribusi Pelayanan Penyeberangan Barang-LO
+7;1;02;02;11;;Retribusi Penjualan Produksi Usaha Daerah-LO
+7;1;02;02;11;001;"Retribusi Penjualan Hasil Produksi Usaha
+Daerah berupa Bibit atau Benih Tanaman-LO"
+7;1;02;02;11;002;"Retribusi Penjualan Hasil Produksi Usaha
+Daerah berupa Bibit Ternak-LO"
+7;1;02;02;11;003;"Retribusi Penjualan Hasil Produksi Usaha
+Daerah berupa Bibit atau Benih Ikan-LO"
+7;1;02;02;11;004;"Retribusi Penjualan Hasil Produksi Usaha
+Daerah Bibit atau Tanaman, selain Benih
+Ternak dan Ikan-LO"
+7;1;02;03;;;Retribusi Perizinan Tertentu-LO
+7;1;02;03;01;;Retribusi Izin Mendirikan Bangunan-LO
+7;1;02;03;01;001;"Retribusi Pemberian Izin Mendirikan
+Bangunan-LO"
+7;1;02;03;02;;"Retribusi Izin Tempat Penjualan Minuman
+Beralkohol-LO"
+7;1;02;03;02;001;"Retribusi Pemberian Izin Tempat Penjualan
+Minuman Beralkohol-LO"
+7;1;02;03;03;;"Retribusi Izin Trayek untuk Menyediakan
+Pelayanan Angkutan Umum-LO"
+7;1;02;03;03;001;"Retribusi Izin Trayek untuk Menyediakan
+Pelayanan Angkutan Umum-LO"
+7;1;02;03;04;;Retribusi Izin Usaha Perikanan-LO
+7;1;02;03;04;001;"Retribusi Pemberian Izin Kegiatan Usaha
+Penangkapan Ikan-LO"
+7;1;02;03;04;002;"Retribusi Pemberian Izin Kegiatan Usaha
+Pembudidayaan Ikan-LO"
+7;1;02;03;05;;Retribusi Pengendalian Lalu Lintas-LO
+7;1;02;03;05;001;"Retribusi Pengendalian Lalu Lintas Penggunaan
+Ruas Jalan Tertentu-LO"
+7;1;02;03;05;002;"Retribusi Pengendalian Lalu Lintas Penggunaan
+Koridor Tertentu-LO"
+7;1;02;03;05;003;"Retribusi Pengendalian Lalu Lintas Penggunaan
+Kawasan Tertentu-LO"
+7;1;02;03;06;;"Retribusi Perpanjangan Izin Mempekerjakan
+Tenaga Kerja Asing (IMTA)-LO"
+7;1;02;03;06;001;"Retribusi Pemberian Perpanjangan IMTA
+kepada Pemberi Kerja Tenaga Kerja Asing-LO"
+7;1;03;;;;"Hasil Pengelolaan Kekayaan Daerah yang
+Dipisahkan-LO"
+7;1;03;01;;;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) Penyertaan atas
+Modal pada BUMN-LO"
+7;1;03;01;01;;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) atas Penyertaan
+Modal pada BUMN-LO"
+7;1;03;01;01;001;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) Penyertaan atas
+Modal pada BUMN …-LO"
+7;1;03;01;01;002;Dst …
+7;1;03;02;;;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) Penyertaan atas
+Modal pada BUMD-LO"
+7;1;03;02;01;;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) Penyertaan atas
+Modal pada BUMD (Lembaga Keuangan)-LO"
+7;1;03;02;01;001;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) Penyertaan atas
+Modal pada BUMD (Lembaga Keuangan) … -LO"
+7;1;03;02;01;002;Dst … -LO
+7;1;03;02;02;;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) Penyertaan atas
+Modal pada BUMD (Aneka Usaha)-LO"
+7;1;03;02;02;001;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) Penyertaan atas
+Modal pada BUMD (Aneka Usaha) …-LO"
+7;1;03;02;02;002;Dst …-LO
+7;1;03;02;03;;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) atas Penyertaan
+Modal pada BUMD (Bidang Air Minum)-LO"
+7;1;03;02;03;001;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) atas Penyertaan
+Modal pada BUMD (Bidang Air Minum) …-LO"
+7;1;03;02;03;002;Dst …-LO
+7;1;03;02;04;;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) atas Penyertaan
+Modal pada BUMD (Bidang Limbah)-LO"
+7;1;03;02;04;001;"Bagian Laba yang Dibagikan kepada
+Pemerintah Daerah (Dividen) atas Penyertaan
+Modal pada BUMD (Bidang Limbah) …-LO"
+7;1;03;02;04;002;Dst …-LO
+7;1;03;06;05;;Bagian
+7;1;03;06;05;001;Bagian
+7;1;04;01;;;"Hasil
+LO"
+7;1;04;01;02;007;Hasil
+7;1;04;01;02;008;Hasil Penjualan Alat Laboratorium-LO
+7;1;04;01;02;010;Hasil Penjualan Komputer-LO
+7;1;04;01;02;011;Hasil Penjualan Alat Eksplorasi-LO
+7;1;04;01;02;012;Hasil Penjualan Alat Pengeboran-LO
+7;1;04;01;02;013;"Hasil Penjualan Alat Produksi, Pengolahan, dan
+Pemurnian-LO"
+7;1;04;01;02;014;Hasil Penjualan Alat Bantu Eksplorasi-LO
+7;1;04;01;02;015;Hasil Penjualan Alat Keselamatan Kerja-LO
+7;1;04;01;02;016;Hasil Penjualan Alat Peraga-LO
+7;1;04;01;02;017;Hasil Penjualan Peralatan Proses/Produksi-LO
+7;1;04;01;02;018;Hasil Penjualan Rambu-Rambu-LO
+7;1;04;01;02;019;Hasil Penjualan Peralatan Olahraga-LO
+7;1;04;01;03;;Hasil Penjualan Gedung dan Bangunan-LO
+7;1;04;01;03;001;Hasil Penjualan Bangunan Gedung-LO
+7;1;04;01;03;002;Hasil Penjualan Monumen-LO
+7;1;04;01;03;003;Hasil Penjualan Bangunan Menara-LO
+7;1;04;01;03;004;Hasil Penjualan Tugu Titik Kontrol/Pasti-LO
+7;1;04;01;04;;Hasil Penjualan Jalan, Jaringan, dan Irigasi-LO
+7;1;04;01;04;001;Hasil Penjualan Jalan dan Jembatan-LO
+7;1;04;01;04;002;Hasil Penjualan Bangunan Air-LO
+7;1;04;01;04;003;Hasil Penjualan Instalasi-LO
+7;1;04;01;04;004;Hasil Penjualan Jaringan-LO
+7;1;04;01;05;;Hasil Penjualan Aset Tetap Lainnya-LO
+7;1;04;01;05;001;Hasil Penjualan Bahan Perpustakaan-LO
+7;1;04;01;05;002;"Hasil Penjualan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-LO"
+7;1;04;01;06;002;Hasil
+7;1;04;02;;;"Hasil
+Tidak"
+7;1;04;02;02;;Hasil
+7;1;04;02;02;003;"Hasil Selisih Lebih Tukar Menukar Alat Bengkel
+dan Alat Ukur-LO"
+7;1;04;02;02;004;"Hasil Selisih Lebih Tukar Menukar Alat
+Pertanian-LO"
+7;1;04;02;02;005;"Hasil Selisih Lebih Tukar Menukar Alat Kantor
+dan Rumah Tangga-LO"
+7;1;04;02;02;006;"Hasil Selisih Lebih Tukar Menukar Alat Studio,
+Komunikasi, dan Pemancar-LO"
+7;1;04;02;02;007;Hasil
+7;1;04;02;02;010;"Hasil
+LO"
+7;1;04;02;02;012;"Hasil Selisih Lebih Tukar Menukar Alat
+Pengeboran-LO"
+7;1;04;02;02;013;"Hasil Selisih Lebih Tukar Menukar Alat
+Produksi, Pengolahan, dan Pemurnian-LO"
+7;1;04;02;02;014;"Hasil Selisih Lebih Tukar Menukar Alat Bantu
+Eksplorasi-LO"
+7;1;04;02;02;015;"Hasil Selisih Lebih Tukar Menukar Alat
+Keselamatan Kerja-LO"
+7;1;04;02;02;016;Hasil Selisih Lebih Tukar Menukar Alat Peraga-LO
+7;1;04;02;02;017;"Hasil Selisih Lebih Tukar Menukar Peralatan
+Proses/Produksi-LO"
+7;1;04;02;02;018;Hasil Selisih Lebih Tukar Menukar Rambu-Rambu-LO
+7;1;04;02;02;019;"Hasil Selisih Lebih Tukar Menukar Peralatan
+Olahraga-LO"
+7;1;04;02;03;002;"Hasil
+LO"
+7;1;04;02;04;;"Hasil Selisih Lebih Tukar Menukar Jalan,
+Jaringan, dan Irigasi-LO"
+7;1;04;02;04;001;"Hasil Selisih Lebih Tukar Menukar Jalan dan
+Jembatan-LO"
+7;1;04;02;04;002;"Hasil Selisih Lebih Tukar Menukar Bangunan
+Air-LO"
+7;1;04;02;04;003;Hasil Selisih Lebih Tukar Menukar Instalasi-LO
+7;1;04;02;04;004;Hasil Selisih Lebih Tukar Menukar Jaringan-LO
+7;1;04;02;05;;"Hasil Selisih Lebih Tukar Menukar Aset Tetap
+Lainnya-LO"
+7;1;04;02;05;001;"Hasil Selisih Lebih Tukar Menukar Bahan
+Perpustakaan-LO"
+7;1;04;02;05;002;"Hasil Selisih Lebih Tukar Menukar Barang
+Bercorak Kesenian/Kebudayaan/Olahraga-LO"
+7;1;04;02;05;003;Hasil Selisih Lebih Tukar Menukar Hewan-LO
+7;1;04;02;05;004;"Hasil Selisih Lebih Tukar Menukar Biota
+Perairan-LO"
+7;1;04;02;05;005;"Hasil
+LO"
+7;1;04;02;05;006;Hasil
+7;1;04;02;06;001;Hasil
+7;1;04;02;06;002;"Hasil Selisih Lebih Tukar Menukar Aset
+Lainnya-Aset Lain-Lain-LO"
+7;1;04;03;;;"Hasil Pemanfaatan BMD yang Tidak
+Dipisahkan-LO"
+7;1;04;03;01;;Hasil Sewa BMD-LO
+7;1;04;03;01;001;Hasil Sewa BMD-LO
+7;1;04;03;02;;Hasil Kerja Sama Pemanfaatan BMD-LO
+7;1;04;03;02;001;Hasil Kerjasama Pemanfaatan BMD-LO
+7;1;04;03;03;;Hasil dari Bangun Guna Serah-LO
+7;1;04;03;03;001;Hasil dari Bangun Guna Serah-LO
+7;1;04;03;04;;Hasil dari Bangun Serah Guna-LO
+7;1;04;03;04;001;Hasil dari Bangun Serah Guna-LO
+7;1;04;03;05;;"Hasil dari Kerja Sama Penyediaan
+Infrastruktur- LO"
+7;1;04;03;05;001;"Hasil dari Kerja Sama Penyediaan
+Infrastruktur-LO"
+7;1;04;04;;;Hasil Kerja Sama Daerah-LO
+7;1;04;04;01;;Hasil Kerja Sama Daerah-LO
+7;1;04;04;01;001;Hasil Kerja Sama Daerah-LO
+7;1;04;05;;;Jasa Giro-LO
+7;1;04;05;01;;Jasa Giro pada Kas Daerah-LO
+7;1;04;05;01;001;Jasa Giro pada Kas Daerah-LO
+7;1;04;05;02;;Jasa Giro pada Kas di Bendahara-LO
+7;1;04;05;02;001;Jasa Giro pada Kas di Bendahara-LO
+7;1;04;05;03;;Jasa Giro pada Rekening Dana Cadangan-LO
+7;1;04;05;03;001;Jasa Giro pada Rekening Dana Cadangan …-LO
+7;1;04;05;03;002;Dst …
+7;1;04;05;04;;Jasa Giro pada BLUD-LO
+7;1;04;05;04;001;Jasa Giro pada BLUD …-LO
+7;1;04;05;04;002;Dst …
+7;1;04;05;05;;Jasa Giro pada Rekening Dana BOS-LO
+7;1;04;05;05;001;Jasa Giro pada Rekening Dana BOS …-LO
+7;1;04;05;05;002;Dst …
+7;1;04;05;06;;Jasa Giro Dana Kapitasi pada FKTP-LO
+7;1;04;05;06;001;Jasa Giro Dana Kapitasi pada FKTP …-LO
+7;1;04;05;06;002;Dst …
+7;1;04;06;;;Hasil Pengelolaan Dana Bergulir-LO
+7;1;04;06;01;;Hasil Pengelolaan Dana Bergulir-LO
+7;1;04;06;01;001;Hasil Pengelolaan Dana Bergulir-LO
+7;1;04;07;;;Pendapatan Bunga-LO
+7;1;04;07;01;;"Pendapatan Bunga atas Penempatan Uang
+Pemerintah Daerah-LO"
+7;1;04;07;01;001;"Pendapatan Bunga atas Penempatan Uang
+Pemerintah Daerah-LO"
+7;1;04;08;;;"Penerimaan atas Tuntutan Ganti Kerugian
+Keuangan Daerah-LO"
+7;1;04;08;01;;"Tuntutan Ganti Kerugian Daerah terhadap
+Bendahara-LO"
+7;1;04;08;01;001;"Tuntutan Ganti Kerugian Daerah terhadap
+Bendahara-LO"
+7;1;04;11;;;"Pendapatan
+Pelaksanaan"
+7;1;04;11;01;;"Pendapatan
+Pelaksanaan"
+7;1;04;11;01;001;"Pendapatan
+Pelaksanaan"
+7;1;04;12;;;Pendapatan Denda Pajak Daerah-LO
+7;1;04;12;01;;"Pendapatan
+(PKB)-LO"
+7;1;04;12;01;001;"Pendapatan
+Sedan-LO"
+7;1;04;12;01;002;"Pendapatan
+Jeep-LO"
+7;1;04;12;01;003;"Pendapatan
+Minibus-LO"
+7;1;04;12;01;004;Pendapatan Denda PKB-Mobil Bus-Microbus-LO
+7;1;04;12;01;005;Pendapatan Denda PKB-Mobil Bus-Bus-LO
+7;1;04;12;01;006;"Pendapatan
+Pick Up-LO"
+7;1;04;12;01;007;Pendapatan
+7;1;04;12;01;008;"Pendapatan
+Truck-LO"
+7;1;04;12;02;001;"Pendapatan
+Sedan-LO"
+7;1;04;12;02;002;"Pendapatan
+Jeep-LO"
+7;1;04;12;02;003;"Pendapatan
+Minibus-LO"
+7;1;04;12;02;004;"Pendapatan
+Microbus-LO"
+7;1;04;12;02;006;Pendapatan
+7;1;04;12;02;007;Pendapatan
+7;1;04;12;02;008;"Pendapatan Denda BBNKB-Mobil
+Barang/Beban-Truck-LO"
+7;1;04;12;02;009;"Pendapatan Denda BBNKB-Mobil
+Barang/Beban-Blind Van-LO"
+7;1;04;12;02;010;Pendapatan Denda BBNKB-Sepeda Motor-Sepeda Motor Roda Dua-LO
+7;1;04;12;02;011;Pendapatan Denda BBNKB-Sepeda Motor-Sepeda Motor Roda Tiga-LO
+7;1;04;12;02;012;"Pendapatan Denda BBNKB-Kendaraan
+Bermotor yang Dioperasikan di Air-LO"
+7;1;04;12;02;013;"Pendapatan Denda BBNKB-Kendaraan Khusus
+Alat Berat-LO"
+7;1;04;12;04;001;Pendapatan Denda Pajak Air Permukaan-LO
+7;1;04;12;05;;Pendapatan Denda Pajak Rokok-LO
+7;1;04;12;05;001;Pendapatan Denda Pajak Rokok-LO
+7;1;04;12;06;;Pendapatan Denda Pajak Hotel-LO
+7;1;04;12;06;001;Pendapatan Denda Pajak Hotel-LO
+7;1;04;12;06;002;Pendapatan Denda Pajak Motel-LO
+7;1;04;12;06;003;Pendapatan Denda Pajak Losmen-LO
+7;1;04;12;06;004;Pendapatan Denda Pajak Gubuk Pariwisata-LO
+7;1;04;12;06;005;Pendapatan Denda Pajak Wisma Pariwisata-LO
+7;1;04;12;06;006;Pendapatan Denda Pajak Pesanggrahan-LO
+7;1;04;12;06;007;Pendapatan
+7;1;04;12;06;008;Pendapatan
+7;1;04;12;07;;Pendapatan Denda Pajak Restoran-LO
+7;1;04;12;07;001;"Pendapatan
+Sejenisnya-LO"
+7;1;04;12;07;002;Pendapatan
+7;1;04;12;07;003;"Pendapatan
+Sejenisnya-LO"
+7;1;04;12;07;004;Pendapatan
+7;1;04;12;07;005;"Pendapatan
+Sejenisnya-LO"
+7;1;04;12;07;006;"Pendapatan
+LO"
+7;1;04;12;07;007;Pendapatan
+7;1;04;12;08;;Pendapatan Denda Pajak Hiburan-LO
+7;1;04;12;08;001;Pendapatan Denda Pajak Tontonan Film-LO
+7;1;04;12;08;002;"Pendapatan
+Musik/Tari/"
+7;1;04;12;08;003;Pendapatan
+7;1;04;12;09;009;"Pendapatan
+LO"
+7;1;04;12;10;001;Pendapatan
+7;1;04;12;10;002;Pendapatan
+7;1;04;12;11;;Pendapatan Denda Pajak Parkir-LO
+7;1;04;12;11;001;Pendapatan Denda Pajak Parkir-LO
+7;1;04;12;12;;Pendapatan Denda Pajak Air Tanah-LO
+7;1;04;12;12;001;Pendapatan Denda Pajak Air Tanah-LO
+7;1;04;12;13;;Pendapatan Denda Pajak Sarang Burung Walet-LO
+7;1;04;12;13;001;Pendapatan Denda Pajak Sarang Burung Walet-LO
+7;1;04;12;14;;"Pendapatan Denda Pajak Mineral Bukan Logam
+dan Batuan-LO"
+7;1;04;12;14;001;Pendapatan Denda Pajak Asbes-LO
+7;1;04;12;14;002;Pendapatan Denda Pajak Batu Tulis-LO
+7;1;04;12;14;010;Pendapatan Denda Pajak Garam Batu (Halite)-LO
+7;1;04;12;14;011;Pendapatan Denda Pajak Grafit-LO
+7;1;04;12;14;012;Pendapatan Denda Pajak Granit/Andesit-LO
+7;1;04;12;14;013;Pendapatan Denda Pajak Gips-LO
+7;1;04;12;14;014;Pendapatan Denda Pajak Kalsit-LO
+7;1;04;12;14;015;Pendapatan Denda Pajak Kaolin-LO
+7;1;04;12;14;016;Pendapatan Denda Pajak Leusit-LO
+7;1;04;12;14;017;Pendapatan Denda Pajak Magnesit-LO
+7;1;04;12;14;018;Pendapatan Denda Pajak Mika-LO
+7;1;04;12;14;019;Pendapatan Denda Pajak Marmer-LO
+7;1;04;12;14;020;Pendapatan Denda Pajak Nitrat-LO
+7;1;04;12;14;021;Pendapatan Denda Pajak Opsidien-LO
+7;1;04;12;14;022;Pendapatan Denda Pajak Oker-LO
+7;1;04;12;14;023;Pendapatan Denda Pajak Pasir dan Kerikil-LO
+7;1;04;12;14;024;Pendapatan Denda Pajak Pasir Kuarsa-LO
+7;1;04;12;14;032;Pendapatan Denda Pajak Tras-LO
+7;1;04;12;14;033;Pendapatan Denda Pajak Yarosif-LO
+7;1;04;12;14;034;Pendapatan Denda Pajak Zeolit-LO
+7;1;04;12;14;035;Pendapatan Denda Pajak Basal-LO
+7;1;04;12;14;036;Pendapatan Denda Pajak Trakit-LO
+7;1;04;12;14;037;"Pendapatan Denda Pajak Mineral bukan Logam
+dan Batuan Lainnya-LO"
+7;1;04;12;15;;"Pendapatan Denda Pajak Bumi dan Bangunan
+Perdesaan dan Perkotaan (PBBP2)-LO"
+7;1;04;12;15;001;Pendapatan Denda PBBP2-LO
+7;1;04;13;01;013;Pendapatan
+7;1;04;15;01;;Pendapatan
+7;1;04;15;01;001;Pendapatan
+7;1;04;15;02;;Pendapatan
+7;1;04;15;02;001;Pendapatan
+7;1;04;15;03;;Pendapatan
+7;1;04;15;03;001;Pendapatan
+7;1;04;15;04;;Pendapatan
+7;1;04;15;04;001;Pendapatan
+7;1;04;15;05;;Pendapatan
+7;1;04;16;01;002;Dst …
+7;1;04;17;;;"Pendapatan Denda Pemanfaatan BMD yang
+Tidak Dipisahkan-LO"
+7;1;04;17;01;;Pendapatan Denda Pengakhiran Sewa BMD-LO
+7;1;04;17;01;001;Pendapatan Denda Pengakhiran Sewa BMD-LO
+7;1;04;17;02;;"Pendapatan Denda Hasil dari Kerja Sama
+Penyediaan Infrastruktur-LO"
+7;1;04;17;02;001;"Pendapatan Denda Hasil dari Kerjasama
+Penyediaan Infrastruktur-LO"
+7;1;04;18;;;"Pendapatan Dana Kapitasi Jaminan Kesehatan
+Nasional (JKN) pada Fasilitas Kesehatan
+Tingkat Pertama (FKTP)-LO"
+7;1;04;18;01;;Pendapatan Dana Kapitasi JKN pada FKTP-LO
+7;1;04;18;01;001;Pendapatan Dana Kapitasi JKN pada FKTP-LO
+7;2;01;01;01;;"Dana
+LO"
+7;2;01;01;01;002;DBH PPh Pasal 25 dan Pasal 29
+7;2;01;01;01;003;DBH PPh Pasal 21-LO
+7;2;01;01;01;004;DBH CHT-LO
+7;2;01;01;01;005;DBH SDA Minyak Bumi-LO
+7;2;01;01;01;006;DBH SDA Gas Bumi-LO
+7;2;01;01;01;007;DBH SDA Mineral dan Batubara-Landrent-LO
+7;2;01;01;01;008;DBH SDA Mineral dan Batubara-Royalty-LO
+7;2;01;01;01;009;DBH SDA Kehutanan-PSDH-LO
+7;2;01;01;01;010;DBH SDA Kehutanan-IIUPH-LO
+7;2;01;01;01;011;DBH SDA Kehutanan–DR-LO
+7;2;01;01;01;012;DBH SDA Perikanan-LO
+7;2;01;01;01;013;DBH SDA Panas Bumi-LO
+7;2;01;01;02;001;DAU-LO
+7;2;01;01;03;;"Dana
+(DAK)"
+7;2;01;01;03;004;DAK Fisik-Bidang Pendidikan-Reguler-SDLB/SMPLB/SMALB-LO
+7;2;01;01;03;005;DAK Fisik–Bidang Pendidikan-Reguler-SKB-LO
+7;2;01;01;03;006;DAK Fisik-Bidang Pendidikan-Reguler-Perpustakaan Daerah-LO
+7;2;01;01;03;007;DAK Fisik-Bidang Pendidikan-Reguler-Olahraga-LO
+7;2;01;01;03;008;DAK Fisik-Bidang Air Minum-Reguler-LO
+7;2;01;01;03;009;DAK Fisik-Bidang Sanitasi-Reguler-LO
+7;2;01;01;03;010;"DAK Fisik-Bidang Perumahan dan
+Permukiman-Reguler-LO"
+7;2;01;01;03;011;DAK Fisik-Bidang Jalan-Reguler-LO
+7;2;01;01;03;012;DAK Fisik-Bidang Kesehatan-Reguler-Pelayanan Kesehatan Dasar-LO
+7;2;01;01;03;013;DAK Fisik-Bidang Kesehatan-Reguler-Pelayanan Kesehatan Rujukan-LO
+7;2;01;01;03;014;"DAK Fisik-Bidang Kesehatan-Reguler-Pelayanan Kefarmasian dan Perbekalan
+Kesehatan-LO"
+7;2;01;01;03;015;DAK Fisik-Bidang Kesehatan-Reguler-KB-LO
+7;2;01;01;03;016;DAK Fisik–Bidang Pertanian-Reguler-LO
+7;2;01;01;03;017;DAK Fisik-Bidang Kelautan dan Perikanan-Reguler-LO
+7;2;01;01;03;018;DAK Fisik-Bidang Pariwisata-Reguler-LO
+7;2;01;01;03;019;DAK Fisik-Bidang Industri Kecil dan Menengah-Reguler-LO
+7;2;01;01;03;020;DAK Fisik–Bidang Pendidikan-Penugasan-SMK-LO
+7;2;01;01;03;021;DAK Fisik-Bidang Kesehatan-Penugasan-Peningkatan Pelayanan Rujukan-LO
+7;2;01;01;03;022;DAK Fisik-Bidang Kesehatan-Penugasan-Penurunan Stunting-LO
+7;2;01;01;03;023;DAK Fisik-Bidang Kesehatan-Penugasan-Pengendalian Penyakit-LO
+7;2;01;01;03;024;"DAK Fisik-Bidang Kesehatan-Penugasan–Balai
+Pelatihan Kesehatan-LO"
+7;2;01;01;03;025;DAK Fisik-Bidang Air Minum-Penugasan-LO
+7;2;01;01;03;026;DAK Fisik-Bidang Pariwisata-Penugasan-LO
+7;2;01;01;03;027;DAK Fisik-Bidang Sanitasi-Penugasan-LO
+7;2;01;01;03;028;DAK Fisik-Bidang Jalan-Penugasan-LO
+7;2;01;01;03;029;DAK Fisik-Bidang Pasar-Penugasan-LO
+7;2;01;01;03;030;DAK Fisik-Bidang Irigasi-Penugasan-LO
+7;2;01;01;03;031;"DAK Fisik-Bidang Lingkungan Hidup dan
+Kehutanan-Penugasan-Lingkungan Hidup-LO"
+7;2;01;01;03;032;"DAK Fisik-Bidang Lingkungan Hidup dan
+Kehutanan-Penugasan-Kehutanan-LO"
+7;2;01;01;03;033;DAK Fisik-Bidang Kesehatan-Afirmasi-Penguatan Puskesmas-DTPK-LO
+7;2;01;01;03;034;"DAK Fisik-Bidang Kesehatan-Afirmasi-Penguatan Pembangunan Sakit Rumah
+Pratama-LO"
+7;2;01;01;03;035;"DAK Fisik-Bidang Perumahan dan
+Permukiman- Afirmasi-LO"
+7;2;01;01;03;036;DAK Fisik-Bidang Air Minum-Afirmasi-LO
+7;2;01;01;03;037;DAK Fisik-Bidang Sanitasi-Afirmasi-LO
+7;2;01;01;03;038;DAK Fisik-Bidang Transportasi-Afirmasi-LO
+7;2;01;01;03;039;DAK Fisik-Bidang Pendidikan-Afirmasi-SD-LO
+7;2;01;01;03;040;DAK Fisik-Bidang Pendidikan-Afirmasi-SMP-LO
+7;2;01;01;03;041;DAK Fisik-Bidang Pendidikan-Afirmasi-SMA-LO
+7;2;01;01;04;;"Dana Transfer Khusus-Dana Alokasi Khusus
+(DAK) Non Fisik-LO"
+7;2;01;01;04;001;DAK Non Fisik-BOS Reguler-LO
+7;2;01;01;04;002;DAK Non Fisik-BOS Afirmasi-LO
+7;2;01;01;04;003;DAK Non Fisik-BOS Kinerja-LO
+7;2;01;01;04;004;DAK Non Fisik-BOP PAUD-LO
+7;2;01;01;04;005;DAK Non Fisik-BOP Pendidikan Kesetaraan-LO
+7;2;01;01;04;006;DAK Non Fisik-TPG PNSD-LO
+7;2;01;01;04;007;DAK Non Fisik-Tamsil Guru PNSD-LO
+7;2;01;01;04;008;DAK Non Fisik-TKG PNSD-LO
+7;2;01;01;04;009;"DAK Non Fisik-BOP Museum dan Taman
+Budaya-Museum-LO"
+7;2;01;01;04;010;DAK
+7;2;01;01;04;013;"DAK
+LO"
+7;2;01;01;04;019;DAK
+7;2;01;02;01;;DID-LO
+7;2;01;02;01;001;DID-LO
+7;2;01;03;02;;"Dana
+LO"
+7;2;01;03;02;001;"Dana
+LO"
+7;2;01;03;04;;Dana
+7;2;01;03;04;01;Dana
+7;2;01;03;05;;"Dana Tambahan Infrastruktur dalam rangka
+Otonomi Khusus Provinsi Papua Barat-LO"
+7;2;01;03;05;001;"Dana Tambahan Infrastruktur dalam rangka
+Otonomi Khusus Provinsi Papua Barat-LO"
+7;2;01;04;;;Dana Keistimewaan-LO
+7;2;01;04;01;;"Dana Keistimewaan Daerah Istimewa
+Yogyakarta-LO"
+7;2;01;04;01;001;"Dana Keistimewaan Daerah Istimewa
+Yogyakarta-LO"
+7;2;01;05;;;Dana Desa-LO
+7;2;01;05;01;;Dana Desa-LO
+7;2;01;05;01;001;Dana Desa-LO
+7;2;02;02;03;;"Bantuan Keuangan Umum dari Pemerintah
+Kabupaten/Kota"
+7;2;02;02;03;001;"Bantuan Keuangan Umum dari Pemerintah
+Kabupaten/Kota …"
+7;2;02;02;03;002;Dst …
+7;2;02;02;04;;"Bantuan Keuangan Khusus dari Pemerintah
+Kabupaten/Kota"
+7;2;02;02;04;001;"Bantuan Keuangan Khusus dari Pemerintah
+Kabupaten/Kota …"
+7;2;02;02;04;002;Dst …
+7;3;;;;;LAIN-LAIN PENDAPATAN DAERAH YANG SAH-LO
+7;3;01;;;;Pendapatan Hibah-LO
+7;3;01;01;01;002;Dst …
+7;3;01;02;01;002;Dst …
+7;3;01;03;;;"Pendapatan Hibah dari Kelompok
+Masyarakat/Perorangan Dalam Negeri-LO"
+7;3;01;03;01;;"Pendapatan Hibah dari Kelompok
+Masyarakat/Perorangan Dalam Negeri-LO"
+7;3;01;03;01;001;"Pendapatan Hibah dari Kelompok
+Masyarakat/Perorangan Dalam Negeri …-LO"
+7;3;01;03;01;002;Dst …
+7;3;01;04;;;"Pendapatan Hibah dari Badan/Lembaga/
+Organisasi Dalam Negeri/Luar Negeri-LO"
+7;3;01;04;01;;"Pendapatan Hibah dari Badan/Lembaga/
+Organisasi Dalam Negeri-LO"
+7;3;01;04;01;001;"Pendapatan Hibah dari Badan/Lembaga/
+Organisasi Dalam Negeri …-LO"
+7;3;01;04;01;002;Dst …
+7;3;01;04;02;;"Pendapatan Hibah dari Badan/Lembaga/
+Organisasi Luar Negeri-LO"
+7;3;01;04;02;001;"Pendapatan Hibah dari Badan/Lembaga/
+Organisasi Luar Negeri …-LO"
+7;3;01;04;02;002;Dst …
+7;3;01;04;03;;"Pendapatan Hibah dari Lembaga/Organisasi
+Swasta Dalam Negeri-LO"
+7;3;01;04;03;001;"Pendapatan Hibah dari Lembaga/Organisasi
+Swasta Dalam Negeri …-LO"
+7;3;01;04;03;002;Dst …
+7;3;01;04;04;002;Dst …
+7;3;01;05;01;002;Dst …
+7;3;02;;;;Dana Darurat-LO
+7;3;02;01;;;Dana Darurat-LO
+7;3;02;01;01;;Dana Darurat-LO
+7;3;02;01;01;001;Dana Darurat pada Tahap Pasca Bencana-LO
+7;3;03;;;;"Lain-lain Pendapatan Sesuai dengan Ketentuan
+Peraturan Perundang-Undangan-LO"
+7;3;03;01;;;Lain-lain Pendapatan-LO
+7;3;03;01;01;;Pendapatan Hibah Dana BOS-LO
+7;3;03;01;01;001;Pendapatan Hibah Dana BOS-LO
+7;3;03;01;02;;Pendapatan atas Pengembalian Hibah-LO
+7;3;03;01;02;001;"Pendapatan atas Pengembalian Hibah pada
+Pemerintah-LO"
+7;4;01;;;;"Surplus Penjualan/Pertukaran/Pelepasan Aset
+Non Lancar-LO"
+7;4;01;01;;;"Surplus Penjualan BMD yang Tidak
+Dipisahkan-LO"
+7;4;01;01;01;;Surplus Penjualan Tanah–LO
+7;4;01;01;01;001;Surplus Penjualan Tanah-LO
+7;4;01;01;02;;Surplus Penjualan Peralatan dan Mesin-LO
+7;4;01;01;02;001;Surplus Penjualan Alat Besar-LO
+7;4;01;01;02;002;Surplus Penjualan Alat Angkutan-LO
+7;4;01;01;02;003;Surplus Penjualan Alat Bengkel dan Alat Ukur-LO
+7;4;01;01;02;004;Surplus Penjualan Alat Pertanian-LO
+7;4;01;01;02;005;"Surplus Penjualan Alat Kantor dan Rumah
+Tangga-LO"
+7;4;01;01;02;006;"Surplus Penjualan Alat Studio, Komunikasi,
+dan Pemancar-LO"
+7;4;01;01;02;007;"Surplus Penjualan Alat Kedokteran dan
+Kesehatan-LO"
+7;4;01;01;02;008;Surplus Penjualan Alat Laboratorium-LO
+7;4;01;01;02;010;Surplus Penjualan Komputer-LO
+7;4;01;01;02;011;Surplus Penjualan Alat Eksplorasi-LO
+7;4;01;01;02;012;Surplus Penjualan Alat Pengeboran-LO
+7;4;01;01;02;013;Surplus
+7;4;01;01;02;017;"Surplus
+LO"
+7;4;01;01;04;004;Surplus Penjualan Jaringan-LO
+7;4;01;01;05;;Surplus Penjualan Aset Tetap Lainnya–LO
+7;4;01;01;05;001;Surplus Penjualan Bahan Perpustakaan-LO
+7;4;01;01;05;002;"Surplus Penjualan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-LO"
+7;4;01;01;05;003;Surplus Penjualan Hewan-LO
+7;4;01;01;05;004;Surplus Penjualan Biota Perairan-LO
+7;4;01;01;05;005;Surplus Penjualan Tanaman-LO
+7;4;01;01;05;006;Surplus Penjualan Barang Koleksi Non Budaya-
+7;4;01;02;02;;"Surplus
+LO"
+7;4;01;02;02;005;Surplus
+7;4;01;02;02;006;Surplus
+7;4;01;02;02;007;"Surplus Tukar Menukar Alat Kedokteran dan
+Kesehatan-LO"
+7;4;01;02;02;008;Surplus Tukar Menukar Alat Laboratorium-LO
+7;4;01;02;02;010;Surplus Tukar Menukar Komputer-LO
+7;4;01;02;02;011;Surplus Tukar Menukar Alat Eksplorasi-LO
+7;4;01;02;02;012;Surplus Tukar Menukar Alat Pengeboran-LO
+7;4;01;02;02;013;"Surplus Tukar Menukar Alat Produksi,
+Pengolahan, dan Pemurnian-LO"
+7;4;01;02;02;015;"Surplus
+Kerja-LO"
+7;4;01;02;04;001;"Surplus
+LO"
+7;4;01;02;05;001;"Surplus
+LO"
+7;4;01;02;05;002;"Surplus
+Kesenian"
+7;4;01;02;06;001;Surplus
+7;4;01;03;;;"Surplus
+LO"
+7;4;01;03;01;;Surplus
+7;4;01;03;01;001;"Surplus Pelepasan Investasi kepada Badan
+Usaha Milik Negara-LO"
+7;4;01;03;01;002;"Surplus Pelepasan Investasi kepada Badan
+Usaha Milik Daerah-LO"
+7;4;01;03;01;003;Surplus Pelepasan Investasi dalam Obligasi-LO
+7;4;01;03;01;004;"Surplus Pelepasan Investasi dalam Proyek
+Pembangunan-LO"
+7;4;01;03;01;005;Surplus Pelepasan Dana Bergulir-LO
+7;4;01;03;02;;"Surplus Pelepasan Investasi Jangka Panjang
+Permanen-LO"
+7;4;01;03;02;001;Surplus Pelepasan Penyertaan Modal-LO
+7;4;02;;;;"Surplus Penyelesaian Kewajiban Jangka
+Panjang-LO"
+7;4;02;01;;;"Surplus Penyelesaian Utang kepada Pemerintah
+Pusat-LO"
+7;4;02;01;01;;"Surplus Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Menengah-LO"
+7;4;02;01;01;001;"Surplus Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Menengah …-LO"
+7;4;02;01;01;002;Dst …
+7;4;02;01;02;;"Surplus Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang-LO"
+7;4;02;01;02;001;"Surplus Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang …-LO"
+7;4;02;01;02;002;Dst …
+7;4;02;01;03;;"Surplus Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Luar Negeri-Jangka
+Menengah-LO"
+7;4;02;01;03;001;"Surplus Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Luar Negeri-Jangka
+Menengah …-LO"
+7;4;02;01;03;002;Dst …
+7;4;02;01;04;;"Surplus Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Luar Negeri-Jangka
+Panjang-LO"
+7;4;02;01;04;001;"Surplus Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Luar Negeri-Jangka
+Panjang …-LO"
+7;4;02;01;04;002;Dst …
+7;4;02;01;06;002;"Surplus Penyelesaian Utang kepada Pemerintah
+Pusat-Sumber Lainnya sesuai dengan
+Ketentuan Peraturan Perundang-Undangan-Jangka Panjang …-LO"
+7;4;02;02;;;"Surplus Penyelesaian Utang kepada Lembaga
+Keuangan Bank (LKB)-LO"
+7;4;02;02;01;;Surplus Penyelesaian Utang kepada LKB-BUMN-Jangka Menengah-LO
+7;4;02;02;01;001;Surplus Penyelesaian Utang kepada LKB-BUMN-Jangka Menengah …-LO
+7;4;02;02;01;002;Dst …
+7;4;02;02;02;;Surplus Penyelesaian Utang kepada LKB-BUMN-Jangka Panjang-LO
+7;4;02;02;02;001;Surplus Penyelesaian Utang kepada LKB-BUMN-Jangka Panjang …-LO
+7;4;02;02;02;002;Dst …
+7;4;02;02;03;;Surplus Penyelesaian Utang kepada LKB-BUMD-Jangka Menengah-LO
+7;4;02;02;03;001;Surplus Penyelesaian Utang kepada LKB-BUMD-Jangka Menengah …-LO
+7;4;02;02;03;002;Dst …
+7;4;02;02;04;;Surplus Penyelesaian Utang kepada LKB-BUMD-Jangka Panjang-LO
+7;4;02;02;04;001;Surplus Penyelesaian Utang kepada LKB-BUMD-Jangka Panjang …-LO
+7;4;02;02;04;002;Dst …
+7;4;02;02;05;;Surplus Penyelesaian Utang kepada LKB-Swasta-Jangka Menengah-LO
+7;4;02;02;05;001;Surplus Penyelesaian Utang kepada LKB-Swasta-Jangka Menengah …-LO
+7;4;02;02;05;002;Dst …
+7;4;02;02;06;;Surplus Penyelesaian Utang kepada LKB-Swasta-Jangka Panjang-LO
+7;4;02;02;06;001;Surplus Penyelesaian Utang kepada LKB-Swasta-Jangka Panjang …-LO
+7;4;02;02;06;002;Dst …
+7;4;02;03;;;"Surplus Penyelesaian Utang kepada Lembaga
+Keuangan Bukan Bank (LKBB)-LO"
+7;4;02;03;01;;Surplus
+7;4;02;03;01;001;Surplus
+7;4;02;03;01;002;Dst …
+7;4;02;03;02;;Surplus
+7;4;02;03;02;001;Surplus
+7;4;02;03;02;002;Dst …
+7;4;02;03;03;;Surplus
+7;4;02;03;03;001;Surplus
+7;4;02;03;03;002;Dst …
+7;4;02;03;04;;Surplus Penyelesaian Utang kepada LKBB-BUMD-Jangka Panjang-LO
+7;4;02;03;04;001;Surplus Penyelesaian Utang kepada LKBB-BUMD-Jangka Panjang …-LO
+7;4;02;03;04;002;Dst …
+7;4;02;03;05;;Surplus Penyelesaian Utang kepada LKBB-Swasta-Jangka Menengah-LO
+7;4;02;03;05;001;Surplus Penyelesaian Utang kepada LKBB-Swasta-Jangka Menengah …-LO
+7;4;02;03;05;002;Dst …
+7;4;02;03;06;;Surplus Penyelesaian Utang kepada LKBB-Swasta-Jangka Panjang-LO
+7;4;02;03;06;001;Surplus Penyelesaian Utang kepada LKBB-Swasta-Jangka Panjang …-LO
+7;4;02;03;06;002;Dst …
+7;4;02;04;;;"Surplus Penyelesaian Premium (Diskonto)
+Obligasi-LO"
+7;4;02;04;01;;"Surplus Penyelesaian Premium (Diskonto)
+Obligasi-LO"
+7;4;02;04;01;001;"Surplus Penyelesaian Premium (Diskonto)
+Obligasi –LO"
+8;;;;;;BEBAN DAERAH
+8;1;;;;;BEBAN OPERASI
+8;1;01;;;;Beban Pegawai
+8;1;01;01;03;002;Beban Tunjangan Jabatan PPPK
+8;1;01;01;04;;Beban Tunjangan Fungsional ASN
+8;1;01;01;04;001;Beban Tunjangan Fungsional PNS
+8;1;01;01;04;002;Beban Tunjangan Fungsional PPPK
+8;1;01;01;05;;Beban Tunjangan Fungsional Umum ASN
+8;1;01;01;05;001;Beban Tunjangan Fungsional Umum PNS
+8;1;01;01;05;002;Beban Tunjangan Fungsional Umum PPPK
+8;1;01;01;06;;Beban Tunjangan Beras ASN
+8;1;01;01;06;001;Beban Tunjangan Beras PNS
+8;1;01;01;07;002;"Beban
+PPPK"
+8;1;01;02;01;;"Beban
+Beban"
+8;1;01;02;01;001;"Beban
+Beban"
+8;1;01;02;01;002;"Beban
+Beban"
+8;1;01;02;02;;Beban
+8;1;01;02;02;001;Beban
+8;1;01;02;02;002;Beban
+8;1;01;02;03;;"Beban
+Kondisi"
+8;1;01;02;03;001;"Beban
+Kondisi"
+8;1;01;02;03;002;"Beban
+Kondisi"
+8;1;01;02;04;;Beban
+8;1;01;02;04;001;Beban
+8;1;01;02;04;002;Beban
+8;1;01;02;05;;"Beban
+Prestasi"
+8;1;01;02;05;001;"Beban
+Prestasi"
+8;1;01;02;05;002;"Beban
+Prestasi"
+8;1;01;03;;;Beban
+8;1;01;03;01;;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Daerah"
+8;1;01;03;01;001;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Kendaraan Bermotor"
+8;1;01;03;01;002;"Beban Insentif bagi ASN atas Pemungutan Bea
+Balik Nama Kendaraan Bermotor"
+8;1;01;03;01;003;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Bahan Bakar Kendaraan Bermotor"
+8;1;01;03;01;004;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Air Permukaan"
+8;1;01;03;01;005;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Rokok"
+8;1;01;03;01;006;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Hotel"
+8;1;01;03;01;007;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Restoran"
+8;1;01;03;01;008;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Hiburan"
+8;1;01;03;01;009;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Reklame"
+8;1;01;03;01;010;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Penerangan Jalan"
+8;1;01;03;01;011;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Parkir"
+8;1;01;03;01;012;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Air Tanah"
+8;1;01;03;01;013;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Sarang Burung Walet"
+8;1;01;03;01;014;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Mineral Bukan Logam dan Batuan"
+8;1;01;03;01;015;"Beban Insentif bagi ASN atas Pemungutan
+Pajak Bumi dan Bangunan Perdesaan dan
+Perkotaan"
+8;1;01;03;01;016;"Beban Insentif bagi ASN atas Pemungutan Bea
+Perolehan Hak Atas Tanah dan Bangunan"
+8;1;01;03;02;;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Daerah"
+8;1;01;03;02;001;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Umum-Pelayanan Kesehatan"
+8;1;01;03;02;002;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Umum -Pelayanan
+Persampahan/ Kebersihan"
+8;1;01;03;02;003;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Umum -Pelayanan Pemakaman
+dan Pengabuan Mayat"
+8;1;01;03;02;004;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Daerah Jasa Umum -Pelayanan
+Parkir di Tepi Jalan Umum"
+8;1;01;03;02;005;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Daerah Jasa Umum-Pelayanan Pasar"
+8;1;01;03;02;006;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Daerah Jasa Umum-Pengujian
+Kendaraan Bermotor"
+8;1;01;03;02;007;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Umum -Pemeriksaan Alat
+Pemadam Kebakaran"
+8;1;01;03;02;008;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Daerah Jasa Umum-Penggantian
+Biaya Cetak Peta"
+8;1;01;03;02;009;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Umum-Penyediaan dan/atau
+Penyedotan Kakus"
+8;1;01;03;02;010;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Umum-Pengolahan Limbah Cair"
+8;1;01;03;02;011;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Umum-Pelayanan Tera/Tera
+Ulang"
+8;1;01;03;02;012;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Umum-Pelayanan Pendidikan"
+8;1;01;03;02;013;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Umum-Pengawasan dan
+Pengendalian Menara Telekomunikasi"
+8;1;01;03;02;014;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha -Pemakaian Kekayaan
+Daerah"
+8;1;01;03;02;015;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha -Pasar Grosir dan/atau
+Pertokoan"
+8;1;01;03;02;016;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha-Penyediaan Tempat
+Pelelangan"
+8;1;01;03;02;017;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha-Terminal"
+8;1;01;03;02;018;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha-Tempat Khusus Parkir"
+8;1;01;03;02;019;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha-Tempat Penginapan/
+Pesanggrahan/Vila"
+8;1;01;03;02;020;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha-Rumah Potong Hewan"
+8;1;01;03;02;021;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha-Pelayanan Kepelabuhan"
+8;1;01;03;02;022;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha-Tempat Rekreasi dan"
+8;1;01;03;02;023;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha-Penyeberangan Air"
+8;1;01;03;02;024;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Jasa Usaha-Penjualan Produksi
+Usaha Daerah"
+8;1;01;03;02;025;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Daerah-Izin Mendirikan Bangunan"
+8;1;01;03;02;026;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Perizinan Tertentu-Izin Tempat
+Penjualan Minuman Beralkohol"
+8;1;01;03;02;027;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Perizinan Tertentu-Izin Trayek untuk
+Menyediakan Pelayanan Angkutan Umum"
+8;1;01;03;02;028;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Perizinan Tertentu-Izin Usaha
+Perikanan"
+8;1;01;03;02;029;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Perizinan Tertentu-Pengendalian Lalu
+Lintas"
+8;1;01;03;02;030;"Beban Insentif bagi ASN atas Pemungutan
+Retribusi Perizinan Tertentu-Perpanjangan Izin
+Mempekerjakan Tenaga Kerja Asing (IMTA)"
+8;1;01;03;03;;Beban Tunjangan Profesi Guru (TPG) PNSD
+8;1;01;03;03;001;Beban TPG PNSD
+8;1;01;03;04;;Beban Tunjangan Khusus Guru (TKG) PNSD
+8;1;01;03;04;001;Beban TKG PNSD
+8;1;01;03;05;;"Beban
+PNSD"
+8;1;01;03;07;;Beban
+8;1;01;03;07;001;Beban
+8;1;01;04;01;001;Beban Uang Representasi DPRD
+8;1;01;04;02;;Beban Tunjangan Keluarga DPRD
+8;1;01;04;02;001;Beban Tunjangan Keluarga DPRD
+8;1;01;04;03;;Beban Tunjangan Beras DPRD
+8;1;01;04;03;001;Beban Tunjangan Beras DPRD
+8;1;01;04;04;;Beban Uang Paket DPRD
+8;1;01;04;04;001;Beban Uang Paket DPRD
+8;1;01;04;05;;Beban Tunjangan Jabatan DPRD
+8;1;01;04;05;001;Beban Tunjangan Jabatan DPRD
+8;1;01;04;06;;Beban Tunjangan Alat Kelengkapan DPRD
+8;1;01;04;06;001;Beban Tunjangan Alat Kelengkapan DPRD
+8;1;01;04;07;;"Beban
+DPRD"
+8;1;01;04;07;001;"Beban
+DPRD"
+8;1;01;04;08;;Beban
+8;1;01;04;08;001;Beban
+8;1;01;04;12;;"Beban Tunjangan Kesejahteraan Pimpinan dan
+Anggota DPRD"
+8;1;01;04;12;001;Beban Jaminan Kesehatan DPRD
+8;1;01;04;12;002;Beban Jaminan Kecelakaan Kerja DPRD
+8;1;01;04;12;003;Beban Jaminan Kematian DPRD
+8;1;01;04;12;004;Beban Tunjangan Perumahan DPRD
+8;1;01;04;13;;Beban Tunjangan Transportasi DPRD
+8;1;01;04;13;001;Beban Tunjangan Transportasi DPRD
+8;1;01;04;14;;Beban Uang Jasa Pengabdian DPRD
+8;1;01;04;14;001;Beban Uang Jasa Pengabdian DPRD
+8;1;01;05;;;Beban Gaji dan Tunjangan KDH/WKDH
+8;1;01;05;01;;Beban Gaji Pokok KDH/WKDH
+8;1;01;05;01;001;Beban Gaji Pokok KDH/WKDH
+8;1;01;05;02;;Beban Tunjangan Keluarga KDH/WKDH
+8;1;01;05;02;001;Beban Tunjangan Keluarga KDH/WKDH
+8;1;01;05;03;;Beban Tunjangan Jabatan KDH/WKDH
+8;1;01;05;03;001;Beban Tunjangan Jabatan KDH/WKDH
+8;1;01;05;04;;Beban Tunjangan Beras KDH/WKDH
+8;1;01;05;04;001;Beban Tunjangan Beras KDH/WKDH
+8;1;01;05;05;;"Beban Tunjangan PPh/Tunjangan Khusus
+KDH/WKDH"
+8;1;01;05;05;001;"Beban Tunjangan PPh/Tunjangan Khusus
+KDH/WKDH"
+8;1;01;05;06;;Beban Pembulatan Gaji KDH/WKDH
+8;1;01;05;06;001;Beban Pembulatan Gaji KDH/WKDH
+8;1;01;05;07;;Beban Iuran Jaminan Kesehatan KDH/WKDH
+8;1;01;05;07;001;Beban Iuran Jaminan Kesehatan KDH/WKDH
+8;1;01;05;08;;"Beban Iuran Jaminan Kecelakaan Kerja
+KDH/WKDH"
+8;1;01;05;08;001;"Beban Iuran Jaminan Kecelakaan Kerja
+KDH/WKDH"
+8;1;01;05;09;;Beban Iuran Jaminan Kematian KDH/WKDH
+8;1;01;05;09;001;Beban Iuran Jaminan Kematian KDH/WKDH
+8;1;01;05;10;;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Daerah"
+8;1;01;05;10;001;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Kendaraan Bermotor"
+8;1;01;05;10;002;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Bea Balik Nama Kendaraan
+Bermotor"
+8;1;01;05;10;003;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Bahan Bakar Kendaraan
+Bermotor"
+8;1;01;05;10;004;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Air Permukaan"
+8;1;01;05;10;005;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Rokok"
+8;1;01;05;10;006;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Hotel"
+8;1;01;05;10;007;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Restoran"
+8;1;01;05;10;008;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Hiburan"
+8;1;01;05;10;009;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Reklame"
+8;1;01;05;10;010;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Penerangan Jalan"
+8;1;01;05;10;011;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Parkir"
+8;1;01;05;10;012;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Air Tanah"
+8;1;01;05;10;013;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Sarang Burung Walet"
+8;1;01;05;10;014;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Mineral Logam dan Bukan
+Batuan"
+8;1;01;05;10;015;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Pajak Bumi dan Bangunan
+Perdesaan dan Perkotaan"
+8;1;01;05;10;016;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Bea Perolehan Hak atas Tanah
+dan Bangunan"
+8;1;01;05;11;;Beban
+8;1;01;05;11;001;Beban
+8;1;01;05;11;002;Beban
+8;1;01;05;11;003;Beban
+8;1;01;05;11;004;Beban
+8;1;01;05;11;005;Beban
+8;1;01;05;11;006;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Umum-Pengujian
+Kendaraan Bermotor"
+8;1;01;05;11;007;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Umum-Pemeriksaan Alat Pemadam Kebakaran"
+8;1;01;05;11;008;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Umum-Penggantian Biaya Cetak Peta"
+8;1;01;05;11;009;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Umum-Penyediaan
+dan/atau Penyedotan Kakus"
+8;1;01;05;11;010;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Umum-Pengolahan
+Limbah Cair"
+8;1;01;05;11;011;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Umum-Pelayanan
+Tera/Tera Ulang"
+8;1;01;05;11;012;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Umum-Pelayanan
+Pendidikan"
+8;1;01;05;11;013;"Insentif bagi atas KDH/WKDH Beban
+Retribusi Umum- Jasa Pemungutan
+Pengawasan dan Pengendalian Menara
+Telekomunikasi"
+8;1;01;05;11;014;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Usaha-Pemakaian
+Kekayaan Daerah"
+8;1;01;05;11;015;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Usaha-Pasar Grosir
+dan/atau Pertokoan"
+8;1;01;05;11;016;"Beban Insentif bagi KDH /WKDH atas
+Pemungutan Retribusi Jasa Usaha-Tempat
+Pelelangan"
+8;1;01;05;11;017;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Usaha-Terminal"
+8;1;01;05;11;018;"Beban Insentif bagi KDH /WKDH atas
+Pemungutan Retribusi Jasa Usaha-Tempat
+Khusus Parkir"
+8;1;01;05;11;019;"Beban Insentif bagi KDH /WKDH atas
+Pemungutan Retribusi Jasa Usaha-Tempat
+Penginapan/Pesanggrahan/Vila"
+8;1;01;05;11;020;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Usaha-Rumah
+Potong Hewan"
+8;1;01;05;11;021;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Usaha-Pelayanan
+Kepelabuhan"
+8;1;01;05;11;022;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Usaha-Tempat
+Rekreasi dan Olahraga"
+8;1;01;05;11;023;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Usaha-Penyeberangan Air"
+8;1;01;05;11;024;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Jasa Usaha-Penjualan
+Produksi Usaha Daerah"
+8;1;01;05;11;025;"Beban Insentif bagi KDH/ WKDH atas
+Pemungutan Retribusi Perizinan Tertentu-Izin
+Mendirikan Bangunan bagi KDH/WKDH"
+8;1;01;05;11;026;"Beban Insentif bagi KDH/ WKDH atas
+Pemungutan Retribusi Perizinan Tertentu-Izin
+Tempat Penjualan Minuman Beralkohol"
+8;1;01;05;11;027;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Perizinan Tertentu-Izin
+Trayek untuk Menyediakan Pelayanan
+Angkutan Umum"
+8;1;01;05;11;028;"Beban Insentif bagi KDH/ WKDH atas
+Pemungutan Retribusi Perizinan Tertentu-Izin
+Usaha Perikanan"
+8;1;01;05;11;029;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Perizinan Tertentu-Pengendalian Lalu Lintas"
+8;1;01;05;11;030;"Beban Insentif bagi KDH/WKDH atas
+Pemungutan Retribusi Perizinan Tertentu-Perpanjangan Izin Mempekerjakan Tenaga
+Kerja Asing (IMTA)"
+8;1;01;06;;;"Beban Penerimaan Lainnya Pimpinan DPRD
+serta KDH/WKDH"
+8;1;01;06;01;;Beban Dana Operasional Pimpinan DPRD
+8;1;01;06;01;001;Beban Dana Operasional Pimpinan DPRD
+8;1;01;06;02;;Beban Dana Operasional KDH/WKDH
+8;1;01;06;02;001;Beban Dana Operasional KDH/WKDH
+8;1;02;;;;Beban Barang dan Jasa
+8;1;02;01;;;Beban Barang
+8;1;02;01;01;004;"Beban
+Lainnya"
+8;1;02;01;01;008;Beban Pengisian Tabung Gas
+8;1;02;01;01;009;Beban Alat Laboratorium
+8;1;02;01;01;010;Beban Alat Rumah Tangga Kantor
+8;1;02;01;01;011;Beban Hadiah Lomba/Penghargaan/Suvenir
+8;1;02;01;01;012;"Beban Alat Tulis Kantor Sarana Teknologi
+Informasi"
+8;1;02;01;01;013;Beban Perkakas Kerja
+8;1;02;01;01;014;Beban Alat Kesehatan Pakai Habis
+8;1;02;01;01;015;Beban Dokumentasi, Dekorasi, dan Publikasi
+8;1;02;01;01;016;Beban Perlengkapan Penerangan Jalan Umum
+8;1;02;01;01;017;Beban Bahan Peraga
+8;1;02;01;01;018;Beban Tong Sampah
+8;1;02;01;01;019;"Beban Barang Pakai Habis Pendidikan dan
+Keterampilan"
+8;1;02;01;01;020;Beban Barang Pakai Habis Kesehatan
+8;1;02;01;01;021;Beban Barang Pakai Habis Kebersihan
+8;1;02;01;01;024;"Beban
+Bencana"
+8;1;02;01;01;028;Beban
+8;1;02;01;01;031;"Beban
+Air"
+8;1;02;01;01;035;Beban Barang Pakai Habis Sandang
+8;1;02;01;01;036;Beban Barang Pakai Habis Pangan
+8;1;02;01;01;037;"Beban Barang Pakai Habis Teknologi Informasi
+Komunikasi"
+8;1;02;01;02;;Beban Bahan/Material
+8;1;02;01;02;001;Beban Bahan Baku Bangunan
+8;1;02;01;02;002;Beban Bahan/Bibit Tanaman
+8;1;02;01;02;003;Beban Bibit Ternak
+8;1;02;01;02;004;Beban Bahan Obat-Obatan
+8;1;02;01;02;011;"Beban
+Khusus"
+8;1;02;01;02;013;Beban Ban Alat-Alat Berat
+8;1;02;01;02;014;Beban Aki Kendaraan Dinas Operasional
+8;1;02;01;02;015;Beban Aki Sepeda Motor Dinas Operasional
+8;1;02;01;02;016;Beban Aki Alat-Alat Berat
+8;1;02;01;02;017;"Beban Suku Cadang Kendaraan Dinas
+Operasional"
+8;1;02;01;02;018;"Beban Suku Cadang Kendaraan Dinas
+Operasional Khusus"
+8;1;02;01;02;019;"Beban Suku Cadang Sepeda Motor Dinas
+Operasional"
+8;1;02;01;02;021;"Beban
+Sungai"
+8;1;02;01;02;023;"Beban
+Khusus"
+8;1;02;01;02;028;Beban
+8;1;02;01;02;029;"Beban
+Khusus"
+8;1;02;01;04;;Beban Makanan dan Minuman
+8;1;02;01;04;001;Beban Makanan dan Minuman Harian Pegawai
+8;1;02;01;04;002;Beban Makanan dan Minuman Rapat
+8;1;02;01;04;003;Beban Makanan dan Minuman Tamu
+8;1;02;01;04;004;"Beban Makanan dan Minuman
+Peserta/Petugas/ Panitia"
+8;1;02;01;04;005;Beban Makanan dan Minuman Lembur
+8;1;02;01;04;006;"Beban Makanan dan Minuman Pemberian
+Makanan Tambahan pada Pos Pelayanan
+Terpadu"
+8;1;02;01;05;;Beban Pakaian Dinas dan Atributnya
+8;1;02;01;05;001;Beban Pakaian Dinas KDH dan WKDH
+8;1;02;01;05;002;Beban Pakaian Sipil Harian (PSH)
+8;1;02;01;05;003;Beban Pakaian Sipil Lengkap (PSL)
+8;1;02;01;05;004;Beban Pakaian Dinas Harian (PDH)
+8;1;02;01;05;005;Beban Pakaian Dinas Lapangan (PDL)
+8;1;02;01;05;006;Beban Pakaian Sipil Resmi (PSR)
+8;1;02;01;06;;Beban Pakaian Kerja
+8;1;02;01;06;001;Beban Pakaian Kerja Lapangan
+8;1;02;01;06;002;Beban Pakaian Kerja Laboratorium
+8;1;02;01;06;003;Beban Pakaian Kerja Bengkel
+8;1;02;01;07;;Beban Pakaian Khusus dan Hari-Hari Tertentu
+8;1;02;01;07;001;Beban Pakaian KORPRI
+8;1;02;01;07;002;Beban Pakaian Adat Daerah
+8;1;02;01;07;003;Beban Pakaian Batik Tradisional
+8;1;02;01;07;004;Beban Pakaian Olahraga
+8;1;02;01;07;005;Beban Pakaian Paskibraka
+8;1;02;01;07;005;Beban Pakaian Jas/Safari
+8;1;02;02;;;Beban Jasa
+8;1;02;02;01;;Beban Jasa Kantor
+8;1;02;02;01;001;"Beban Jasa Penanggungjawab Pengelola
+Keuangan"
+8;1;02;02;01;002;Beban Jasa Pengadaan Barang dan Jasa
+8;1;02;02;01;003;Beban Jasa Perangkat UKPBJ
+8;1;02;02;01;004;"Beban Jasa Pengelolaan BMD yang Tidak
+Menghasilkan Pendapatan"
+8;1;02;02;01;005;Beban Jasa Pengurus/Penyimpan BMD
+8;1;02;02;01;006;"Beban Jasa Tim Pelaksana Kegiatan dan
+Sekretariat Tim Pelaksana Kegiatan"
+8;1;02;02;01;007;"Beban Jasa Pemberi Keterangan Ahli, Saksi
+Ahli dan Beracara"
+8;1;02;02;01;008;Beban Jasa Penyuluh Non ASN
+8;1;02;02;01;009;Beban Jasa Rohaniawan
+8;1;02;02;01;010;"Beban Jasa Narasumber/Moderator/Pembawa
+Acara/ Dirijen/Pembaca Doa"
+8;1;02;02;01;017;"Beban
+Lelang"
+8;1;02;02;01;019;Beban Kawat/Faksimili/Internet/Pos
+8;1;02;02;01;020;Beban Paket/Pengiriman
+8;1;02;02;01;021;Beban Sertifikasi
+8;1;02;02;01;022;Beban Jasa Pelaksanaan Transaksi Keuangan
+8;1;02;02;01;023;"Beban Jasa Administrasi Pemungutan Pajak
+Penerangan Jalan Umum"
+8;1;02;02;01;024;"Beban Jasa Administrasi Pemungutan Pajak
+Bahan Bakar Kendaraan Bermotor"
+8;1;02;02;01;025;Beban Jasa Kebersihan (Cleaning Service)
+8;1;02;02;01;026;Beban Rekening Penerangan Jalan Umum
+8;1;02;02;01;027;Beban Jasa Pengukuran Tanah
+8;1;02;02;01;028;Beban Jasa Jalan/Tol
+8;1;02;02;01;029;"Beban Jasa Pemasangan Instalasi Telepon, Air,
+dan Listrik"
+8;1;02;02;01;030;Beban Penambahan Daya
+8;1;02;02;01;031;Beban Registrasi/Keanggotaan
+8;1;02;02;01;032;Beban Perawatan Pasien Tidak Mampu
+8;1;02;02;01;033;"Beban Penguburan Jenazah Masyarakat Tidak
+Mampu"
+8;1;02;02;01;034;Beban Pembayaran Pajak, Bea dan Perizinan
+8;1;02;02;01;035;Beban Jasa Pemindahan Benda Bersejarah
+8;1;02;02;01;036;Beban Pelayanan Santunan Sosial
+8;1;02;02;01;037;Beban SPP Siswa Kurang Mampu
+8;1;02;02;01;038;Beban Pelayanan Kesehatan Korban Bencana
+8;1;02;02;01;039;Beban Jasa Pengolahan Sampah
+8;1;02;02;01;040;"Beban Jasa Pengambilan/Pengumpulan/
+Pengangkutan Sampah"
+8;1;02;02;01;041;Beban Jasa Analisa Laboratorium
+8;1;02;02;01;042;Beban Jasa Operator Bus Sekolah
+8;1;02;02;01;043;Beban Jasa Pelayanan Pengisian BBG/BBM
+8;1;02;02;01;044;"Beban Jasa Pencucian Pakaian/Alat
+Kesenian/Rumah Tangga"
+8;1;02;02;01;045;Beban Jasa Pengurusan Perkara Hukum
+8;1;02;02;01;046;Beban Jasa Boga
+8;1;02;02;01;047;Beban Jasa Penyedia Tenaga Kerja
+8;1;02;02;01;048;"Beban Jasa Asuransi, Perbankan, dan
+Keuangan"
+8;1;02;02;01;049;"Beban Jasa Layanan Kesehatan, Pendidikan,
+Pengembangan Sumber Daya Manusia, dan
+Kependudukan"
+8;1;02;02;01;050;"Beban Jasa Penerangan, Iklan/Reklame, Film,
+dan Pemotretan"
+8;1;02;02;01;051;"Beban Jasa Pembersihan, Pengendalian Hama,
+dan Fumigasi"
+8;1;02;02;01;052;"Beban Jasa Pengepakan, Pengangkutan,
+Pengurusan, dan Penyampaian Barang"
+8;1;02;02;01;053;Beban Jasa Penjahitan/Konveksi
+8;1;02;02;01;054;Beban Jasa Impor/Ekspor
+8;1;02;02;01;055;Beban Jasa Penulisan dan Penerjemahan
+8;1;02;02;01;056;Beban Jasa Penyewaan
+8;1;02;02;01;057;Beban Jasa Penyelaman
+8;1;02;02;01;058;Beban Jasa Akomodasi
+8;1;02;02;01;059;Beban Jasa Angkutan Penumpang
+8;1;02;02;01;064;"Beban
+Daerah)"
+8;1;02;02;01;065;"Beban
+Daerah)"
+8;1;02;02;01;067;"Beban Jasa Pemeriksaan Penunjang (Khusus
+Pimpinan Daerah)"
+8;1;02;02;01;068;"Beban Jasa Perawatan Kesehatan dan
+Kebugaran (Khusus Pimpinan Daerah)"
+8;1;02;02;01;069;"Beban Perawatan Pasien Jaminan
+Pemeliharaan Kesehatan"
+8;1;02;02;01;070;Beban Pelayanan Keluarga Berencana
+8;1;02;02;01;071;"Beban Jasa Operator dan Petugas Penanganan
+Angkutan Kebersihan"
+8;1;02;02;01;072;Beban Jasa Advokat Bidang Perdata
+8;1;02;02;01;073;Beban Jasa Advokat Bidang TUN
+8;1;02;02;01;074;Beban Jasa Advokat Bidang Pidana
+8;1;02;02;01;075;Beban Jasa Operator Teknisi
+8;1;02;02;01;076;Beban Pengolahan Air Limbah
+8;1;02;02;01;077;"Beban Ganti Rugi kepada Pihak Ketiga Akibat
+Kecelakaan Lalu Lintas"
+8;1;02;02;01;078;Beban Jasa Konversi Aplikasi/Sistem Informasi
+8;1;02;02;01;079;"Beban Jasa Teknologi Informasi dan
+Kehumasan"
+8;1;02;02;01;080;"Beban Jasa Petugas Penunjang Kegiatan
+Kantor /Lapangan melalui Perjanjian/Perikatan"
+8;1;02;02;01;081;Beban Jasa Pemotongan Reklame
+8;1;02;02;01;082;Beban Jasa Operator Kapal Penyeberangan
+8;1;02;02;01;083;Beban Jasa Tiketing
+8;1;02;02;01;084;Beban Jasa Kontribusi Asosiasi
+8;1;02;02;02;;Beban Jasa Asuransi
+8;1;02;02;02;001;Beban Asuransi Kesehatan
+8;1;02;02;02;002;Beban Asuransi Barang Milik Daerah
+8;1;02;02;03;;Beban Sewa Rumah/Gedung/Gudang/Parkir
+8;1;02;02;03;001;Beban Sewa Rumah Jabatan/Rumah Dinas
+8;1;02;02;03;002;Beban Sewa Gedung/Kantor/Tempat
+8;1;02;02;04;;Beban Sewa Sarana Mobilitas
+8;1;02;02;04;001;Beban Sewa Sarana Mobilitas Darat
+8;1;02;02;04;002;Beban Sewa Sarana Mobilitas Air
+8;1;02;02;04;003;Beban Sewa Sarana Mobilitas Udara
+8;1;02;02;05;;Beban Sewa Alat Berat
+8;1;02;02;05;001;Beban Sewa Ekskavator
+8;1;02;02;05;002;Beban Sewa Buldoser
+8;1;02;02;05;003;Beban Sewa Dump Truck
+8;1;02;02;05;004;Beban Sewa Mesin Giling
+8;1;02;02;05;005;Beban Sewa Shovel Loader
+8;1;02;02;05;006;Beban Sewa Tyre Roler
+8;1;02;02;05;007;Beban Sewa Asphalt Finisher
+8;1;02;02;05;008;Beban Sewa Direksi Kit
+8;1;02;02;05;009;Beban Sewa Generator Set
+8;1;02;02;05;010;Beban Sewa Kontainer/Trailer
+8;1;02;02;06;;"Beban
+Kantor"
+8;1;02;02;06;007;"Beban Sewa OS/Hardware/Software/Jaringan
+Komputer dan Lainnya"
+8;1;02;02;06;008;Beban Sewa Sound System
+8;1;02;02;06;009;Beban Sewa Alat Kesenian
+8;1;02;02;06;010;Beban Sewa Alat Olahraga
+8;1;02;02;06;011;Beban Sewa Alat Kerja
+8;1;02;02;06;012;Beban Sewa Level/Panggung
+8;1;02;02;06;013;Beban Sewa Alat/Peraga
+8;1;02;02;07;;Beban Jasa Konsultansi
+8;1;02;02;07;001;Beban Jasa Konsultansi Penelitian
+8;1;02;02;07;002;Beban Jasa Konsultansi Perencanaan
+8;1;02;02;07;003;Beban Jasa Konsultansi Teknologi Informasi
+8;1;02;02;07;004;Beban Jasa Konsultansi Pengawasan
+8;1;02;02;07;005;Beban Jasa Konsultansi Event Organizer
+8;1;02;02;07;006;"Beban Jasa Konsultansi Manajemen/
+Keuangan /SDM"
+8;1;02;02;07;007;"Beban Jasa Konsultansi Hukum/Politik/
+Ekonomi /Sosial/Budaya"
+8;1;02;02;08;;"Beban
+Payment)"
+8;1;02;02;08;001;Beban
+8;1;02;02;08;002;Beban
+8;1;02;02;08;003;"Payment)
+Irigasi"
+8;1;02;02;08;004;Beban
+8;1;02;02;08;005;Beban
+8;1;02;02;08;006;Beban
+8;1;02;02;08;009;Beban
+8;1;02;02;08;010;"Beban Jasa Ketersediaan Layanan (Availibility
+Payment) Infrastruktur Minyak dan Gas Bumi
+dan Energi Terbarukan"
+8;1;02;02;08;011;"Beban Jasa Ketersediaan Layanan (Availibility
+Payment) Infrastruktur Konservasi Energi"
+8;1;02;02;08;012;"Beban Jasa Ketersediaan Layanan (Availibility
+Payment) Infrastruktur Fasilitas Perkotaan"
+8;1;02;02;08;013;"Beban Jasa Ketersediaan Layanan (Availibility
+Payment) Infrastruktur Fasilitas Pendidikan"
+8;1;02;02;08;014;"Beban Jasa Ketersediaan Layanan (Availibility
+Payment) Infrastruktur Fasilitas Sarana dan
+Prasarana Olahraga serta Kesenian"
+8;1;02;02;08;015;"Beban Jasa Ketersediaan Layanan (Availibility
+Payment) Infrastruktur Kawasan"
+8;1;02;02;08;016;"Beban Jasa Ketersediaan Layanan (Availibility
+Payment) Infrastruktur Pariwisata"
+8;1;02;02;08;017;"Beban Jasa Ketersediaan Layanan (Availibility
+Payment) Infrastruktur Kesehatan"
+8;1;02;02;08;018;"Beban Jasa Ketersediaan Layanan (Availibility
+Payment) Infrastruktur Lembaga
+Pemasyarakatan"
+8;1;02;02;08;019;"Beban Jasa Ketersediaan Layanan (Availibility
+Payment) Infrastruktur Perumahan Rakyat"
+8;1;02;02;09;;Beban Beasiswa Pendidikan PNS
+8;1;02;02;09;001;Beban Beasiswa Tugas Belajar S1
+8;1;02;02;09;002;Beban Beasiswa Tugas Belajar S2
+8;1;02;02;09;003;Beban Beasiswa Tugas Belajar S3
+8;1;02;02;10;;"Beban Kursus, Pelatihan, Sosialisasi dan
+Bimbingan Teknis PNS/PPPK"
+8;1;02;02;10;001;Beban Kursus-Kursus Singkat/Pelatihan
+8;1;02;02;10;002;Beban Sosialisasi
+8;1;02;02;10;003;Beban Bimbingan Teknis
+8;1;02;02;10;004;Beban Diklat Kepemimpinan
+8;1;02;02;11;;"Beban Jasa Insentif Pemungutan Pajak Daerah
+bagi Pegawai Non ASN"
+8;1;02;02;11;001;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Kendaraan Bermotor"
+8;1;02;02;11;002;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Bea Balik Nama Kendaraan
+Bermotor"
+8;1;02;02;11;003;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Bahan Bakar Kendaraan
+Bermotor"
+8;1;02;02;11;004;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Air Permukaan"
+8;1;02;02;11;005;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Rokok"
+8;1;02;02;11;006;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Hotel"
+8;1;02;02;11;007;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Restoran"
+8;1;02;02;11;008;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Hiburan"
+8;1;02;02;11;009;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Reklame"
+8;1;02;02;11;010;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Penerangan Jalan"
+8;1;02;02;11;011;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Parkir"
+8;1;02;02;11;012;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Air Tanah"
+8;1;02;02;11;013;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Sarang Burung Walet"
+8;1;02;02;11;014;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Mineral Bukan Logam dan
+Batuan"
+8;1;02;02;11;015;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Pajak Bumi dan Bangunan
+Perdesaan dan Perkotaan"
+8;1;02;02;11;016;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Bea Perolehan Hak atas Tanah
+dan Bangunan"
+8;1;02;02;12;;"Beban Jasa Insentif bagi Pegawai Non ASN
+atas Pemungutan Retribusi"
+8;1;02;02;12;001;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pelayanan
+Kesehatan"
+8;1;02;02;12;002;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pelayanan
+Persampahan/Kebersihan"
+8;1;02;02;12;003;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pelayanan
+Pemakaman dan Pengabuan Mayat"
+8;1;02;02;12;004;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pelayanan
+Parkir di Tepi Jalan Umum"
+8;1;02;02;12;005;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pelayanan
+Pasar"
+8;1;02;02;12;006;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pengujian"
+8;1;02;02;12;007;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pemeriksaan Alat Pemadam Kebakaran"
+8;1;02;02;12;008;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Penggantian Biaya Cetak Peta"
+8;1;02;02;12;009;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Penyediaan
+dan/atau Penyedotan Kakus"
+8;1;02;02;12;010;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pengolahan
+Limbah Cair"
+8;1;02;02;12;011;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pelayanan
+Tera/Tera Ulang"
+8;1;02;02;12;012;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pelayanan
+Pendidikan"
+8;1;02;02;12;013;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Umum-Pengawasan dan Pengendalian Menara
+Telekomunikasi"
+8;1;02;02;12;014;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Pemakaian
+Kekayaan Daerah"
+8;1;02;02;12;015;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Pasar Grosir
+dan/atau Pertokoan"
+8;1;02;02;12;016;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Tempat
+Pelelangan"
+8;1;02;02;12;017;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Terminal"
+8;1;02;02;12;018;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Tempat
+Khusus Parkir"
+8;1;02;02;12;019;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Pelayanan
+Tempat Penginapan/ Pesanggrahan/Vila"
+8;1;02;02;12;020;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Rumah
+Potong Hewan"
+8;1;02;02;12;021;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Pelayanan
+Kepelabuhan"
+8;1;02;02;12;022;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Tempat
+Rekreasi dan Olahraga"
+8;1;02;02;12;023;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Penyeberangan Air"
+8;1;02;02;12;024;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Jasa Usaha-Penjualan
+Produksi Usaha Daerah"
+8;1;02;02;12;025;"Beban Insentif bagi Pegawai Non ASN atas
+Pemungutan Retribusi Perizinan Tertentu-Izin
+Mendirikan Bangunan"
+8;1;02;02;12;030;Beban
+8;1;02;03;;;Beban Pemeliharaan
+8;1;02;03;01;;Beban Pemeliharaan Tanah
+8;1;02;03;01;001;"Beban Pemeliharaan Tanah-Tanah Persil-Tanah
+Bangunan Perumahan/Gedung Tempat Tinggal"
+8;1;02;03;01;002;"Beban Pemeliharaan Tanah-Tanah Persil-Tanah
+untuk Bangunan Gedung
+Perdagangan/Perusahaan"
+8;1;02;03;01;003;"Beban Pemeliharaan Tanah-Tanah Persil-Tanah
+untuk Bangunan Industri"
+8;1;02;03;01;004;Beban Pemeliharaan Tanah-Tanah Persil-Tanah
+8;1;02;03;01;008;"Beban
+Tanah"
+8;1;02;03;01;009;"Beban
+Tanah"
+8;1;02;03;01;010;Beban
+8;1;02;03;01;011;"Beban
+Tanah"
+8;1;02;03;01;012;"Beban
+Tanah"
+8;1;02;03;01;013;Beban
+8;1;02;03;01;014;"Beban
+Tanah"
+8;1;02;03;01;015;"Beban
+Tanah"
+8;1;02;03;01;016;Beban
+8;1;02;03;01;017;Beban
+8;1;02;03;01;019;Beban
+8;1;02;03;01;020;Beban
+8;1;02;03;01;021;Beban
+8;1;02;03;01;022;Beban
+8;1;02;03;01;023;"Beban
+untuk"
+8;1;02;03;01;024;"Beban
+untuk"
+8;1;02;03;01;025;Beban
+8;1;02;03;01;026;Beban
+8;1;02;03;01;027;Beban
+8;1;02;03;01;028;Beban
+8;1;02;03;01;029;"Beban
+untuk"
+8;1;02;03;01;030;"Beban
+untuk"
+8;1;02;03;01;031;"Beban
+Daerah"
+8;1;02;03;01;035;Beban
+8;1;02;03;02;003;Beban
+8;1;02;03;02;004;Beban
+8;1;02;03;02;005;Beban
+8;1;02;03;02;006;Beban
+8;1;02;03;02;007;Beban
+8;1;02;03;02;008;Beban
+8;1;02;03;02;010;Beban
+8;1;02;03;02;011;Beban
+8;1;02;03;02;012;Beban
+8;1;02;03;02;013;Beban
+8;1;02;03;02;014;Beban
+8;1;02;03;02;015;Beban
+8;1;02;03;02;016;Beban
+8;1;02;03;02;017;Beban
+8;1;02;03;02;018;Beban
+8;1;02;03;02;020;"Beban
+Feeder"
+8;1;02;03;02;022;Beban
+8;1;02;03;02;023;"Beban
+Pompa"
+8;1;02;03;02;024;"Beban
+Mesin"
+8;1;02;03;02;025;Beban
+8;1;02;03;02;027;Beban
+8;1;02;03;02;028;Beban
+8;1;02;03;02;029;"Beban
+Mesin"
+8;1;02;03;02;030;Beban Pemeliharaan Alat Besar-Alat Bantu-Perlengkapan Kebakaran Hutan
+8;1;02;03;02;031;Beban Pemeliharaan Alat Besar-Alat Bantu-Peralatan Selam
+8;1;02;03;02;032;Beban Pemeliharaan Alat Besar-Alat Bantu-Peralatan SAR Mountenering
+8;1;02;03;02;033;Beban Pemeliharaan Alat Besar-Alat Bantu-Peralatan Intelijen
+8;1;02;03;02;034;"Beban Pemeliharaan Alat Besar-Alat Bantu-Alat
+Bantu Lainnya"
+8;1;02;03;02;035;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Dinas Bermotor-Kendaraan
+Bermotor Perorangan"
+8;1;02;03;02;036;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Bermotor-Kendaraan Bermotor
+Penumpang"
+8;1;02;03;02;037;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Bermotor-Kendaraan Bermotor
+Angkutan Barang"
+8;1;02;03;02;038;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Bermotor-Kendaraan Bermotor
+Beroda Dua"
+8;1;02;03;02;039;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Bermotor-Kendaraan Bermotor
+Beroda Tiga"
+8;1;02;03;02;040;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Bermotor-Kendaraan Bermotor"
+8;1;02;03;02;041;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Bermotor-Kendaraan Tempur"
+8;1;02;03;02;042;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Bermotor-Alat Angkutan
+Kereta Rel"
+8;1;02;03;02;043;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Bermotor-Alat Angkutan Darat
+Bermotor Lainnya"
+8;1;02;03;02;044;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Tak Tak Bermotor-Kendaraan
+Bermotor Angkutan Barang"
+8;1;02;03;02;045;"Beban Pemeliharaan Alat Angkutan-Alat
+Angkutan Darat Tak Tak Bermotor-Kendaraan
+Bermotor Penumpang"
+8;1;02;03;02;046;"Tak Angkutan
+Kereta Rel Tak Bermotor"
+8;1;02;03;02;047;"Darat Angkutan
+Darat Tak Bemotor Lainnya"
+8;1;02;03;02;048;Beban
+8;1;02;03;02;049;Beban
+8;1;02;03;02;050;Beban
+8;1;02;03;02;051;Beban
+8;1;02;03;02;052;Beban
+8;1;02;03;02;056;Angkutan
+8;1;02;03;02;057;Beban
+8;1;02;03;02;058;Beban
+8;1;02;03;02;059;Beban
+8;1;02;03;02;061;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Bermesin-Perkakas Bengkel
+Listrik"
+8;1;02;03;02;062;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Bermesin-Perkakas Bengkel
+Service"
+8;1;02;03;02;063;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Bermesin-Perkakas
+Pengangkat Bermesin"
+8;1;02;03;02;064;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Bermesin-Perkakas Bengkel
+Kayu"
+8;1;02;03;02;065;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Bermesin-Perkakas Bengkel
+Khusus"
+8;1;02;03;02;066;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Bermesin-Peralatan Las"
+8;1;02;03;02;067;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Bermesin-Perkakas Pabrik
+Es"
+8;1;02;03;02;068;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Bermesin-Alat Bengkel
+Bermesin Lainnya"
+8;1;02;03;02;069;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Tak Bermesin-Perkakas
+Bengkel Konstruksi Logam"
+8;1;02;03;02;070;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Tak Bermesin-Perkakas
+Bengkel Listrik"
+8;1;02;03;02;071;Beban
+8;1;02;03;02;072;Beban
+8;1;02;03;02;073;Beban
+8;1;02;03;02;074;Beban
+8;1;02;03;02;075;Beban
+8;1;02;03;02;076;Beban
+8;1;02;03;02;077;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Tak Bermesin-Peralatan
+Tukang Kayu"
+8;1;02;03;02;078;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Tak Bermesin-Peralatan
+Tukang Kayu"
+8;1;02;03;02;079;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Tak Bermesin-Peralatan
+Ukur, Gip, dan Feeting"
+8;1;02;03;02;080;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Tak Bermesin-Peralatan
+Bengkel Khusus Peladam"
+8;1;02;03;02;081;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Bengkel Tak Bermesin-Alat Bengkel
+Tak Bermesin Lainnya"
+8;1;02;03;02;082;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Ukur Universal"
+8;1;02;03;02;083;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Ukur/Tes Inteligensia"
+8;1;02;03;02;084;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Ukur/Tes Alat
+Kepribadian"
+8;1;02;03;02;085;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Ukur/Tes Klinis Lain"
+8;1;02;03;02;086;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Kalibrasi"
+8;1;02;03;02;087;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Oscilloscope"
+8;1;02;03;02;088;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Universal Tester"
+8;1;02;03;02;089;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Ukur/Pembanding"
+8;1;02;03;02;090;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Ukur Lain-Lain"
+8;1;02;03;02;091;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Timbangan/Biara"
+8;1;02;03;02;092;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Anak Timbangan/Biara"
+8;1;02;03;02;093;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Takaran Kering"
+8;1;02;03;02;094;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Takaran Bahan Bangunan"
+8;1;02;03;02;095;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Takaran Lainnya"
+8;1;02;03;02;096;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Penguji Kendaraan
+Bermotor"
+8;1;02;03;02;097;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Specific Set"
+8;1;02;03;02;098;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Pengukur Keadaan Alam"
+8;1;02;03;02;099;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Pengukur Penglihatan"
+8;1;02;03;02;100;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Pengukur Ketepatan dan
+Koreksi Waktu"
+8;1;02;03;02;101;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Ukur Instrument Workshop"
+8;1;02;03;02;102;"Beban Pemeliharaan Alat Bengkel dan Alat
+Ukur-Alat Ukur-Alat Ukur Lainnya"
+8;1;02;03;02;103;"Beban Pemeliharaan Alat Pertanian-Alat
+Pengolahan-Alat Pengolahan dan Tanah
+Tanaman"
+8;1;02;03;02;104;"Beban Pemeliharaan Alat Pertanian-Alat
+Pengolahan-Alat Pemeliharaan Tanaman/
+Ikan/Ternak"
+8;1;02;03;02;105;Beban
+8;1;02;03;02;107;Beban
+8;1;02;03;02;108;Beban
+8;1;02;03;02;109;Beban
+8;1;02;03;02;110;Beban
+8;1;02;03;02;111;Beban
+8;1;02;03;02;112;Beban
+8;1;02;03;02;113;Beban
+8;1;02;03;02;114;Beban
+8;1;02;03;02;116;Beban
+8;1;02;03;02;117;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Alat Kantor-Alat Kantor Lainnya"
+8;1;02;03;02;118;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Alat Rumah Tangga-Meubelair"
+8;1;02;03;02;119;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Alat Rumah Tangga-Alat Pengukur
+Waktu"
+8;1;02;03;02;120;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Alat Rumah Tangga-Alat Pembersih"
+8;1;02;03;02;121;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Alat Rumah Tangga-Alat Pendingin"
+8;1;02;03;02;122;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Alat Rumah Tangga-Alat Dapur"
+8;1;02;03;02;123;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Alat Rumah Tangga-Alat Rumah
+Tangga Lainnya (Home Use)"
+8;1;02;03;02;124;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Alat Rumah Tangga-Alat Pemadam
+Kebakaran"
+8;1;02;03;02;125;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Meja dan Kursi Kerja/Rapat Pejabat-Meja Kerja Pejabat"
+8;1;02;03;02;126;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Meja dan Kursi Kerja/Rapat Pejabat-Meja Rapat Pejabat"
+8;1;02;03;02;127;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Meja dan Kursi Kerja/Rapat Pejabat-Kursi Kerja Pejabat"
+8;1;02;03;02;128;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Meja dan Kursi Kerja/Rapat Pejabat-Kursi Rapat Pejabat"
+8;1;02;03;02;129;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Meja dan Kursi Kerja/Rapat Pejabat-Kursi Hadap Depan Meja Kerja Pejabat"
+8;1;02;03;02;130;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Meja dan Kursi Kerja/Rapat Pejabat-Kursi Tamu di Ruangan Pejabat"
+8;1;02;03;02;131;"Beban Pemeliharaan Alat Kantor dan Rumah
+Tangga-Meja dan Kursi Kerja/Rapat Pejabat-Lemari dan Arsip Pejabat"
+8;1;02;03;02;132;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Alat Studio-Peralatan Studio
+Audio"
+8;1;02;03;02;133;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Stu dio-Peralatan Studio Pemancar-Alat
+Video dan Film"
+8;1;02;03;02;134;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Alat Studio-Peralatan Studio
+Gambar"
+8;1;02;03;02;135;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Alat Studio-Peralatan Cetak"
+8;1;02;03;02;136;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Studio-Peralatan Studio Pemancar-Alat
+Pemetaan/Peralatan Ukur Tanah"
+8;1;02;03;02;137;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Alat Studio-Alat Studio Lainnya"
+8;1;02;03;02;138;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Alat Komunikasi-Alat
+Komunikasi Telephone"
+8;1;02;03;02;139;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Alat Komunikasi-Alat
+Komunikasi Radio SSB"
+8;1;02;03;02;140;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Alat Komunikasi-Alat
+Komunikasi Radio HF/FM"
+8;1;02;03;02;141;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Alat Komunikasi-Alat
+Komunikasi Radio VHF"
+8;1;02;03;02;142;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Alat Komunikasi-Alat
+Komunikasi Radio UHF"
+8;1;02;03;02;143;Beban
+8;1;02;03;02;144;Beban
+8;1;02;03;02;145;Beban
+8;1;02;03;02;146;Beban
+8;1;02;03;02;147;Beban
+8;1;02;03;02;148;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Alat Komunikasi-Alat
+Komunikasi Lainnya"
+8;1;02;03;02;149;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Pemancar MF/MW"
+8;1;02;03;02;150;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Pemancar HF/SW"
+8;1;02;03;02;151;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Pemancar VHF/FM"
+8;1;02;03;02;152;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Pemancar UHF"
+8;1;02;03;02;153;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Pemancar SHF"
+8;1;02;03;02;154;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena MF/MW"
+8;1;02;03;02;155;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena HF/SW"
+8;1;02;03;02;156;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena VHF/FM"
+8;1;02;03;02;157;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan"
+8;1;02;03;02;158;Beban
+8;1;02;03;02;159;Beban
+8;1;02;03;02;160;Beban
+8;1;02;03;02;161;Beban
+8;1;02;03;02;162;Beban
+8;1;02;03;02;163;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Microwave FPU"
+8;1;02;03;02;164;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Microwave Terestrial"
+8;1;02;03;02;165;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Microwave TVRO"
+8;1;02;03;02;166;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Dummy Load"
+8;1;02;03;02;167;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Switcher
+Antena"
+8;1;02;03;02;168;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Switcher/Menara Antena"
+8;1;02;03;02;169;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Feeder"
+8;1;02;03;02;170;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Humidity
+Control"
+8;1;02;03;02;171;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Program Pemancar-Peralatan
+Input Equipment"
+8;1;02;03;02;172;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena Penerima VHF"
+8;1;02;03;02;173;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Pemancar LF"
+8;1;02;03;02;174;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Unit Pemancar-Peralatan
+Pemancar MF+HF"
+8;1;02;03;02;175;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena Pemancar MF+HF"
+8;1;02;03;02;176;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Penerima"
+8;1;02;03;02;177;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan"
+8;1;02;03;02;178;Beban
+8;1;02;03;02;179;Beban
+8;1;02;03;02;180;Beban
+8;1;02;03;02;181;Beban
+8;1;02;03;02;182;Beban
+8;1;02;03;02;183;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Pemancar dan Penerima SHF"
+8;1;02;03;02;184;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena Pemancar dan Penerima LF"
+8;1;02;03;02;185;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena Pemancar dan Penerima MF"
+8;1;02;03;02;186;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena Pemancar dan Penerima HF"
+8;1;02;03;02;187;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena Pemancar dan Penerima MF+HF"
+8;1;02;03;02;188;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena Pemancar dan Penerima VHF"
+8;1;02;03;02;189;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena Pemancar dan Penerima UHF"
+8;1;02;03;02;190;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Antena Pemancar dan Penerima SHF"
+8;1;02;03;02;191;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Penerima Cuaca Citra Satelit Resolusi Rendah"
+8;1;02;03;02;192;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Penerima Cuaca Citra Satelit Resolusi Tinggi"
+8;1;02;03;02;193;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Penerima dan Pengirim Gambar ke Permukaan"
+8;1;02;03;02;194;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Perlengkapan Radio"
+8;1;02;03;02;195;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Sumber
+Tenaga"
+8;1;02;03;02;196;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Pemancar-Peralatan
+Pemancar Lainnya"
+8;1;02;03;02;197;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Komunikasi Navigasi-Peralatan Komunikasi Navigasi Instrumen
+Landing System"
+8;1;02;03;02;198;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Komunikasi Navigasi- Pemancar-Peralatan
+Very High Frequence Omni Range (VOR)"
+8;1;02;03;02;199;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Komunikasi Navigasi- Pemancar-Peralatan
+Distance Measuring Equipment (DME)"
+8;1;02;03;02;200;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Pemancar-Peralatan Komunikasi Navigasi-Radar"
+8;1;02;03;02;201;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Komunikasi Navigasi- Pemancar-Peralatan
+Alat Pengatur Telekomunikasi"
+8;1;02;03;02;202;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Komunikasi Navigasi- Pemancar-Peralatan
+Peralatan Komunikasi untuk Dokumentasi"
+8;1;02;03;02;203;"Beban Pemeliharaan Alat Studio, Komunikasi,
+dan Komunikasi Navigasi- Pemancar-Peralatan
+Peralatan Komunikasi Navigasi Lainnya"
+8;1;02;03;02;204;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Umum"
+8;1;02;03;02;205;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Gigi"
+8;1;02;03;02;206;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Keluarga Berencana"
+8;1;02;03;02;207;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Bedah"
+8;1;02;03;02;208;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kesehatan
+Kebidanan dan Penyakit Kandungan"
+8;1;02;03;02;209;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+THT"
+8;1;02;03;02;210;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Mata"
+8;1;02;03;02;211;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Bagian Penyakit Dalam"
+8;1;02;03;02;212;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Kamar Jenazah/Mortuary"
+8;1;02;03;02;213;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Anak"
+8;1;02;03;02;214;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Poliklinik"
+8;1;02;03;02;215;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kesehatan
+Rehabilitasi Medis"
+8;1;02;03;02;216;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Neurologi (Saraf)"
+8;1;02;03;02;222;Beban
+8;1;02;03;02;223;Beban
+8;1;02;03;02;225;Beban
+8;1;02;03;02;228;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+ICCU"
+8;1;02;03;02;229;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Bedah Jantung"
+8;1;02;03;02;230;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Traditional Medicine"
+8;1;02;03;02;231;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Anestesi"
+8;1;02;03;02;232;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kedokteran-Alat Kedokteran
+Lainnya"
+8;1;02;03;02;233;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kesehatan Umum-Alat
+Kesehatan Matra Laut"
+8;1;02;03;02;234;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kesehatan Umum-Alat
+Kesehatan Matra Udara"
+8;1;02;03;02;235;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kesehatan Umum-Alat
+Kesehatan Kepolisian"
+8;1;02;03;02;236;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kesehatan Umum-Alat
+Kesehatan Olahraga"
+8;1;02;03;02;237;"Beban Pemeliharaan Alat Kedokteran dan
+Kesehatan-Alat Kesehatan Umum-Alat
+Kesehatan Umum Lainnya"
+8;1;02;03;02;238;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Kimia Air
+Teknik Penyehatan"
+8;1;02;03;02;239;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Mikro Laboratorium-Alat
+Biologi Teknik Penyehatan"
+8;1;02;03;02;240;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Hidrokimia"
+8;1;02;03;02;241;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Model
+Hidrolika"
+8;1;02;03;02;242;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Batuan /Geologi"
+8;1;02;03;02;243;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Bahan Laboratorium-Alat
+Bangunan Konstruksi"
+8;1;02;03;02;244;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Aspal, Laboratorium-Alat
+Cat, dan Kimia"
+8;1;02;03;02;245;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Mekanika
+Tanah dan Batuan"
+8;1;02;03;02;246;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Cocok
+Tanam"
+8;1;02;03;02;247;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Logam, Laboratorium-Alat
+Mesin, dan Listrik"
+8;1;02;03;02;248;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Umum"
+8;1;02;03;02;249;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Mikrobiologi"
+8;1;02;03;02;250;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Kimia"
+8;1;02;03;02;251;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Patologi"
+8;1;02;03;02;252;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Immunologi"
+8;1;02;03;02;253;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Hematologi"
+8;1;02;03;02;254;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Film"
+8;1;02;03;02;255;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Makanan"
+8;1;02;03;02;256;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Farmasi"
+8;1;02;03;02;257;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Fisika"
+8;1;02;03;02;258;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Hidrodinamika"
+8;1;02;03;02;259;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Klimatologi"
+8;1;02;03;02;260;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Proses
+Peleburan"
+8;1;02;03;02;261;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Pasir"
+8;1;02;03;02;262;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Proses Laboratorium-Alat
+Pembuatan Cekatan"
+8;1;02;03;02;263;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Pembuatan Pola"
+8;1;02;03;02;264;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Metalografi"
+8;1;02;03;02;265;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Proses
+Pengelasan"
+8;1;02;03;02;266;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Uji Proses
+Pengelasan"
+8;1;02;03;02;267;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Proses Laboratorium-Alat
+Pembuatan Logam"
+8;1;02;03;02;268;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Metrologi"
+8;1;02;03;02;269;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Pelapisan
+Logam"
+8;1;02;03;02;270;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Proses Laboratorium-Alat
+Pengolahan Panas"
+8;1;02;03;02;271;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Proses Laboratorium-Alat
+Teknologi Tekstil"
+8;1;02;03;02;272;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Uji Tekstil"
+8;1;02;03;02;273;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Proses Laboratorium-Alat
+Teknologi Keramik"
+8;1;02;03;02;274;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Proses Laboratorium-Alat
+Teknologi Kulit, Karet, dan Plastik"
+8;1;02;03;02;275;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Uji Kulit, Laboratorium-Alat
+Karet, dan Plastik"
+8;1;02;03;02;276;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Uji
+Keramik"
+8;1;02;03;02;277;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium Proses Laboratorium-Alat
+Teknologi Selulosa"
+8;1;02;03;02;278;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Pertanian"
+8;1;02;03;02;279;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Elektronika dan Daya"
+8;1;02;03;02;280;"Beban
+Alat
+Surya"
+8;1;02;03;02;281;Beban
+8;1;02;03;02;283;"Beban
+Alat"
+8;1;02;03;02;284;"Beban
+Alat
+Perairan"
+8;1;02;03;02;285;Beban
+8;1;02;03;02;286;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Geofisika"
+8;1;02;03;02;287;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Tambang"
+8;1;02;03;02;288;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Proses /Teknik Kimia"
+8;1;02;03;02;289;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Proses
+Industri"
+8;1;02;03;02;290;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Kesehatan Kerja"
+8;1;02;03;02;291;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Laboratorium Kearsipan"
+8;1;02;03;02;292;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Hematologi Laboratorium-Laboratorium
+dan Urinalisis"
+8;1;02;03;02;293;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium Lain"
+8;1;02;03;02;294;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Hermodinamika Motor dan Sistem Propulasi"
+8;1;02;03;02;295;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Laboratorium-Alat Laboratorium
+Pendidikan"
+8;1;02;03;02;296;Beban
+8;1;02;03;02;297;"Beban
+Alat
+Pantai"
+8;1;02;03;02;298;Beban
+8;1;02;03;02;299;Beban
+8;1;02;03;02;300;Beban
+8;1;02;03;02;301;Beban
+8;1;02;03;02;303;Beban
+8;1;02;03;02;304;Beban
+8;1;02;03;02;305;Beban
+8;1;02;03;02;306;Beban
+8;1;02;03;02;307;"Beban Pemeliharaan Alat Laboratorium-Unit
+Alat Kimia Nuklir-Unit Alat Laboratorium
+Laboratorium Kimia Nuklir Lainnya"
+8;1;02;03;02;308;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:Bahasa Indonesia"
+8;1;02;03;02;309;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:Matematika"
+8;1;02;03;02;310;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:IPA Dasar"
+8;1;02;03;02;311;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:IPA Lanjutan"
+8;1;02;03;02;312;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:IPA Menengah"
+8;1;02;03;02;313;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:IPA Atas"
+8;1;02;03;02;314;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:IPS"
+8;1;02;03;02;315;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:Agama"
+8;1;02;03;02;316;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik"
+8;1;02;03;02;317;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:Kesenian"
+8;1;02;03;02;318;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:Olahraga"
+8;1;02;03;02;319;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Bidang Studi:PKN"
+8;1;02;03;02;320;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Luar Biasa
+(Tuna Terapi Fisik, Tuna Daksa, dan Netra,
+Tuna Rungu)"
+8;1;02;03;02;321;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Kejuruan"
+8;1;02;03;02;322;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga PAUD/TK"
+8;1;02;03;02;323;"Beban Pemeliharaan Alat Laboratorium-Alat
+Peraga Praktik Sekolah-Alat Peraga Praktik
+Sekolah Lainnya"
+8;1;02;03;02;324;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Fisika Nuklir/Elektronika-Radiation Detector"
+8;1;02;03;02;325;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Fisika Nuklir/Elektronika-Modular Counting and Scientific Electronic"
+8;1;02;03;02;326;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Fisika Nuklir/Elektronika-"
+8;1;02;03;02;330;Beban
+8;1;02;03;02;331;Beban
+8;1;02;03;02;334;Beban
+8;1;02;03;02;336;"Beban Pemeliharaan Alat Laboratorium-Alat
+Proteksi Radiasi/Proteksi Lingkungan-Proteksi
+Lingkungan"
+8;1;02;03;02;337;"Beban Pemeliharaan Alat Laboratorium-Alat
+Proteksi Radiasi/Proteksi Lingkungan-Meteorological Equipment"
+8;1;02;03;02;338;"Beban Pemeliharaan Alat Laboratorium-Alat
+Proteksi Radiasi/Proteksi Lingkungan-Sumber
+Radiasi"
+8;1;02;03;02;339;"Beban Pemeliharaan Alat Laboratorium-Alat
+Proteksi Radiasi/Proteksi Lingkungan-Alat
+Proteksi Radiasi/Proteksi Lingkungan Lainnya"
+8;1;02;03;02;340;"Beban Pemeliharaan Alat Laboratorium-Radiation Application and Non Destructive
+Testing Laboratory Lainnya-Radiation
+Application Equipment"
+8;1;02;03;02;341;Radiation
+8;1;02;03;02;342;Radiation
+8;1;02;03;02;343;Radiation
+8;1;02;03;02;344;"Beban
+Laboratorium"
+8;1;02;03;02;345;"Beban
+Laboratorium"
+8;1;02;03;02;350;Beban
+8;1;02;03;02;351;"Beban Pemeliharaan Alat Laboratorium-Peralatan Laboratorium Hydrodinamica-Wave
+Generator and Absorber"
+8;1;02;03;02;352;"Beban Pemeliharaan Alat Laboratorium-Peralatan Laboratorium Hydrodinamica-Data
+Accquisition and Analyzing System"
+8;1;02;03;02;353;Beban Pemeliharaan Alat Laboratorium-Peralatan Laboratorium Hydrodinamica-Cavitation Tunnel
+8;1;02;03;02;354;Beban Pemeliharaan Alat Laboratorium-Peralatan Laboratorium Hydrodinamica-Overhead Cranes
+8;1;02;03;02;355;Beban Pemeliharaan Alat Laboratorium-Peralatan Laboratorium Hydrodinamica-Peralatan Umum
+8;1;02;03;02;356;Beban Pemeliharaan Alat Laboratorium-Peralatan Laboratorium Hydrodinamica-Pemesinan:Model Ship Workshop
+8;1;02;03;02;357;Beban Pemeliharaan Alat Laboratorium-Peralatan Laboratorium Hydrodinamica-Pemesinan:Propeller Model Workshop
+8;1;02;03;02;358;Beban Pemeliharaan Alat Laboratorium-Peralatan Laboratorium Hydrodinamica-Pemesinan:Mechanical Workshop
+8;1;02;03;02;359;Beban Pemeliharaan Alat Laboratorium-Peralatan Laboratorium Hydrodinamica-Pemesinan:Precision Mechanical Workshop
+8;1;02;03;02;360;Beban Pemeliharaan Alat Laboratorium-Peralatan Laboratorium Hydrodinamica-Pemesinan:Painting Shop
+8;1;02;03;02;361;Beban
+8;1;02;03;02;362;Beban
+8;1;02;03;02;363;Beban
+8;1;02;03;02;364;Beban
+8;1;02;03;02;365;Beban
+8;1;02;03;02;366;"Beban Pemeliharaan Alat Laboratorium-Alat
+dan Standarisasi Laboratorium Kalibrasi
+Kalibrasi Laboratorium Instrumentasi-Alat
+Elektromedik dan Biomedik"
+8;1;02;03;02;367;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Standarisasi Kalibrasi dan
+Instrumentasi-Alat Laboratorium Standar dan
+Kalibrator"
+8;1;02;03;02;368;"Beban Pemeliharaan Alat Laboratorium-Alat
+dan Standarisasi Laboratorium Kalibrasi
+Cahaya, Laboratorium Instrumentasi-Alat
+Optik, dan Akustik"
+8;1;02;03;02;369;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Standarisasi Kalibrasi dan
+Instrumentasi-Alat Laboratorium Listrik dan
+Mekanik"
+8;1;02;03;02;370;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Standarisasi Kalibrasi dan
+Instrumentasi-Alat Laboratorium Tekanan dan
+Suhu"
+8;1;02;03;02;371;"Beban Pemeliharaan Alat Laboratorium-Alat
+Standarisasi dan Laboratorium Kalibrasi
+Laboratorium Standarisasi Instrumentasi-Alat
+Kalibrasi dan Instrumentasi Lain"
+8;1;02;03;02;372;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Standarisasi Kalibrasi dan
+Instrumentasi-Alat Laboratorium Natius"
+8;1;02;03;02;373;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Standarisasi Kalibrasi dan
+Instrumentasi-Alat Laboratorium Elektronika
+dan Telekomunikasi Pelayaran"
+8;1;02;03;02;374;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Standarisasi Kalibrasi dan
+Instrumentasi-Alat Laboratorium Sarana Bantu
+Navigasi Pelayaran"
+8;1;02;03;02;375;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Standarisasi Kalibrasi dan
+Instrumentasi-Alat Laboratorium Uji Perangkat"
+8;1;02;03;02;376;"Beban Pemeliharaan Alat Laboratorium-Alat
+Laboratorium Kalibrasi Standarisasi dan
+Instrumentasi-Alat Laboratorium Standarisasi
+Kalibrasi dan Instrumentasi Lainnya"
+8;1;02;03;02;404;Beban Pemeliharaan Komputer-Komputer Unit-Komputer Jaringan
+8;1;02;03;02;405;Beban Pemeliharaan Komputer-Komputer Unit-Personal Computer
+8;1;02;03;02;406;Beban Pemeliharaan Komputer-Komputer Unit-Komputer Unit Lainnya
+8;1;02;03;02;407;"Beban Pemeliharaan Komputer-Peralatan
+Komputer-Peralatan Mainframe"
+8;1;02;03;02;408;"Beban Pemeliharaan Komputer-Peralatan
+Komputer-Peralatan Mini Computer"
+8;1;02;03;02;409;"Beban Pemeliharaan Komputer-Peralatan
+Komputer-Peralatan Personal Computer"
+8;1;02;03;02;410;"Beban Pemeliharaan Komputer-Peralatan
+Komputer-Peralatan Jaringan"
+8;1;02;03;02;411;"Beban Pemeliharaan Komputer-Peralatan
+Komputer-Peralatan Komputer Lainnya"
+8;1;02;03;02;412;"Beban Pemeliharaan Alat Eksplorasi-Alat
+Eksplorasi Topografi-Optik"
+8;1;02;03;02;413;"Beban Pemeliharaan Alat Eksplorasi-Alat
+Eksplorasi Topografi-Ukur/Instrumen"
+8;1;02;03;02;414;"Beban Pemeliharaan Alat Eksplorasi-Alat
+Eksplorasi Topografi-Alat Eksplorasi Topografi
+Lainnya"
+8;1;02;03;02;415;"Beban Pemeliharaan Alat Eksplorasi-Alat
+Eksplorasi Geofisika-Mekanik"
+8;1;02;03;02;416;"Beban Pemeliharaan Alat Eksplorasi-Alat
+Eksplorasi Geofisika-Elektronik/Electric"
+8;1;02;03;02;417;"Beban Pemeliharaan Alat Eksplorasi-Alat
+Eksplorasi Geofisika-Manual"
+8;1;02;03;02;418;"Beban Pemeliharaan Alat Eksplorasi-Alat
+Eksplorasi Geofisika-Alat Eksplorasi Geofisika
+Lainnya"
+8;1;02;03;02;419;"Beban Pemeliharaan Alat Pengeboran-Alat
+Pengeboran Mesin-Bor Mesin Tumbuk"
+8;1;02;03;02;420;"Beban Pemeliharaan Alat Pengeboran-Alat
+Pengeboran Mesin-Bor Mesin Putar"
+8;1;02;03;02;421;"Beban Pemeliharaan Alat Pengeboran-Alat
+Pengeboran Mesin-Alat Pengeboran Mesin
+Lainnya"
+8;1;02;03;02;422;"Beban Pemeliharaan Alat Pengeboran-Alat
+Pengeboran Non Mesin-Bangka"
+8;1;02;03;02;423;"Beban Pemeliharaan Alat Pengeboran-Alat
+Pengeboran Non Mesin-Pantek"
+8;1;02;03;02;424;Beban
+8;1;02;03;02;425;Beban
+8;1;02;03;02;426;"Non Pengeboran
+Mesin Lainnya"
+8;1;02;03;02;427;Beban
+8;1;02;03;02;428;Beban
+8;1;02;03;02;429;Beban
+8;1;02;03;02;430;Beban
+8;1;02;03;02;431;Beban
+8;1;02;03;02;432;Beban
+8;1;02;03;02;433;Beban
+8;1;02;03;02;434;Beban
+8;1;02;03;02;435;"Beban Pemeliharaan Alat Produksi,
+Pengolahan, dan Pemurnian-Pengolahan dan
+Pemurnian-Alat Pengolahan Wax"
+8;1;02;03;02;436;"Beban Pemeliharaan Alat Produksi,
+Pengolahan, dan Pemurnian-Pengolahan dan
+Pemurnian-Pengolahan dan Pemurnian Lainnya"
+8;1;02;03;02;437;"Beban Pemeliharaan Alat Bantu Eksplorasi-Alat
+Bantu Eksplorasi-Mekanik"
+8;1;02;03;02;438;"Beban Pemeliharaan Alat Bantu Eksplorasi-Alat
+Bantu Eksplorasi-Elektrik"
+8;1;02;03;02;439;"Beban Pemeliharaan Alat Bantu Eksplorasi-Alat
+Bantu Eksplorasi-Alat Bantu Ekplorasi Lainnya"
+8;1;02;03;02;440;"Beban Pemeliharaan Alat Bantu Eksplorasi-Alat
+Bantu Produksi-Perawatan Sumur"
+8;1;02;03;02;441;"Beban Pemeliharaan Alat Bantu Eksplorasi-Alat
+Bantu Produksi-Tes Unit"
+8;1;02;03;02;442;"Beban Pemeliharaan Alat Bantu Eksplorasi-Alat
+Bantu Produksi- Alat Bantu Produksi Lainnya"
+8;1;02;03;02;443;Beban Pemeliharaan Alat Keselamatan Kerja-Alat Deteksi-Radiasi
+8;1;02;03;02;444;Beban Pemeliharaan Alat Keselamatan Kerja-Alat Deteksi-Suara
+8;1;02;03;02;445;Beban Pemeliharaan Alat Keselamatan Kerja-Alat Deteksi-Alat Deteksi Lainnya
+8;1;02;03;02;446;Beban Pemeliharaan Alat Keselamatan Kerja-Alat Pelindung-Baju Pengaman
+8;1;02;03;02;447;Beban Pemeliharaan Alat Keselamatan Kerja-Alat Pelindung-Masker
+8;1;02;03;02;448;Beban Pemeliharaan Alat Keselamatan Kerja-Alat Pelindung-Topi Kerja
+8;1;02;03;02;449;Beban Pemeliharaan Alat Keselamatan Kerja-Alat Pelindung-Sabuk Pengaman
+8;1;02;03;02;450;Beban Pemeliharaan Alat Keselamatan Kerja-Alat Pelindung-Sepatu Lapangan
+8;1;02;03;02;451;Beban Pemeliharaan Alat Keselamatan Kerja-Alat Pelindung-Alat Pelindung Lainnya
+8;1;02;03;02;452;Beban Pemeliharaan Alat Keselamatan Kerja-Alat SAR-Alat Penolong
+8;1;02;03;02;453;Beban Pemeliharaan Alat Keselamatan Kerja-Alat SAR-Alat Pendukung Pencarian
+8;1;02;03;02;454;Beban Pemeliharaan Alat Keselamatan Kerja-Alat SAR-Alat Kerja Bawah Air
+8;1;02;03;02;455;Beban Pemeliharaan Alat Keselamatan Kerja-Alat SAR-Alat SAR Lainnya
+8;1;02;03;02;456;"Beban Pemeliharaan Alat Keselamatan Kerja-Alat Penerbangan-Peralatan Fasilitas Kerja
+Komunikasi Penerbangan"
+8;1;02;03;02;457;"Beban Pemeliharaan Alat Keselamatan Kerja-Alat Penerbangan-Peralatan Fasilitas Kerja
+Navigasi dan Pengamatan Penerbangan"
+8;1;02;03;02;458;Beban
+8;1;02;03;02;459;Beban
+8;1;02;03;02;460;Beban
+8;1;02;03;02;462;Beban
+8;1;02;03;02;463;"Beban Pemeliharaan Alat Peraga-Alat Peraga
+Pelatihan dan Percontohan-Alat Peraga
+Pelatihan"
+8;1;02;03;02;464;"Beban Pemeliharaan Alat Peraga-Alat Peraga
+Pelatihan dan Percontohan-Alat Peraga
+Percontohan"
+8;1;02;03;02;465;"Beban Pemeliharaan Alat Peraga-Alat Peraga
+Pelatihan dan Percontohan-Alat Peraga
+Pelatihan dan Percontohan Lainnya"
+8;1;02;03;02;466;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Liquid-Liquid Contractor
+Equipment"
+8;1;02;03;02;467;"Beban Pemeliharaan Peralatan
+Proses/Produksi-Unit Peralatan
+Proses/Produksi-Solid-Solid Mixing Equipment"
+8;1;02;03;02;468;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Solid-Solid Screening
+Equipment"
+8;1;02;03;02;469;"Beban Pemeliharaan Peralatan
+Proses/Produksi-Unit Peralatan
+Proses/Produksi-Solid-Solid Classifier"
+8;1;02;03;02;470;"Beban Pemeliharaan Peralatan
+Proses/Produksi-Unit Peralatan
+Proses/Produksi-Solid-Liquid Mixing Equipment"
+8;1;02;03;02;471;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Solid Liquid Crystallization
+Equipment"
+8;1;02;03;02;472;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Ion Exchange Absortion"
+8;1;02;03;02;473;"Beban Pemeliharaan Peralatan
+Proses/Produksi-Unit Peralatan
+Proses/Produksi-Leaching Equipment"
+8;1;02;03;02;474;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Gravity Sedimentation
+Equipment"
+8;1;02;03;02;475;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Solid Liquid Filtering
+Equipment"
+8;1;02;03;02;476;"Beban Pemeliharaan Peralatan
+Proses/Produksi-Unit Peralatan
+Proses/Produksi-Centrifuge for Solid Liquid"
+8;1;02;03;02;477;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Liquid from Solid Expelling
+(Expressor)-Equipment"
+8;1;02;03;02;478;"Beban Pemeliharaan Peralatan
+Proses/Produksi-Unit Peralatan
+Proses/Produksi-Gas-Solid Drying Equipment"
+8;1;02;03;02;479;"Beban Pemeliharaan Peralatan
+Proses/Produksi-Unit Peralatan
+Proses/Produksi-Gas-Solid Fluidised Bed
+Equipment"
+8;1;02;03;02;480;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Gas-Solid Separation
+Equipment"
+8;1;02;03;02;481;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Gas-Liquid Distillation
+Equipment"
+8;1;02;03;02;482;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Gas-Liquid Separation
+Equipment"
+8;1;02;03;02;483;"Beban Pemeliharaan Peralatan
+Proses/Produksi-Unit Peralatan
+Proses/Produksi-Isotope Separation Equipment"
+8;1;02;03;02;484;"Pemeliharaan Peralatan Beban
+Peralatan Proses/Produksi-Unit
+Proses/Produksi-Transport and Storage
+Equipment for Liquid"
+8;1;02;03;02;485;"Beban Pemeliharaan Peralatan
+Proses/Produksi-Unit Peralatan
+Proses/Produksi-Solid Material Handling
+Equipment"
+8;1;02;03;02;486;"Beban Pemeliharaan Peralatan
+Proses/Produksi-Unit Peralatan"
+8;1;02;03;02;487;"Beban
+Proses/Produksi-Unit"
+8;1;02;03;02;488;"Beban
+Proses/Produksi-Unit"
+8;1;02;03;02;489;"Beban
+Proses/Produksi-Unit"
+8;1;02;03;02;490;"Beban
+Proses/Produksi-Unit"
+8;1;02;03;02;491;Beban
+8;1;02;03;02;492;Beban
+8;1;02;03;02;493;"Rambu
+Bersuar"
+8;1;02;03;02;494;"Rambu
+Lintas"
+8;1;02;03;02;495;"Rambu
+Light"
+8;1;02;03;02;497;Beban Pemeliharaan Rambu-Rambu-Rambu-Rambu Lalu Lintas Udara-Approach Light
+8;1;02;03;02;498;"Beban Pemeliharaan Rambu-Rambu-Rambu-Rambu Lalu Lintas Udara-Runway
+Identification Light (REILS)"
+8;1;02;03;02;499;Beban Pemeliharaan Rambu-Rambu-Rambu-Rambu Lalu Lintas Udara-Signal
+8;1;02;03;02;500;Beban Pemeliharaan Rambu-Rambu-Rambu-Rambu Lalu Lintas Udara-Flood Lights
+8;1;02;03;02;501;"Beban Pemeliharaan Rambu-Rambu-Rambu-Rambu Lalu Lintas Udara-Rambu-Rambu Lalu
+Lintas Udara Lainnya"
+8;1;02;03;02;502;"Beban Pemeliharaan Rambu-Rambu-Rambu-Rambu Lintas Laut-Rambu-Rambu Lalu Lalu
+Lintas Laut"
+8;1;02;03;02;503;"Beban Pemeliharaan Rambu-Rambu-Rambu-Rambu Lintas Laut-Rambu-Rambu Lalu Lalu
+Lintas Laut Lainnya"
+8;1;02;03;02;504;Beban Pemeliharaan Peralatan Olahraga-Peralatan Olahraga-Peralatan Olahraga Atletik
+8;1;02;03;02;505;Beban Pemeliharaan Peralatan Olahraga-Peralatan Olahraga-Peralatan Permainan
+8;1;02;03;02;506;Beban Pemeliharaan Peralatan Olahraga-Peralatan Olahraga-Peralatan Senam
+8;1;02;03;02;507;Beban Pemeliharaan Peralatan Olahraga-Peralatan Olahraga-Peralatan Olahraga Air
+8;1;02;03;02;508;Beban Pemeliharaan Peralatan Olahraga-Peralatan Olahraga-Peralatan Olahraga Udara
+8;1;02;03;02;509;Beban Pemeliharaan Peralatan Olahraga-Peralatan Olahraga-Peralatan Olahraga Lainnya
+8;1;02;03;03;;Beban Pemeliharaan Gedung dan Bangunan
+8;1;02;03;03;001;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Kantor"
+8;1;02;03;03;002;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gudang"
+8;1;02;03;03;003;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung untuk Bengkel/Hanggar"
+8;1;02;03;03;004;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Instalasi"
+8;1;02;03;03;005;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Laboratorium"
+8;1;02;03;03;006;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Kesehatan"
+8;1;02;03;03;007;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Oseanarium/Observatorium"
+8;1;02;03;03;008;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Tempat Ibadah"
+8;1;02;03;03;009;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Tempat Pertemuan"
+8;1;02;03;03;010;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Tempat Pendidikan"
+8;1;02;03;03;011;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Tempat Olahraga"
+8;1;02;03;03;012;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Pertokoan/Koperasi/Pasar"
+8;1;02;03;03;013;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung untuk Pos Jaga"
+8;1;02;03;03;014;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Garasi/Pool"
+8;1;02;03;03;015;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Pemotong Hewan"
+8;1;02;03;03;016;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Perpustakaan"
+8;1;02;03;03;017;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Museum"
+8;1;02;03;03;018;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Terminal/Pelabuhan/Bandara"
+8;1;02;03;03;019;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Pengujian Kelaikan"
+8;1;02;03;03;020;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Lembaga Pemasyarakatan"
+8;1;02;03;03;021;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Rumah Tahanan"
+8;1;02;03;03;022;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Krematorium"
+8;1;02;03;03;023;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Pembakaran Bangkai Hewan"
+8;1;02;03;03;024;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Tempat Persidangan"
+8;1;02;03;03;025;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Terbuka"
+8;1;02;03;03;026;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Penampung Sekam"
+8;1;02;03;03;027;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Tempat Pelelangan Ikan (TPI)"
+8;1;02;03;03;028;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Industri"
+8;1;02;03;03;029;Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Bangunan Kerja-Peternakan/Perikanan
+8;1;02;03;03;030;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Gedung Tempat Kerja Lainnya"
+8;1;02;03;03;031;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Peralatan Geofisika"
+8;1;02;03;03;032;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Fasilitas Umum"
+8;1;02;03;03;033;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan
+Parkir"
+8;1;02;03;03;034;Beban
+8;1;02;03;03;035;Beban
+8;1;02;03;03;036;Beban
+8;1;02;03;03;037;Beban
+8;1;02;03;03;039;Beban
+8;1;02;03;03;040;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Tinggal-Rumah
+Negara Golongan III"
+8;1;02;03;03;041;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tinggal- Tempat
+Mess/Wisma/Bungalow/Tempat Peristirahatan"
+8;1;02;03;03;042;Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Tinggal-Asrama
+8;1;02;03;03;043;Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Tinggal-Hotel
+8;1;02;03;03;044;Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Tinggal-Motel
+8;1;02;03;03;045;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Tinggal-Flat/Rumah
+Susun"
+8;1;02;03;03;046;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Tinggal-Rumah
+Negara dalam Proses Penggolongan"
+8;1;02;03;03;047;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Tinggal-Panti
+Asuhan"
+8;1;02;03;03;048;Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Tinggal-Apartemen
+8;1;02;03;03;049;"Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Tinggal-Rumah
+Tidak Bersusun"
+8;1;02;03;03;050;Beban
+8;1;02;03;03;053;Beban
+8;1;02;03;03;054;Beban
+8;1;02;03;03;055;Beban
+8;1;02;03;03;056;"Beban Pemeliharaan Bangunan Menara-Bangunan Menara Perambuan-Bangunan
+Perambuan Penerangan Pantai"
+8;1;02;03;03;057;"Beban Pemeliharaan Bangunan Menara-Bangunan Menara Perambuan-Bangunan
+Menara Telekomunikasi"
+8;1;02;03;03;058;"Beban Pemeliharaan Bangunan Menara-Bangunan Menara Perambuan-Bangunan
+Menara Pengawas"
+8;1;02;03;03;059;"Beban Pemeliharaan Bangunan Menara-Bangunan Menara Perambuan-Bangunan
+Menara Perambuan Lainnya"
+8;1;02;03;03;060;"Beban Pemeliharaan Tugu Titik Kontrol/Pasti-Tugu/Tanda Batas-Tugu/Tanda Batas
+Administrasi"
+8;1;02;03;03;061;Beban
+8;1;02;03;03;062;Beban
+8;1;02;03;03;063;Beban
+8;1;02;03;03;064;Beban
+8;1;02;03;04;;"Beban
+Irigasi"
+8;1;02;03;04;001;Beban
+8;1;02;03;04;002;Beban Pemeliharaan Jalan dan Jembatan-Jalan-Jalan Provinsi
+8;1;02;03;04;003;Beban Pemeliharaan Jalan dan Jembatan-Jalan-Jalan Kabupaten
+8;1;02;03;04;004;Beban Pemeliharaan Jalan dan Jembatan-Jalan-Jalan Kota
+8;1;02;03;04;005;Beban Pemeliharaan Jalan dan Jembatan-Jalan-Jalan Desa
+8;1;02;03;04;006;Beban Pemeliharaan Jalan dan Jembatan-Jalan-Jalan Tol
+8;1;02;03;04;007;Beban Pemeliharaan Jalan dan Jembatan-Jalan-Jalan Kereta Api
+8;1;02;03;04;008;Beban Pemeliharaan Jalan dan Jembatan-Jalan-Landasan Pacu Pesawat Terbang
+8;1;02;03;04;009;Beban Pemeliharaan Jalan dan Jembatan-Jalan-Jalan Khusus
+8;1;02;03;04;010;Beban Pemeliharaan Jalan dan Jembatan-Jalan-Jalan Lainnya
+8;1;02;03;04;011;Beban Pemeliharaan Jalan dan Jembatan-Jembatan-Jembatan pada Jalan Nasional
+8;1;02;03;04;012;Beban Pemeliharaan Jalan dan Jembatan-Jembatan-Jembatan pada Jalan Provinsi
+8;1;02;03;04;013;Beban Pemeliharaan Jalan dan Jembatan-Jembatan-Jembatan pada Jalan Kabupaten
+8;1;02;03;04;014;Beban Pemeliharaan Jalan dan Jembatan-Jembatan-Jembatan pada Jalan Kota
+8;1;02;03;04;015;Beban Pemeliharaan Jalan dan Jembatan-Jembatan-Jembatan pada Jalan Desa
+8;1;02;03;04;016;Beban Pemeliharaan Jalan dan Jembatan-Jembatan-Jembatan pada Jalan Tol
+8;1;02;03;04;017;Beban Pemeliharaan Jalan dan Jembatan-Jembatan-Jembatan pada Jalan Kereta Api
+8;1;02;03;04;018;"Beban Pemeliharaan Jalan dan Jembatan-Jembatan-Jembatan pada Landasan Pacu
+Pesawat Terbang"
+8;1;02;03;04;019;Beban Pemeliharaan Jalan dan Jembatan-Jembatan-Jembatan pada Jalan Khusus
+8;1;02;03;04;020;Beban
+8;1;02;03;04;021;Beban
+8;1;02;03;04;022;Beban
+8;1;02;03;04;023;Beban
+8;1;02;03;04;024;Beban
+8;1;02;03;04;025;Beban
+8;1;02;03;04;026;Beban
+8;1;02;03;04;027;Beban
+8;1;02;03;04;028;Beban
+8;1;02;03;04;029;Beban
+8;1;02;03;04;030;Beban
+8;1;02;03;04;031;Beban
+8;1;02;03;04;033;"Beban
+Pengairan"
+8;1;02;03;04;037;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengairan Pasang Surut-Bangunan Pelengkap
+Pasang Surut"
+8;1;02;03;04;038;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengairan Pasang Surut-Bangunan Sawah
+Pasang Surut"
+8;1;02;03;04;039;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengairan Pasang Surut-Bangunan Pengairan
+Pasang Surut Lainnya"
+8;1;02;03;04;040;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengembangan Rawa dan Polder-Bangunan
+Waduk Pengembangan Rawa"
+8;1;02;03;04;041;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengembangan Rawa dan Polder-Bangunan
+Pengambilan Pengembangan Rawa"
+8;1;02;03;04;042;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengembangan Rawa dan Polder-Bangunan
+Pembawa Pengembangan Rawa"
+8;1;02;03;04;043;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengembangan Rawa dan Polder-Bangunan
+Pembuang Pengembangan Rawa"
+8;1;02;03;04;044;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengembangan Rawa dan Polder-Bangunan
+Pengaman Pengembangan Rawa"
+8;1;02;03;04;045;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengembangan Rawa dan Polder-Bangunan
+Pelengkap Pengembangan Rawa"
+8;1;02;03;04;046;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengembangan Rawa dan Polder-Bangunan"
+8;1;02;03;04;047;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengembangan Rawa dan Polder-Bangunan
+Pengembangan Rawa Dan Polder Lainnya"
+8;1;02;03;04;048;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengaman Sungai/Pantai dan Penanggulangan
+Bencana Alam-Bangunan Pengaman
+Sungai/Pantai dan Penanggulangan Bencana
+Alam"
+8;1;02;03;04;049;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengaman Sungai/Pantai dan Penanggulangan
+Bencana Alam-Bangunan Pengambilan
+Pengaman Sungai/Pantai"
+8;1;02;03;04;050;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengaman Sungai/Pantai dan Penanggulangan
+Bencana Alam-Bangunan Pembawa Pengaman
+Sungai/Pantai"
+8;1;02;03;04;051;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengaman Sungai/Pantai dan Penanggulangan
+Bencana Alam-Bangunan Pembuang Pengaman
+Sungai"
+8;1;02;03;04;052;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengaman Sungai/Pantai dan Penanggulangan
+Bencana Alam-Bangunan Pengaman
+Pengamanan Sungai/Pantai"
+8;1;02;03;04;053;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengaman Sungai/Pantai dan Penanggulangan
+Bencana Alam-Bangunan Pelengkap Pengaman
+Sungai"
+8;1;02;03;04;054;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengaman Sungai/Pantai dan Penanggulangan
+Bencana Alam-Bangunan Pengaman
+Sungai/Pantai dan Penanggulangan Bencana
+Alam Lainnya"
+8;1;02;03;04;055;"Beban Pemeliharaan Bangunan Air-Bangunan
+Pengembangan Sumber Air dan Air Tanah-Bangunan Waduk Pengembangan Sumber Air"
+8;1;02;03;04;056;"Beban Pemeliharaan Bangunan Air-Bangunan
+Sumber Air dan Air Tanah- Pengembangan
+Pengambilan Pengembangan Bangunan
+Sumber Air"
+8;1;02;03;04;057;"Beban Pemeliharaan Bangunan Air-Bangunan
+Sumber Air Air Tanah- dan Pengembangan
+Pembawa Sumber Pengembangan Bangunan
+Air"
+8;1;02;03;04;058;"Beban Pemeliharaan Bangunan Air-Bangunan
+Sumber Air Air Tanah- dan Pengembangan
+Pembuang Sumber Pengembangan Bangunan
+Air"
+8;1;02;03;04;059;"Pengembangan
+Bangunan
+Air"
+8;1;02;03;04;060;"Pengembangan
+Bangunan
+Air"
+8;1;02;03;04;061;Pengembangan
+8;1;02;03;04;062;Pengembangan
+8;1;02;03;04;063;Beban
+8;1;02;03;04;064;"Beban Pemeliharaan Bangunan Air-Bangunan
+Air Baku Lainnya-Bangunan Bersih/Air
+Pengambilan Air Bersih/Air Baku"
+8;1;02;03;04;065;"Beban Pemeliharaan Ban gunan Air-Bangunan
+Air Baku Lainnya-Bangunan Bersih/Air
+Pembawa Air Bersih/Air Baku"
+8;1;02;03;04;066;"Beban Pemeliharaan Bangunan Air-Bangunan
+Air Baku Lainnya-Bangunan Bersih/Air
+Pembuang Air Bersih/Air Baku"
+8;1;02;03;04;067;"Beban Pemeliharaan Bangunan Air-Bangunan
+Air Baku Lainnya-Bangunan Bersih/Air
+Pelengkap Air Bersih/Air Baku"
+8;1;02;03;04;068;"Beban Pemeliharaan Bangunan Air-Bangunan
+Air Baku Lainnya-Bangunan Air Bersih/Air
+Bersih/Air Baku Lainnya"
+8;1;02;03;04;069;"Beban Pemeliharaan Bangunan Air-Bangunan
+Air Kotor-Bangunan Pembawa Air Kotor"
+8;1;02;03;04;070;"Beban Pemeliharaan Bangunan Air-Bangunan
+Air Kotor-Bangunan Waduk Air Kotor"
+8;1;02;03;04;071;"Beban Pemeliharaan Bangunan Air-Bangunan
+Air Kotor-Bangunan Pembuang Air Kotor"
+8;1;02;03;04;072;"Beban Pemeliharaan Bangunan Air-Bangunan
+Air Kotor-Bangunan Pengaman Air Kotor"
+8;1;02;03;04;073;"Beban Pemeliharaan Bangunan Air-Bangunan
+Air Kotor-Bangunan Pelengkap Air Kotor"
+8;1;02;03;04;074;"Beban Pemeliharaan Bangunan Air-Bangunan
+Air Kotor-Bangunan Air Kotor Lainnya"
+8;1;02;03;04;075;"Beban Pemeliharaan Instalasi-Instalasi Air
+Bersih /Air Baku-Instalasi Air Permukaan"
+8;1;02;03;04;076;"Beban Pemeliharaan Instalasi-Instalasi Air
+Bersih /Air Baku-Instalasi Air Sumber/Mata Air"
+8;1;02;03;04;077;"Beban Pemeliharaan Instalasi-Instalasi Air
+Bersih /Air Baku-Instalasi Air Tanah Dalam"
+8;1;02;03;04;078;"Beban Pemeliharaan Instalasi-Instalasi Air
+Bersih /Air Baku-Instalasi Air Tanah Dangkal"
+8;1;02;03;04;079;"Beban Pemeliharaan Instalasi-Instalasi Air
+Bersih /Air Baku-Instalasi Air Bersih/Air Baku
+Lainnya"
+8;1;02;03;04;080;"Beban Pemeliharaan Instalasi-Instalasi Air
+Kotor-Instalasi Air Buangan Domestik"
+8;1;02;03;04;081;"Beban Pemeliharaan Instalasi-Instalasi Air
+Kotor-Instalasi Air Buangan Industri"
+8;1;02;03;04;082;"Beban Pemeliharaan Instalasi-Instalasi Air
+Kotor-Instalasi Air Buangan Pertanian"
+8;1;02;03;04;083;"Beban Pemeliharaan Instalasi-Instalasi Air
+Kotor-Instalasi Air Kotor Lainnya"
+8;1;02;03;04;084;"Beban Pemeliharaan Instalasi-Instalasi
+Pengolahan Sampah-Instalasi Pengolahan
+Sampah Organik"
+8;1;02;03;04;085;"Beban Pemeliharaan Instalasi-Instalasi
+Pengolahan Sampah-Instalasi Pengolahan
+Sampah Non Organik"
+8;1;02;03;04;086;"Beban Pemeliharaan Instalasi-Instalasi
+Pengolahan Sampah-Bangunan Penampung
+Sampah"
+8;1;02;03;04;087;"Beban Pemeliharaan Instalasi-Instalasi
+Pengolahan Sampah-Instalasi Pengolahan
+Sampah Lainnya"
+8;1;02;03;04;088;"Beban Pemeliharaan Instalasi-Instalasi
+Pengolahan Bahan Bangunan-Instalasi
+Pengolahan Bahan Bangunan Percontohan"
+8;1;02;03;04;089;"Beban Pemeliharaan Instalasi-Instalasi
+Pengolahan Bahan Bangunan-Instalasi
+Pengolahan Bahan Bangunan Perintis"
+8;1;02;03;04;090;"Beban Pemeliharaan Instalasi-Instalasi
+Pengolahan Bahan Bangunan-Instalasi
+Pengolahan Bahan Bangunan Terapan"
+8;1;02;03;04;091;"Beban Pemeliharaan Instalasi-Instalasi
+Pengolahan Bahan Bangunan-Instalasi
+Pengolahan Bahan Bangunan Lainnya"
+8;1;02;03;04;092;"Beban Pemeliharaan Instalasi-Instalasi
+Pembangkit Listrik-Instalasi Pembangkit Listrik
+Tenaga Air (PLTA)"
+8;1;02;03;04;093;"Beban Pemeliharaan Instalasi-Instalasi
+Pembangkit Listrik-Instalasi Pembangkit Listrik
+Tenaga Diesel (PLTD)"
+8;1;02;03;04;094;"Beban Pemeliharaan Instalasi-Instalasi
+Pembangkit Listrik-Instalasi Pembangkit Listrik
+Tenaga Mikro Hidro (PLTM)"
+8;1;02;03;04;095;"Beban Pemeliharaan Instalasi-Instalasi
+Pembangkit Listrik-Instalasi Pembangkit Listrik
+Tenaga Angin (PLTAN)"
+8;1;02;03;04;096;"Beban Pemeliharaan Instalasi-Instalasi
+Pembangkit Listrik-Instalasi Pembangkit Listrik
+Tenaga Uap (PLTU)"
+8;1;02;03;04;097;"Beban Pemeliharaan Instalasi-Instalasi
+Pembangkit Listrik-Instalasi Pembangkit Listrik
+Tenaga Nuklir"
+8;1;02;03;04;098;"Beban Pemeliharaan Instalasi-Instalasi
+Pembangkit Listrik-Instalasi Pembangkit Listrik
+Tenaga Gas (PLTG)"
+8;1;02;03;04;099;"Beban Pemeliharaan Instalasi-Instalasi
+Pembangkit Listrik-Instalasi Pembangkit Listrik
+Tenaga Panas Bumi (PLTP)"
+8;1;02;03;04;100;"Beban Pemeliharaan Instalasi-Instalasi
+Pembangkit Listrik-Instalasi Pembangkit Listrik
+Tenaga Surya (PLTS)"
+8;1;02;03;04;101;Beban
+8;1;02;03;04;102;Beban
+8;1;02;03;04;103;Beban
+8;1;02;03;04;104;Beban
+8;1;02;03;04;105;Beban
+8;1;02;03;04;106;Beban
+8;1;02;03;04;107;Beban
+8;1;02;03;04;108;Beban
+8;1;02;03;04;109;Beban
+8;1;02;03;04;110;Beban
+8;1;02;03;04;111;Beban
+8;1;02;03;04;112;Beban
+8;1;02;03;04;113;Beban Pemeliharaan Instalasi-Instalasi Gas-Instalasi Gas Lainnya
+8;1;02;03;04;114;"Beban Pemeliharaan Instalasi-Instalasi
+Pengaman-Instalasi Pengaman Penangkal Petir"
+8;1;02;03;04;115;"Beban Pemeliharaan Instalasi-Instalasi
+Pengaman-Instalasi Reaktor Nuklir"
+8;1;02;03;04;116;"Beban Pemeliharaan Instalasi-Instalasi
+Pengaman-Instalasi Limbah Pengolahan
+Radioaktif"
+8;1;02;03;04;117;"Beban Pemeliharaan Instalasi-Instalasi
+Pengaman-Instalasi Pengaman Lainnya"
+8;1;02;03;04;118;Beban Pemeliharaan Instalasi-Instalasi Lain-Instalasi Lain
+8;1;02;03;04;119;"Beban Pemeliharaan Jaringan-Jaringan Air
+Minum-Jaringan Pembawa"
+8;1;02;03;04;120;"Beban Pemeliharaan Jaringan-Jaringan Air
+Minum-Jaringan Induk Distribusi"
+8;1;02;03;04;121;"Beban Pemeliharaan Jaringan-Jaringan Air
+Minum-Jaringan Cabang Distribusi"
+8;1;02;03;04;122;"Beban Pemeliharaan Jaringan-Jaringan Air
+Minum-Jaringan Sambungan ke Rumah"
+8;1;02;03;04;123;"Beban Pemeliharaan Jaringan-Jaringan Air
+Minum-Jaringan Air Minum Lainnya"
+8;1;02;03;04;124;Beban Pemeliharaan Jaringan-Jaringan Listrik-Jaringan Transmisi
+8;1;02;03;04;125;Beban Pemeliharaan Jaringan-Jaringan Listrik-Jaringan Distribusi
+8;1;02;03;04;126;Beban Pemeliharaan Jaringan-Jaringan Listrik-Jaringan Listrik Lainnya
+8;1;02;03;04;127;"Beban Pemeliharaan Jaringan-Jaringan
+Telepon-Jaringan Telepon di atas Tanah"
+8;1;02;03;04;128;"Beban Pemeliharaan Jaringan-Jaringan
+Telepon-Jaringan Telepon di bawah Tanah"
+8;1;02;03;04;129;"Beban Pemeliharaan Jaringan-Jaringan
+Telepon-Jaringan Telepon di dalam Air"
+8;1;02;03;04;130;"Beban Pemeliharaan Jaringan-Jaringan
+Telepon-Jaringan dengan Media Udara"
+8;1;02;03;04;131;"Beban Pemeliharaan Jaringan-Jaringan
+Telepon-Jaringan Telepon Lainnya"
+8;1;02;03;04;132;Beban Pemeliharaan Jaringan-Jaringan Gas-Jaringan Pipa Gas Transmisi
+8;1;02;03;04;133;Beban Pemeliharaan Jaringan-Jaringan Gas-Jaringan Pipa Distribusi
+8;1;02;03;04;134;Beban Pemeliharaan Jaringan-Jaringan Gas-Jaringan Pipa Dinas
+8;1;02;03;04;135;Beban Pemeliharaan Jaringan-Jaringan Gas-Jaringan BBM
+8;1;02;03;04;136;Beban Pemeliharaan Jaringan-Jaringan Gas-Jaringan Gas Lainnya
+8;1;02;03;05;;Beban Pemeliharaan Aset Tetap Lainnya
+8;1;02;03;05;001;Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Buku Umum
+8;1;02;03;05;002;Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Buku Filsafat
+8;1;02;03;05;003;Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Buku Agama
+8;1;02;03;05;004;"Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Buku Ilmu
+Sosial"
+8;1;02;03;05;005;"Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Buku Ilmu
+Bahasa"
+8;1;02;03;05;006;"Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Buku
+Matematika dan Pengetahuan Alam"
+8;1;02;03;05;007;"Beban Pemeliharaan Bahan Perpustakaan-Bahan Tercetak-Buku Ilmu Perpustakaan
+Pengetahuan Praktis"
+8;1;02;03;05;008;"Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Buku Arsitektur,
+Kesenian, dan Olahraga"
+8;1;02;03;05;009;"Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Buku Geografi,
+Biografi , dan Sejarah"
+8;1;02;03;05;010;Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Serial
+8;1;02;03;05;011;Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Buku Laporan
+8;1;02;03;05;012;"Beban Pemeliharaan Bahan Perpustakaan-Bahan Perpustakaan Tercetak-Bahan
+Perpustakaan Tercetak Lainnya"
+8;1;02;03;05;013;"Beban Pemeliharaan Bahan Perpustakaan-Bahan Terekam dan Bentuk Perpustakaan
+Mikro-Audio Visual"
+8;1;02;03;05;014;"Beban Pemeliharaan Bahan Perpustakaan-Bahan Terekam dan Bentuk Perpustakaan
+Mikro-Bentuk Mikro (Microform)"
+8;1;02;03;05;015;"Beban Pemeliharaan Bahan Perpustakaan-Bahan Terekam dan Bentuk Perpustakaan
+Mikro-Terekam dan Bentuk Mikro Lainnya"
+8;1;02;03;05;016;"Beban Pemeliharaan Bahan Perpustakaan-Kartografi, Naskah, dan Lukisan-Bahan
+Kartografi"
+8;1;02;03;05;017;"Beban Pemeliharaan Bahan Perpustakaan-Kartografi, Naskah, dan Lukisan-Naskah
+(Manuskrip)/Asli"
+8;1;02;03;05;018;"Beban Pemeliharaan Bahan Perpustakaan-Kartografi, Naskah, dan Lukisan-Lukisan dan
+Ukiran"
+8;1;02;03;05;019;"Beban Pemeliharaan Bahan Perpustakaan-Kartografi, Naskah, dan Lukisan-Kartografi,
+Naskah dan Lukisan Lainnya"
+8;1;02;03;05;020;Beban Pemeliharaan Bahan Perpustakaan-Musik-Karya Musik
+8;1;02;03;05;021;Beban Pemeliharaan Bahan Perpustakaan-Musik-Musik Lainnya
+8;1;02;03;05;022;"Beban Pemeliharaan Bahan Perpustakaan-Karya (Graphic Material)-Karya Grafika Grafika
+(Graphic Material)"
+8;1;02;03;05;023;"Beban Pemeliharaan Bahan Perpustakaan-Karya (Graphic Material)-Karya Grafika Grafika
+(Graphic Material) Lainnya"
+8;1;02;03;05;024;"Beban Pemeliharaan Bahan Perpustakaan-Three Artifacts and Realita-Three Dimensional
+Dimensional Artifacts and Realita"
+8;1;02;03;05;025;"Beban Pemeliharaan Bahan Perpustakaan-Three Artifacts and Realita-Three Dimensional
+Dimensional Artifacts and Realita Lainnya"
+8;1;02;03;05;026;Beban Pemeliharaan Bahan Perpustakaan-Tarscalt-Tarscalt
+8;1;02;03;05;027;Beban Pemeliharaan Bahan Perpustakaan-Tarscalt-Tarscalt Lainnya
+8;1;02;03;05;028;"Beban Pemeliharaan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-Barang
+Bercorak Kesenian-Alat Musik"
+8;1;02;03;05;029;"Beban Pemeliharaan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-Barang
+Bercorak Kesenian-Lukisan"
+8;1;02;03;05;030;"Beban Pemeliharaan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-Barang
+Bercorak Kesenian-Alat Peraga Kesenian"
+8;1;02;03;05;031;"Beban Pemeliharaan Barang Bercorak
+Kesenian /Kebudayaan/Olahraga-Barang
+Bercorak Kesenian-Barang Bercorak Kesenian
+Lainnya"
+8;1;02;03;05;032;"Beban Pemeliharaan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-Alat Bercorak
+Kebudayaan-Pahatan"
+8;1;02;03;05;033;"Beban Pemeliharaan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-Alat Bercorak
+Kebudayaan-Maket, Miniatur, Replika, Foto
+Dokumen dan Benda Bersejarah"
+8;1;02;03;05;034;"Beban Pemeliharaan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-Alat Bercorak
+Kebudayaan-Barang Kerajinan"
+8;1;02;03;05;035;"Beban Pemeliharaan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-Alat Bercorak
+Kebudayaan-Alat Bercorak Kebudayaan
+Lainnya"
+8;1;02;03;05;036;"Beban Pemeliharaan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-Tanda
+Penghargaan-Tanda Penghargaan Bidang"
+8;1;02;03;05;038;"Beban
+Hewan"
+8;1;02;03;05;039;"Beban
+Hewan"
+8;1;02;03;05;040;Beban
+8;1;02;03;05;041;Beban
+8;1;02;03;05;042;"Beban
+Ternak"
+8;1;02;03;05;043;"Beban
+Ternak"
+8;1;02;03;05;044;"Beban
+Ternak"
+8;1;02;03;05;045;"Beban
+Ternak"
+8;1;02;03;05;046;"Beban
+Hewan"
+8;1;02;03;05;047;Beban
+8;1;02;03;05;048;"Beban Pemeliharaan Biota Perairan-Crustacea
+(Udang , Rajungan, Kepiting, dan Sebangsanya)-Crustacea Budidaya (Udang, Rajungan,
+Kepiting, dan Sebangsanya)"
+8;1;02;03;05;049;"Beban Pemeliharaan Biota Perairan-Mollusca
+(Kerang, Tiram, Cumi-Cumi, Gurita, Siput, dan
+Sebangsanya)-Mollusca Budidaya (Kerang,
+Tiram, Cumi-cumi, Gurita, Siput, dan
+Sebangsanya)"
+8;1;02;03;05;050;"Beban Pemeliharaan Biota Perairan-Coelenterata (Ubur-Ubur dan Sebangsanya)-Coelenterata Budidaya (Ubur-Ubur dan
+Sebangsanya)"
+8;1;02;03;05;051;"Beban Pemeliharaan Biota Perairan-Echinodermata (Tripang, Bulu Babi dan
+Sebangsanya)-Echinodermata Budidaya
+(Tripang, Bulu Babi, dan Sebangsanya)"
+8;1;02;03;05;052;"Beban Pemeliharaan Biota Perairan-Amphibia
+(Kodok dan Sebangsanya)-Amphibia budidaya
+(Kodok dan Sebangsanya)"
+8;1;02;03;05;053;"Beban Pemeliharaan Biota Perairan-Reptilia
+(Buaya, Penyu, Kura-Kura, Biawak, Ular Air
+dan Sebangsanya)-Reptilia Budidaya (Buaya,
+Penyu, Biawak, Ular Air dan Kura-Kura,
+Sebangsanya)"
+8;1;02;03;05;054;"Beban Pemeliharaan Biota Perairan-Mammalia
+(Paus, Lumba-Lumba, Pesut, Duyung, dan
+Sebangsanya)-Mammalia Budidaya (Paus,
+Lumba-Lumba, Pesut, Duyung, dan
+Sebangsanya)"
+8;1;02;03;05;055;"Beban Pemeliharaan Biota Perairan-Algae
+(Rumput Laut dan Tumbuh-Tumbuhan Lain
+yang Hidup di dalam Air)-Algae Budidaya
+(Rumput Laut dan Tumbuh-Tumbuhan Lain
+yang Hidup di dalam Air)"
+8;1;02;03;05;056;Beban
+8;1;02;03;05;057;"Beban
+Tanaman"
+8;1;02;03;05;058;Beban
+8;1;02;03;05;059;Beban
+8;1;02;03;05;060;Beban
+8;1;02;03;05;061;"Beban Pemeliharaan Barang Koleksi Non
+Budaya-Barang Koleksi Non Budaya-Mikroba
+Koleksi"
+8;1;02;03;05;062;"Beban Pemeliharaan Barang Koleksi Non
+Budaya-Barang Koleksi Non Budaya-Batuan
+Koleksi"
+8;1;02;03;05;063;"Beban Pemeliharaan Barang Koleksi Non
+Budaya-Barang Koleksi Non Budaya-Fosil"
+8;1;02;03;05;064;"Beban Pemeliharaan Barang Koleksi Non
+Budaya-Barang Koleksi Non Budaya-Barang
+Koleksi Non Budaya Lainnya"
+8;1;02;03;05;065;"Beban Pemeliharaan Aset dalam Renovasi-Aset
+dalam Renovasi-Aset dalam Renovasi"
+8;1;02;03;06;;Beban Perawatan Kendaraan Bermotor
+8;1;02;03;06;001;Beban Jasa Servis
+8;1;02;03;06;002;Beban Penggantian Suku Cadang
+8;1;02;03;06;003;Beban Minyak Pelumas
+8;1;02;03;06;004;Beban Jasa KIR
+8;1;02;03;06;005;Beban Surat Tanda Nomor Kendaraan
+8;1;02;03;06;006;Beban Perpanjangan Surat Izin Mengemudi
+8;1;02;03;06;007;Beban Pajak Kendaraan Bermotor
+8;1;02;03;06;008;Beban Bea Balik Nama Kendaraan Bermotor
+8;1;02;04;03;001;"Beban
+Daerah"
+8;1;02;04;03;002;"Beban
+Daerah"
+8;1;02;04;04;002;"Beban Pemulangan Pegawai yang Tewas Dalam
+Melaksanakan Tugas"
+8;1;02;05;;;"Beban Barang untuk Diserahkan/Dijual/
+Diberikan kepada Masyarakat/Pihak Ketiga"
+8;1;02;05;01;;"Beban Barang dan/atau Jasa yang Diserahkan
+kepada Masyarakat/Pihak Ketiga"
+8;1;02;05;01;001;"Beban Barang dan/atau Jasa yang Diserahkan
+kepada Masyarakat"
+8;1;02;05;01;002;"Beban Barang dan/atau Jasa yang Diserahkan
+kepada Pihak Ketiga"
+8;1;02;05;02;;"Beban Barang dan/atau Jasa yang Dijual
+kepada Masyarakat atau Pihak Ketiga"
+8;1;02;05;02;001;"Beban Barang dan/atau Jasa yang Dijual
+kepada Masyarakat"
+8;1;02;05;02;002;"Beban Barang dan/atau Jasa yang Dijual
+kepada Pihak Ketiga"
+8;1;02;05;03;;"Beban Pemberian Uang yang Diberikan kepada
+Pihak Ketiga/Masyarakat"
+8;1;02;05;03;001;"Beban Pemberian Uang yang Diberikan kepada
+Masyarakat"
+8;1;02;05;03;002;"Beban Pemberian Uang yang Diberikan kepada
+Pihak Ketiga"
+8;1;03;;;;Beban Bunga
+8;1;03;01;;;Beban Bunga Utang kepada Pemerintah Pusat
+8;1;03;01;01;;"Beban Bunga Utang kepada Pemerintah Pusat
+atas Penerusan Pinjaman Dalam Negeri-Jangka
+Menengah"
+8;1;03;01;01;001;"Beban Bunga Utang kepada Pemerintah Pusat
+… atas Penerusan Pinjaman Dalam Negeri-Jangka Menengah"
+8;1;03;01;01;002;Dst ...
+8;1;03;01;02;;"Beban Bunga Utang kepada Pemerintah Pusat
+atas Penerusan Pinjaman Dalam Negeri-Jangka
+Panjang"
+8;1;03;01;02;001;"Beban Bunga Utang kepada Pemerintah Pusat
+… atas Penerusan Pinjaman Dalam Negeri-Jangka Panjang"
+8;1;03;01;02;002;Dst ...
+8;1;03;01;03;;"Beban Bunga Utang kepada Pemerintah Pusat
+atas Penerusan Pinjaman Luar Negeri-Jangka
+Menengah"
+8;1;03;01;03;001;"Beban Bunga Utang kepada Pemerintah Pusat
+… atas Penerusan Pinjaman Luar Negeri-Jangka Menengah"
+8;1;03;01;03;002;Dst ...
+8;1;03;01;04;;"Beban Bunga Utang kepada Pemerintah Pusat
+atas Penerusan Pinjaman Luar Negeri-Jangka
+Panjang"
+8;1;03;01;04;001;"Beban Bunga Utang kepada Pemerintah Pusat
+atas Pinjaman Luar Negeri …- Penerusan
+Jangka Panjang"
+8;1;03;01;04;002;Dst ...
+8;1;03;01;05;;"Beban Bunga Utang kepada Pemerintah Pusat
+atas Pinjaman Sumber Lainnya sesuai
+Ketentuan Peraturan Perundang-Undangan-Jangka Menengah"
+8;1;03;01;05;001;"Beban Bunga Utang kepada Pemerintah Pusat
+atas Pinjaman Sumber Lainnya … sesuai
+Ketentuan Peraturan Perundang-Undangan-Jangka Menengah"
+8;1;03;01;05;002;Dst ...
+8;1;03;01;06;;"Beban Bunga Utang Pinjaman Sumber Lainnya
+sesuai Ketentuan Peraturan Perundang-Undangan-Jangka Panjang"
+8;1;03;01;06;001;"Beban Bunga Utang Pinjaman Sumber Lainnya
+... Ketentuan Peraturan Perundang- sesuai
+Undangan-Jangka Panjang"
+8;1;03;01;06;001;Dst ...
+8;1;03;02;;;"Beban Bunga Utang atas Pinjaman kepada
+Pemerintah Daerah Lain"
+8;1;03;02;01;;"Beban Bunga Utang atas Pinjaman kepada
+Pemerintah Daerah Lain-Jangka Pendek"
+8;1;03;02;01;001;"Beban Bunga Utang atas Pinjaman kepada
+Pemerintah Daerah Lain ...-Jangka Pendek"
+8;1;03;02;01;002;Dst ...
+8;1;03;03;;;"Beban Bunga Utang Pinjaman kepada Lembaga
+Keuangan Bank (LKB)"
+8;1;03;03;01;;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMN-Jangka Pendek"
+8;1;03;03;01;001;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMN ...-Jangka Pendek"
+8;1;03;03;01;002;Dst ...
+8;1;03;03;02;;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMN-Jangka Menengah"
+8;1;03;03;02;001;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMN ...-Jangka Menengah"
+8;1;03;03;02;002;Dst ...
+8;1;03;03;03;;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMN-Jangka Panjang"
+8;1;03;03;03;001;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMN ...-Jangka Panjang"
+8;1;03;03;03;002;Dst ...
+8;1;03;03;04;;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMD-Jangka Pendek"
+8;1;03;03;04;001;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMD ...-Jangka Pendek"
+8;1;03;03;04;002;Dst ...
+8;1;03;03;05;;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMD-Jangka Menengah"
+8;1;03;03;05;001;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMD ...-Jangka Menengah"
+8;1;03;03;05;002;Dst ...
+8;1;03;03;06;;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMD-Jangka Panjang"
+8;1;03;03;06;001;"Beban Bunga Utang atas Pinjaman kepada
+LKB-BUMD ...-Jangka Panjang"
+8;1;03;03;06;002;Dst ...
+8;1;03;03;07;;"Beban Bunga Utang atas Pinjaman kepada
+LKB-Swasta-Jangka Pendek"
+8;1;03;03;07;001;"Beban Bunga Utang atas Pinjaman kepada
+LKB-Swasta ...-Jangka Pendek"
+8;1;03;03;07;002;Dst ...
+8;1;03;03;08;;"Beban Bunga Utang atas Pinjaman kepada
+LKB-Swasta-Jangka Menengah"
+8;1;03;03;08;001;"Beban Bunga Utang atas Pinjaman kepada
+LKB-Swasta ...-Jangka Menengah"
+8;1;03;03;08;002;Dst ...
+8;1;03;03;09;;"Beban Bunga Utang atas Pinjaman kepada
+LKB-Swasta-Jangka Panjang"
+8;1;03;03;09;001;"Beban Bunga Utang atas Pinjaman kepada
+LKB-Swasta ...-Jangka Panjang"
+8;1;03;03;09;002;Dst ...
+8;1;03;04;;;"Beban Bunga Utang atas Pinjaman kepada
+Lembaga Keuangan Bukan Bank (LKBB)"
+8;1;03;04;01;;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMN-Jangka Pendek"
+8;1;03;04;01;001;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMN ...-Jangka Pendek"
+8;1;03;04;01;002;Dst ...
+8;1;03;04;02;;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMN-Jangka Menengah"
+8;1;03;04;02;001;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMN ... -Jangka Menengah"
+8;1;03;04;02;002;Dst ...
+8;1;03;04;03;;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMN-Jangka Panjang"
+8;1;03;04;03;001;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMN ...-Jangka Panjang"
+8;1;03;04;03;002;Dst ...
+8;1;03;04;04;;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMD-Jangka Pendek"
+8;1;03;04;04;001;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMD ...-Jangka Pendek"
+8;1;03;04;04;002;Dst ...
+8;1;03;04;05;;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMD-Jangka Menengah"
+8;1;03;04;05;001;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMD ...-Jangka Menengah"
+8;1;03;04;05;002;Dst ...
+8;1;03;04;06;;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMD-Jangka Panjang"
+8;1;03;04;06;001;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-BUMD ...-Jangka Panjang"
+8;1;03;04;06;002;Dst ...
+8;1;03;04;07;;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-Swasta ... -Jangka Pendek"
+8;1;03;04;07;001;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-Swasta ... -Jangka Pendek"
+8;1;03;04;07;002;Dst ...
+8;1;03;04;08;;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-Swasta ...-Jangka Menengah"
+8;1;03;04;08;001;"Beban Bunga Utang atas Pinjaman kepada
+LKBB-Swasta ...-Jangka Menengah"
+8;1;03;04;08;002;Dst ...
+8;1;03;04;09;;Beban
+8;1;03;04;09;001;Beban
+8;1;3;04;09;002;Dst ...
+8;1;03;05;01;;"Beban
+Obligasi"
+8;1;03;05;01;001;"Belanja
+(Obligasi)"
+8;1;03;06;;;"Beban
+Pendek"
+8;1;03;06;01;;"Beban
+Pendek"
+8;1;03;06;01;002;Dst ...
+8;1;03;06;02;;"Beban Bunga Utang Pinjaman BLUD-Jangka
+Menengah"
+8;1;03;06;02;001;"Beban Bunga Utang Pinjaman BLUD ...-Jangka
+Menengah"
+8;1;03;06;02;002;Dst ...
+8;1;03;06;03;;"Beban Bunga Utang Pinjaman BLUD-Jangka
+Panjang"
+8;1;03;06;03;001;"Beban Bunga Utang Pinjaman BLUD ...-Jangka
+Panjang"
+8;1;03;06;03;002;Dst ...
+8;1;04;;;;Beban Subsidi
+8;1;04;01;;;Beban Subsidi kepada BUMN
+8;1;04;01;01;;Beban Subsidi kepada BUMN …
+8;1;04;01;01;001;Beban Subsidi kepada BUMN …
+8;1;04;01;02;;Dst …
+8;1;04;01;02;001;Dst …
+8;1;04;02;;;Beban Subsidi kepada BUMD
+8;1;04;02;01;;Beban Subsidi kepada BUMD …
+8;1;04;02;01;001;Beban Subsidi BUMD …
+8;1;04;02;02;;Dst …
+8;1;04;02;02;001;Dst …
+8;1;04;03;;;"Beban
+Swasta"
+8;1;04;03;01;;"Beban
+Swasta"
+8;1;04;03;01;001;"Beban
+Swasta"
+8;1;04;03;02;;Dst …
+8;1;04;03;02;001;Dst …
+8;1;05;01;;;Beban Hibah kepada Pemerintah Pusat
+8;1;05;01;01;;Beban Hibah Uang kepada Pemerintah Pusat
+8;1;05;01;01;001;Beban Hibah Uang kepada Pemerintah Pusat …
+8;1;05;01;01;001;Dst …
+8;1;05;01;02;;Beban Hibah Barang kepada Pemerintah Pusat
+8;1;05;01;02;001;"Beban Hibah Barang kepada Pemerintah Pusat
+…"
+8;1;05;01;02;002;Dst …
+8;1;05;01;02;002;Dst …
+8;1;05;02;;;"Beban
+Lainnya"
+8;1;05;02;01;002;Dst …
+8;1;05;02;02;;"Beban
+Daerah"
+8;1;05;02;02;001;"Beban
+Daerah"
+8;1;05;02;02;002;Dst …
+8;1;05;02;03;;"Beban Hibah Jasa kepada Pemerintah Daerah
+Lainnya"
+8;1;05;02;03;001;Beban Hibah Jasa kepada Pemerintah Pusat …
+8;1;05;02;03;002;Dst …
+8;1;05;03;;;Beban Hibah kepada BUMN
+8;1;05;03;01;;Beban Hibah Uang kepada BUMN
+8;1;05;03;01;001;Beban Hibah Uang kepada BUMN …
+8;1;05;03;01;002;Dst …
+8;1;05;03;02;;Beban Hibah Barang kepada BUMN …
+8;1;05;03;02;001;Beban Hibah Barang kepada BUMN …
+8;1;05;03;02;002;Dst …
+8;1;05;03;03;;Beban Hibah Jasa kepada BUMN …
+8;1;05;03;03;001;Beban Hibah Jasa kepada BUMN …
+8;1;05;03;03;002;Dst …
+8;1;05;04;;;Beban Hibah Uang kepada BUMD
+8;1;05;04;01;;Beban Hibah Uang kepada BUMD …
+8;1;05;04;01;001;Beban Hibah Uang kepada BUMD …
+8;1;05;04;01;002;Dst …
+8;1;05;04;02;;Beban Hibah Barang kepada BUMD …
+8;1;05;04;02;001;Beban Hibah Barang kepada BUMD …
+8;1;05;04;02;002;Dst …
+8;1;05;04;03;;Beban Hibah Jasa kepada BUMD …
+8;1;05;04;03;001;Beban Hibah Jasa kepada BUMD …
+8;1;05;04;03;002;Dst …
+8;1;05;05;;;"Beban Hibah kepada Badan, Lembaga,
+Organisasi Kemasyarakatan yang Berbadan
+Hukum Indonesia"
+8;1;05;05;01;;"Beban Hibah Uang kepada Badan/Lembaga
+yang Berbadan Hukum Indonesia"
+8;1;05;05;01;001;"Belanja Hibah Uang kepada Badan/Lembaga ...
+yang Berbadan Hukum Indonesia"
+8;1;05;05;01;001;Dst …
+8;1;05;05;02;;"Beban Hibah Barang kepada Badan/Lembaga
+yang Berbadan Hukum Indonesia"
+8;1;05;05;02;001;"Beban Hibah Barang kepada Badan/Lembaga
+... yang Berbadan Hukum Indonesia"
+8;1;05;05;02;002;Dst …
+8;1;05;05;03;;"Beban Hibah Jasa kepada Badan/Lembaga
+yang Berbadan Hukum Indonesia"
+8;1;05;05;03;001;"Beban Hibah Jasa kepada Badan/Lembaga ...
+yang Berbadan Hukum Indonesia"
+8;1;05;05;03;002;Dst …
+8;1;05;05;04;;"Beban Hibah Uang kepada Organisasi
+Kemasyarakatan yang Berbadan Hukum
+Indonesia"
+8;1;05;05;04;001;"Beban Hibah Uang kepada Organisasi
+Kemasyarakatan ... yang Berbadan Hukum
+Indonesia"
+8;1;05;05;04;002;Dst …
+8;1;05;05;05;;"Beban Hibah Barang kepada Organisasi
+Kemasyarakatan yang Berbadan Hukum
+Indonesia"
+8;1;05;05;05;001;"Beban Hibah Barang kepada Organisasi
+Kemasyarakatan ... yang Berbadan Hukum
+Indonesia"
+8;1;05;05;05;002;Dst …
+8;1;05;05;06;;"Beban Hibah Jasa kepada Organisasi
+Kemasyarakatan yang Berbadan Hukum
+Indonesia"
+8;1;05;05;06;001;"Beban Hibah Jasa kepada Organisasi
+Kemasyarakatan ... yang Berbadan Hukum
+Indonesia"
+8;1;05;05;06;002;Dst …
+8;1;05;06;;;Beban Hibah Dana BOS
+8;1;05;06;01;;"Beban Hibah Uang Dana BOS yang Diterima
+oleh Satdikdas Negeri"
+8;1;5;06;01;001;"Beban Hibah Uang Dana BOS yang Diterima
+oleh Satdikdas Negeri …"
+8;1;5;06;01;002;Dst …
+8;1;05;06;02;;"Beban Hibah Uang Dana BOS yang Diterima
+oleh Satdikdas Swasta"
+8;1;05;06;02;001;"Beban Hibah Uang Dana BOS yang Diterima
+oleh Satdikdas Swasta …"
+8;1;05;06;02;002;Dst …
+8;1;05;06;03;;"Beban Hibah Uang Dana BOS yang Diterima
+oleh Satdikmen Swasta …"
+8;1;05;06;03;001;"Beban Hibah Uang Dana BOS yang Diterima
+oleh Satdikmen Swasta …"
+8;1;05;06;03;002;Dst …
+8;1;05;06;04;;"Beban Hibah Uang Dana BOS yang Diterima
+oleh Satdiksus Swasta"
+8;1;05;06;04;001;"Beban Hibah Uang Dana BOS yang Diterima
+oleh Satdiksus Swasta …"
+8;1;05;06;04;002;Dst …
+8;1;05;07;;;"Beban Hibah Bantuan Keuangan Kepada Partai
+Politik"
+8;1;05;07;01;;"Beban Hibah Bantuan Keuangan Kepada Partai
+Politik …"
+8;1;05;07;01;001;"Beban Hibah berupa Bantuan Keuangan
+Kepada Partai Politik …"
+8;1;05;07;01;002;Dst …
+8;1;06;;;;Beban Bantuan Sosial
+8;1;06;01;;;Beban Bantuan Sosial Uang kepada Individu
+8;1;06;01;01;;"Beban Bantuan Sosial Uang yang
+Direncanakan kepada Individu"
+8;1;06;01;01;001;"Beban Bantuan Sosial Uang yang
+Direncanakan kepada Individu …"
+8;1;06;01;01;002;Dst …
+8;1;06;01;02;;"Beban Bantuan Sosial Barang yang
+Direncanakan kepada Individu"
+8;1;06;01;02;001;"Beban Bantuan Sosial Barang kepada Individu
+yang Direncanakan …"
+8;1;06;01;02;002;Dst …
+8;1;06;02;;;Beban Bantuan Sosial Uang kepada Keluarga
+8;1;06;02;01;;"Beban Bantuan Sosial Uang yang
+Direncanakan kepada Keluarga"
+8;1;06;02;01;001;"Beban Bantuan Sosial Uang yang
+Direncanakan kepada Keluarga …"
+8;1;06;02;01;002;Dst …
+8;1;06;02;02;;"Beban Bantuan Sosial Barang yang
+Direncanakan kepada Keluarga …"
+8;1;06;02;02;001;"Beban Bantuan Sosial Barang yang
+Direncanakan kepada Keluarga …"
+8;1;06;02;02;002;Dst …
+8;1;06;03;;;"Beban Bantuan Sosial Uang kepada Kelompok
+Masyarakat"
+8;1;06;03;01;;"Beban Bantuan Sosial Uang yang
+Direncanakan kepada Kelompok Masyarakat"
+8;1;06;03;01;001;"Beban Bantuan Sosial Uang yang
+Direncanakan kepada Kelompok Masyarakat …"
+8;1;06;03;01;002;Dst …
+8;1;06;03;02;;"Beban Bantuan Sosial Barang kepada
+Kelompok Masyarakat"
+8;1;06;03;02;001;"Beban Bantuan Sosial Barang yang
+Direncanakan kepada Kelompok Masyarakat …"
+8;1;06;03;02;002;Dst …
+8;1;06;04;;;"Beban Bantuan Sosial Uang kepada Lembaga
+Non Pemerintahan (Bidang Pendidikan,
+Keagamaan dan Bidang Lainnya)"
+8;1;06;04;01;;"Beban Bantuan Sosial Uang yang
+Direncanakan kepada Lembaga Non
+Pemerintahan (Bidang Pendidikan, Keag amaan
+dan Bidang Lainnya) …"
+8;1;06;04;01;001;"Beban Bantuan Sosial Uang yang
+Direncanakan kepada Lembaga Non
+Pemerintahan Bidang (Pendidikan, Keagamaan
+dan Bidang Lainnya) …"
+8;1;06;04;01;001;Dst …
+8;1;06;04;02;;"Beban Bantuan Sosial Barang yang
+Direncanakan kepada Lembaga Non
+Pemerintahan (Bidang Pendidikan, Keagamaan
+dan Bidang Lainnya)"
+8;1;06;04;02;001;"Beban Bantuan Sosial Barang yang
+Direncanakan kepada Lembaga Non
+Pemerintahan Bidang (Pendidikan, Keagamaan
+dan Bidang Lainnya) …"
+8;1;06;04;02;001;Dst …
+8;2;;;;;Beban Penyusutan dan Amortisasi
+8;2;01;;;;Beban Penyusutan Peralatan dan Mesin
+8;2;01;01;;;Beban Penyusutan Alat Besar
+8;2;01;01;01;009;Beban Penyusutan Loader
+8;2;01;01;01;010;Beban Penyusutan Alat Pengangkat
+8;2;01;01;01;011;Beban Penyusutan Mesin Proses
+8;2;01;01;01;012;Beban Penyusutan Alat Besar Darat Lainnya
+8;2;01;01;02;;Beban Penyusutan Alat Besar Apung
+8;2;01;01;02;001;Beban Penyusutan Dredger
+8;2;01;01;02;002;Beban Penyusutan Floating Excavator
+8;2;01;01;02;003;Beban Penyusutan Amphibi Dredger
+8;2;01;01;02;004;Beban Penyusutan Kapal Tarik
+8;2;01;01;02;005;Beban Penyusutan Mesin Proses Apung
+8;2;01;01;02;006;Beban Penyusutan Alat Besar Apung Lainnya
+8;2;01;01;03;;Beban Penyusutan Alat Bantu
+8;2;01;01;03;001;Beban Penyusutan Alat Penarik
+8;2;01;01;03;002;Beban Penyusutan Feeder
+8;2;01;01;03;003;Beban Penyusutan Compressor
+8;2;01;01;03;004;Beban Penyusutan Electric Generating Set
+8;2;01;01;03;005;Beban Penyusutan Pompa
+8;2;01;01;03;006;Beban Penyusutan Mesin Bor
+8;2;01;01;03;007;"Beban
+Lapangan"
+8;2;01;01;03;009;"Beban
+Panas/"
+8;2;01;01;03;010;Beban
+8;2;01;01;03;012;"Beban
+Hutan"
+8;2;01;01;03;015;Beban Penyusutan Peralatan Intelijen
+8;2;01;01;03;016;Beban Penyusutan Alat Bantu Lainnya
+8;2;01;02;;;Beban Penyusutan Alat Angkutan
+8;2;01;02;01;;"Beban Penyusutan Alat Angkutan Darat
+Bermotor"
+8;2;01;02;01;001;"Beban Penyusutan Kendaraan Dinas Bermotor
+Perorangan"
+8;2;01;02;01;002;"Beban Penyusutan Kendaraan Bermotor
+Penumpang"
+8;2;01;02;01;003;"Beban Penyusutan Kendaraan Bermotor
+Angkutan Barang"
+8;2;01;02;01;006;"Beban
+Khusus"
+8;2;01;02;01;009;Beban
+8;2;01;02;02;002;"Beban Penyusutan Kendaraan Tak Bermotor
+Penumpang"
+8;2;01;02;02;003;"Beban Penyusutan Alat Angkutan Kereta Rel
+Tak Bermotor"
+8;2;01;02;02;004;"Beban Penyusutan Alat Angkutan Darat Tak
+Bemotor Lainnya"
+8;2;01;02;03;;"Beban Penyusutan Alat Angkutan Apung
+Bermotor"
+8;2;01;02;03;001;"Beban Penyusutan Alat Angkutan Apung
+Bermotor untuk Barang"
+8;2;01;02;03;002;"Beban Penyusutan Alat Angkutan Apung
+Bermotor untuk Penumpang"
+8;2;01;02;03;003;"Beban Penyusutan Alat Angkutan Apung
+Bermotor Khusus"
+8;2;01;02;03;004;"Beban
+Bermotor Militer"
+8;2;01;02;03;005;"Beban
+Bermoto"
+8;2;01;02;04;;"Beban
+Bermotor"
+8;2;01;02;04;001;Beban
+8;2;01;02;04;002;Beban
+8;2;01;02;04;003;"Beban
+Bermotor Khusus"
+8;2;01;02;04;004;Beban
+8;2;01;02;05;;"Beban
+Udara"
+8;2;01;02;05;002;"Beban
+Udara"
+8;2;01;03;01;005;Beban
+8;2;01;03;01;010;"Beban
+Lainnya"
+8;2;01;03;02;001;Beban
+8;2;01;03;02;006;"Beban
+Tools)"
+8;2;01;03;02;011;"Beban
+Feeting"
+8;2;01;03;02;012;"Beban
+Peladam"
+8;2;01;03;03;004;Beban Penyusutan Alat Ukur/Tes Klinis Lain
+8;2;01;03;03;005;Beban Penyusutan Alat Kalibrasi
+8;2;01;03;03;006;Beban Penyusutan Oscilloscope
+8;2;01;03;03;007;Beban Penyusutan Universal Tester
+8;2;01;03;03;008;Beban Penyusutan Alat Ukur/Pembanding
+8;2;01;03;03;009;Beban Penyusutan Alat Ukur Lain-Lain
+8;2;01;03;03;010;Beban Penyusutan Alat Timbangan/Biara
+8;2;01;03;03;011;Beban Penyusutan Anak Timbangan/Biara
+8;2;01;03;03;015;"Beban
+Bermotor"
+8;2;01;03;03;017;"Beban
+Alam"
+8;2;01;03;03;019;"Beban Penyusutan Alat Pengukur Ketepatan
+dan Koreksi Waktu"
+8;2;01;03;03;020;"Beban Penyusutan Alat Ukur
+Workshop"
+8;2;01;03;03;021;Beban Penyusutan Alat Ukur Lainnya
+8;2;01;04;;;Beban Penyusutan Alat Pertanian
+8;2;01;04;01;;Beban Penyusutan Alat Pengolahan
+8;2;01;04;01;001;"Beban Penyusutan Alat Pengolahan Tanah dan
+Tanaman"
+8;2;01;04;01;002;"Beban Penyusutan Alat Pemeliharaan
+Tanaman /Ikan/Ternak"
+8;2;01;04;01;003;Beban Penyusutan Alat Panen
+8;2;01;04;01;004;"Beban Penyusutan Alat Penyimpan Hasil
+Percobaan Pertanian"
+8;2;01;05;;;"Beban
+Tangga"
+8;2;01;05;01;002;"Beban
+Jumlah"
+8;2;01;05;02;003;Beban Penyusutan Alat Pembersih
+8;2;01;05;02;004;Beban Penyusutan Alat Pendingin
+8;2;01;05;02;005;Beban Penyusutan Alat Dapur
+8;2;01;05;02;006;"Beban Penyusutan Alat Rumah Tangga Lainnya
+(Home Use)"
+8;2;01;05;02;007;Beban Penyusutan Alat Pemadam Kebakaran
+8;2;01;05;03;;"Beban Penyusutan Meja dan Kursi Kerja/Rapat
+Pejabat"
+8;2;01;05;03;001;Beban Penyusutan Meja Kerja Pejabat
+8;2;01;05;03;002;Beban Penyusutan Meja Rapat Pejabat
+8;2;01;05;03;003;Beban Penyusutan Kursi Kerja Pejabat
+8;2;01;05;03;006;"Beban
+Pejabat"
+8;2;01;06;;;Beban
+8;2;01;06;01;005;Beban
+8;2;01;06;02;003;"Beban
+HF/FM"
+8;2;01;06;02;004;Beban Penyusutan Alat Komunikasi Radio VHF
+8;2;01;06;02;005;Beban Penyusutan Alat Komunikasi Radio UHF
+8;2;01;06;02;006;Beban Penyusutan Alat Komunikasi Sosial
+8;2;01;06;02;007;Beban Penyusutan Alat-Alat Sandi
+8;2;01;06;02;008;Beban Penyusutan Alat Komunikasi Khusus
+8;2;01;06;02;009;"Beban Penyusutan Alat Komunikasi Digital dan
+Konvensional"
+8;2;01;06;02;010;Beban Penyusutan Alat Komunikasi Satelit
+8;2;01;06;02;011;Beban Penyusutan Alat Komunikasi Lainnya
+8;2;01;06;03;001;"Beban
+MF/MW"
+8;2;01;06;03;003;"Beban
+VHF/FM"
+8;2;01;06;03;008;Beban Penyusutan Peralatan Antena VHF/FM
+8;2;01;06;03;009;Beban Penyusutan Peralatan Antena UHF
+8;2;01;06;03;010;"Beban Penyusutan Peralatan Antena
+SHF/Parabola"
+8;2;01;06;03;011;"Beban Penyusutan Peralatan
+VHF/VHF"
+8;2;01;06;03;012;"Beban Penyusutan Peralatan Translator
+UHF/UHF"
+8;2;01;06;03;013;"Beban Penyusutan Peralatan Translator
+VHF/UHF"
+8;2;01;06;03;014;"Beban Penyusutan Peralatan Translator
+UHF/VHF"
+8;2;01;06;03;016;"Beban
+Terestrial"
+8;2;01;06;03;024;"Beban
+VHF"
+8;2;01;06;03;029;"Beban Penyusutan Peralatan Pemancar dan
+Penerima LF"
+8;2;01;06;03;030;"Beban Penyusutan Peralatan Pemancar dan
+Penerima MF"
+8;2;01;06;03;031;"Beban Penyusutan Peralatan Pemancar dan
+Penerima HF"
+8;2;01;06;03;032;"Beban Penyusutan Peralatan Pemancar dan
+Penerima MF+HF"
+8;2;01;06;03;033;"Beban Penyusutan Peralatan Pemancar dan
+Penerima VHF"
+8;2;01;06;03;034;"Beban Penyusutan Peralatan Pemancar dan
+Penerima UHF"
+8;2;01;06;03;035;"Beban Penyusutan Peralatan Pemancar dan
+Penerima SHF"
+8;2;01;06;03;036;"Beban Penyusutan Peralatan Antena Pemancar
+dan Penerima LF"
+8;2;01;06;03;037;"Beban Penyusutan Peralatan Antena Pemancar
+dan Penerima MF"
+8;2;01;06;03;038;"Beban Penyusutan Peralatan Antena Pemancar
+dan Penerima HF"
+8;2;01;06;03;039;"Beban Penyusutan Peralatan Antena Pemancar
+dan Penerima MF+HF"
+8;2;01;06;03;040;"Beban Penyusutan Peralatan Antena Pemancar
+dan Penerima VHF"
+8;2;01;06;03;041;"Beban Penyusutan Peralatan Antena Pemancar
+dan Penerima UHF"
+8;2;01;06;03;042;Beban Penyusutan Peralatan Antena Pemancar
+8;2;01;06;03;043;Beban
+8;2;01;06;03;044;Beban
+8;2;01;06;03;045;Beban
+8;2;01;06;03;046;"Beban
+Radio"
+8;2;01;06;03;048;"Beban
+Lainnya"
+8;2;01;06;04;;"Beban
+Navigasi"
+8;2;01;06;04;001;Beban
+8;2;01;06;04;002;"Beban
+Range"
+8;2;01;06;04;006;"Beban
+untuk"
+8;2;01;06;04;007;"Beban
+Navigasi"
+8;2;01;07;;;"Beban Penyusutan Alat Kedokteran dan
+Kesehatan"
+8;2;01;07;01;;Beban Penyusutan Alat Kedokteran
+8;2;01;07;01;001;Beban Penyusutan Alat Kedokteran Umum
+8;2;01;07;01;002;Beban Penyusutan Alat Kedokteran Gigi
+8;2;01;07;01;003;"Beban Penyusutan Alat Kedokteran Keluarga
+Berencana"
+8;2;01;07;01;004;Beban Penyusutan Alat Kedokteran Bedah
+8;2;01;07;01;005;"Beban Penyusutan Alat Kesehatan Kebidanan
+dan Penyakit Kandungan"
+8;2;01;07;01;006;Beban Penyusutan Alat Kedokteran THT
+8;2;01;07;01;009;Beban
+8;2;01;07;01;013;"Beban
+(Saraf)"
+8;2;01;07;01;016;"Beban
+Anatomy"
+8;2;01;07;01;017;"Beban
+Darah"
+8;2;01;07;01;020;"Beban
+Kelamin"
+8;2;01;07;01;021;"Beban
+Darurat"
+8;2;01;07;01;023;"Beban
+Ortopedi"
+8;2;01;07;01;026;"Beban
+Jantung"
+8;2;01;07;02;001;"Beban
+Laut-LO"
+8;2;01;07;02;005;"Beban
+Lainnya"
+8;2;01;08;;;Beban Penyusutan Alat Laboratorium
+8;2;01;08;01;;Beban Penyusutan Unit Alat Laboratorium
+8;2;01;08;01;001;"Beban Penyusutan Alat Laboratorium Kimia Air
+Teknik Penyehatan"
+8;2;01;08;01;002;"Beban Penyusutan Alat Laboratorium Mikro
+Biologi Teknik Penyehatan"
+8;2;01;08;01;003;"Beban Penyusutan Alat Laboratorium
+Hidrokimia"
+8;2;01;08;01;004;"Beban Penyusutan Alat Laboratorium Model
+Hidrolika"
+8;2;01;08;01;006;Beban
+8;2;01;08;01;007;Beban
+8;2;01;08;01;009;"Beban
+Tanam"
+8;2;01;08;01;010;"Beban
+Mesin,"
+8;2;01;08;01;012;"Beban Penyusutan Alat Laboratorium
+Mikrobiologi"
+8;2;01;08;01;013;Beban Penyusutan Alat Laboratorium Kimia
+8;2;01;08;01;014;Beban Penyusutan Alat Laboratorium Patologi
+8;2;01;08;01;015;"Beban Penyusutan Alat Laboratorium
+Immunologi"
+8;2;01;08;01;016;"Beban Penyusutan Alat Laboratorium
+Hematologi"
+8;2;01;08;01;017;Beban Penyusutan Alat Laboratorium Film
+8;2;01;08;01;018;Beban Penyusutan Alat Laboratorium Makanan
+8;2;01;08;01;019;Beban Penyusutan Alat Laboratorium Farmasi
+8;2;01;08;01;020;Beban Penyusutan Alat Laboratorium Fisika
+8;2;01;08;01;021;"Beban Penyusutan Alat Laboratorium
+Hidrodinamika"
+8;2;01;08;01;022;"Beban Penyusutan Alat Laboratorium
+Klimatologi"
+8;2;01;08;01;023;"Beban Penyusutan Alat Laboratorium Proses
+Peleburan"
+8;2;01;08;01;024;Beban Penyusutan Alat Laboratorium Pasir
+8;2;01;08;01;025;"Beban Penyusutan Alat Laboratorium Proses
+Pembuatan Cekatan"
+8;2;01;08;01;029;"Beban
+Proses"
+8;2;01;08;01;035;"Beban
+Tekstil"
+8;2;01;08;01;036;Beban
+8;2;01;08;01;037;Beban
+8;2;01;08;01;039;"Beban
+Keramik"
+8;2;01;08;01;040;Beban
+8;2;01;08;01;042;Beban
+8;2;01;08;01;043;"Beban
+Surya"
+8;2;01;08;01;046;"Beban Penyusutan Alat Laboratorium
+Lingkungan Perairan"
+8;2;01;08;01;047;"Beban Penyusutan Alat Laboratorium Biologi
+Perairan"
+8;2;01;08;01;048;Beban Penyusutan Alat Laboratorium Biologi
+8;2;01;08;01;049;Beban Penyusutan Alat Laboratorium Geofisika
+8;2;01;08;01;050;Beban Penyusutan Alat Laboratorium Tambang
+8;2;01;08;01;051;"Beban Penyusutan Alat Laboratorium
+Proses/Teknik Kimia"
+8;2;01;08;01;052;"Beban Penyusutan Alat Laboratorium Proses
+Industri"
+8;2;01;08;01;053;"Beban Penyusutan Alat Laboratorium
+Kesehatan Kerja"
+8;2;01;08;01;054;Beban Penyusutan Laboratorium Kearsipan
+8;2;01;08;01;055;"Beban Penyusutan Laboratorium Hematologi
+dan Urinalisis"
+8;2;01;08;01;056;Beban Penyusutan Alat Laboratorium Lain
+8;2;01;08;01;057;"Beban Penyusutan Alat Laboratorium
+Hermodinamika Motor dan Sistem Propulasi"
+8;2;01;08;01;058;"Beban Penyusutan Alat Laboratorium
+Pendidikan"
+8;2;01;08;01;059;Beban Penyusutan Alat Laboratorium Teknologi
+8;2;01;08;01;060;"Beban
+Pantai"
+8;2;01;08;01;061;Beban
+8;2;01;08;01;064;"Beban
+Lainnya"
+8;2;01;08;02;;"Beban
+Nuklir"
+8;2;01;08;02;006;"Beban
+Kimia"
+8;2;01;08;03;003;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Bidang Studi:IPA Dasar"
+8;2;01;08;03;004;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Bidang Studi:IPA Lanjutan"
+8;2;01;08;03;005;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Bidang Studi:IPA Menengah"
+8;2;01;08;03;006;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Bidang Studi:IPA Atas"
+8;2;01;08;03;007;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Bidang Studi:IPS"
+8;2;01;08;03;008;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Bidang Studi:Agama"
+8;2;01;08;03;009;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Bidang Studi:Keterampilan"
+8;2;01;08;03;010;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Bidang Studi:Kesenian"
+8;2;01;08;03;011;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Bidang Studi:Olahraga"
+8;2;01;08;03;012;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Bidang Studi:PKN"
+8;2;01;08;03;013;"Beban Penyusutan Alat Peraga Luar Biasa
+(Tuna Terapi Fisik, Tuna Daksa, dan Netra,
+Tuna Rungu)"
+8;2;01;08;03;014;Beban Penyusutan Alat Peraga Kejuruan
+8;2;01;08;03;015;Beban Penyusutan Alat Peraga PAUD/TK
+8;2;01;08;03;016;"Beban Penyusutan Alat Peraga Praktik Sekolah
+Lainnya"
+8;2;01;08;04;;"Beban Penyusutan Alat Laboratorium Fisika
+Nuklir/ Elektronika"
+8;2;01;08;04;001;Beban Penyusutan Radiation Detector
+8;2;01;08;04;002;"Beban Penyusutan Modular Counting And
+Scientific Electronic"
+8;2;01;08;04;003;Beban Penyusutan Assembly/Counting System
+8;2;01;08;04;004;Beban Penyusutan Recorder Display
+8;2;01;08;04;005;Beban Penyusutan System/Power Supply
+8;2;01;08;04;006;Beban Penyusutan Measuring/Testing Device
+8;2;01;08;04;007;Beban Penyusutan Opto Electronics
+8;2;01;08;04;009;"Beban
+System"
+8;2;01;08;04;010;Beban
+8;2;01;08;05;;Beban
+8;2;01;08;05;006;Beban
+8;2;01;08;06;;Beban
+8;2;01;08;06;002;"Beban
+Device"
+8;2;01;08;06;004;Beban
+8;2;01;08;07;001;"Beban
+Air dan"
+8;2;01;08;07;003;Beban
+8;2;01;08;07;006;Beban
+8;2;01;08;08;002;"Beban
+Absorber"
+8;2;01;08;08;009;Beban
+8;2;01;08;08;010;Beban
+8;2;01;08;08;013;"Beban
+Workshop"
+8;2;01;08;08;016;"Beban Penyusutan Peralatan Laboratorium
+Hydrodinamica Lainnya"
+8;2;01;08;09;;"Beban Penyusutan Alat Laboratorium
+Standarisasi Kalibrasi dan Instrumentasi"
+8;2;01;08;09;001;"Beban Penyusutan Alat Laboratorium Kalibrasi
+Elektromedik dan Biomedik"
+8;2;01;08;09;002;"Beban Penyusutan Alat Laboratorium Standar
+dan Kalibrator"
+8;2;01;08;09;003;"Beban Penyusutan Alat Laboratorium Cahaya,
+Optik dan Akustik"
+8;2;01;08;09;004;"Beban Penyusutan Alat Laboratorium Listrik
+dan Mekanik"
+8;2;01;08;09;005;"Beban Penyusutan Alat Laboratorium Tekanan
+dan Suhu"
+8;2;01;08;09;006;"Beban Penyusutan Alat Laboratorium
+Standarisasi Kalibrasi dan Instrumentasi Lain"
+8;2;01;08;09;007;Beban Penyusutan Alat Laboratorium Natius
+8;2;01;08;09;008;"Beban Penyusutan Alat Laboratorium
+Elektronika dan Telekomunikasi Pelayaran"
+8;2;01;08;09;009;"Beban Penyusutan Alat Laboratorium Sarana
+Bantu Navigasi Pelayaran"
+8;2;01;08;09;010;"Beban Penyusutan Alat Laboratorium Uji
+Perangkat"
+8;2;01;08;09;011;"Alat Laboratorium Standarisasi Kalibrasi dan
+Instrumentasi Lainnya"
+8;2;01;10;;;Beban Penyusutan Komputer
+8;2;01;10;01;;Beban Penyusutan Komputer Unit
+8;2;01;10;01;001;Beban Penyusutan Komputer Jaringan
+8;2;01;10;01;002;Beban Penyusutan Personal Computer
+8;2;01;10;01;003;Beban Penyusutan Komputer Unit Lainnya
+8;2;01;10;02;;Beban Penyusutan Peralatan Komputer
+8;2;01;10;02;001;Beban Penyusutan Peralatan Mainframe
+8;2;01;10;02;002;Beban Penyusutan Peralatan Mini Computer
+8;2;01;10;02;003;Beban Penyusutan Peralatan Personal Computer
+8;2;01;10;02;004;Beban Penyusutan Peralatan Jaringan
+8;2;01;10;02;005;"Beban
+Lainnya"
+8;2;01;11;01;003;"Beban
+Lainnya"
+8;2;01;11;02;004;"Beban
+Lainnya"
+8;2;01;12;01;003;"Beban
+Lainnya"
+8;2;01;12;02;004;Beban Penyusutan Peralatan Bantu
+8;2;01;12;02;005;"Beban Penyusutan Alat Pengeboran Non Mesin
+Lainnya"
+8;2;01;13;;;"Beban Penyusutan Alat Produksi, Pengolahan
+dan Pemurnian"
+8;2;01;13;01;;Beban Penyusutan Sumur
+8;2;01;13;01;001;Beban Penyusutan Peralatan Sumur Minyak
+8;2;01;13;01;002;Beban Penyusutan Sumur Pemboran
+8;2;01;13;01;003;Beban Penyusutan Sumur Lainnya
+8;2;01;13;02;;Beban Penyusutan Produksi
+8;2;01;13;02;001;Beban Penyusutan RIG
+8;2;01;13;02;002;Beban Penyusutan Produksi Lainnya
+8;2;01;13;03;;Beban Penyusutan Pengolahan dan Pemurnian
+8;2;01;13;03;001;Beban Penyusutan Alat Pengolahan Minyak
+8;2;01;13;03;002;Beban Penyusutan Alat Pengolahan Air
+8;2;01;13;03;003;Beban Penyusutan Alat Pengolahan Steam
+8;2;01;13;03;004;Beban Penyusutan Alat Pengolahan Wax
+8;2;01;13;03;005;"Beban Penyusutan Pengolahan dan Pemurnian
+Lainnya"
+8;2;01;14;;;Beban Penyusutan Alat Bantu Eksplorasi
+8;2;01;14;01;;Beban Penyusutan Alat Bantu Eksplorasi
+8;2;01;14;01;003;"Beban
+Lainnya"
+8;2;01;14;02;003;"Beban
+Lainnya"
+8;2;01;15;01;002;Beban Penyusutan Suara
+8;2;01;15;01;003;Beban Penyusutan Alat Deteksi Lainnya
+8;2;01;15;02;;Beban Penyusutan Alat Pelindung
+8;2;01;15;02;001;Beban Penyusutan Baju Pengaman
+8;2;01;15;02;002;Beban Penyusutan Masker
+8;2;01;15;02;003;Beban Penyusutan Topi Kerja
+8;2;01;15;02;004;Beban Penyusutan Sabuk Pengaman
+8;2;01;15;02;005;Beban Penyusutan Sepatu Lapangan
+8;2;01;15;02;006;Beban Penyusutan Alat Pelindung Lainnya
+8;2;01;15;03;;Beban Penyusutan Alat SAR
+8;2;01;15;03;001;Beban Penyusutan Alat Penolong
+8;2;01;15;03;002;Beban Penyusutan Alat Pendukung Pencarian
+8;2;01;15;03;003;Beban Penyusutan Alat Kerja Bawah Air
+8;2;01;15;03;004;Beban Penyusutan Alat SAR Lainnya
+8;2;01;15;04;;Beban Penyusutan Alat Kerja Penerbangan
+8;2;01;15;04;001;"Beban Penyusutan Peralatan Fasilitas
+Komunikasi Penerbangan"
+8;2;01;15;04;002;"Beban Penyusutan Peralatan Fasilitas Navigasi
+dan Pengamatan Penerbangan"
+8;2;01;15;04;003;"Beban Penyusutan Peralatan Fasilitas Bantu
+Pendaratan"
+8;2;01;15;04;004;Beban
+8;2;01;15;04;005;"Beban
+Bandar"
+8;2;01;15;04;006;"Beban
+Faslektrik"
+8;2;01;15;04;007;"Beban
+Lainnya"
+8;2;01;16;01;003;Beban
+8;2;01;17;01;012;Beban
+8;2;01;17;01;018;"Beban
+Equipment"
+8;2;01;17;01;019;Beban
+8;2;01;17;01;021;Beban
+8;2;01;17;01;025;"Beban
+Equipment"
+8;2;01;17;01;026;Beban
+8;2;01;18;01;;"Beban
+Darat"
+8;2;01;18;01;003;Beban
+8;2;01;18;02;;"Beban
+Udara"
+8;2;01;18;02;004;"Beban
+(REILS)"
+8;2;01;18;02;007;"Beban
+Udara"
+8;2;01;18;03;;"Beban
+Laut"
+8;2;01;18;03;001;"Beban
+Laut"
+8;2;01;18;03;001;Beban
+8;2;01;19;01;002;Beban Penyusutan Peralatan Permainan
+8;2;01;19;01;003;Beban Penyusutan Peralatan Senam
+8;2;01;19;01;004;Beban Penyusutan Peralatan Olahraga Air
+8;2;01;19;01;005;Beban Penyusutan Peralatan Olahraga Udara
+8;2;01;19;01;006;Beban Penyusutan Peralatan Olahraga Lainnya
+8;2;02;;;;Beban Penyusutan Gedung dan Bangunan
+8;2;02;01;;;Beban Penyusutan Bangunan Gedung
+8;2;02;01;01;;Bangunan Gedung Tempat Kerja
+8;2;02;01;01;001;Beban Penyusutan Bangunan Gedung Kantor
+8;2;02;01;01;008;"Beban
+Ibadah"
+8;2;02;01;01;009;Beban
+8;2;02;01;01;011;"Beban
+Olahraga"
+8;2;02;01;01;013;"Beban
+Pos Jaga"
+8;2;02;01;01;015;"Beban
+Pemotong"
+8;2;02;01;01;019;"Beban
+Kelaikan"
+8;2;02;01;01;023;"Beban
+Bangkai"
+8;2;02;01;01;026;"Beban
+Sekam"
+8;2;02;01;01;027;Beban
+8;2;02;01;01;029;"Beban
+Perikanan"
+8;2;02;01;01;030;Beban
+8;2;02;01;01;031;"Beban
+Geofisika"
+8;2;02;01;01;037;Beban
+8;2;02;01;02;;"Beban
+Tinggal"
+8;2;02;01;02;004;"Beban
+Tempat"
+8;2;02;01;02;009;"Beban
+Proses"
+8;2;02;01;02;013;"Beban
+Tinggal"
+8;2;02;02;01;;"Beban
+Prasasti"
+8;2;02;02;01;004;"Beban
+Prasasti"
+8;2;02;03;01;;"Beban
+Perambuan"
+8;2;02;03;01;001;Beban
+8;2;02;03;01;002;Beban
+8;2;02;03;01;004;"Beban
+Pengawas"
+8;2;02;03;01;005;Beban
+8;2;02;04;01;005;Beban Penyusutan Tugu/Tanda Batas Lainnya
+8;2;03;;;;Beban Penyusutan Jalan, Jaringan dan Irigasi
+8;2;03;01;;;Beban Penyusutan Jalan dan Jembatan
+8;2;03;01;01;;Beban Penyusutan Jalan
+8;2;03;01;01;001;Beban Penyusutan Jalan Nasional
+8;2;03;01;01;002;Beban Penyusutan Jalan Provinsi
+8;2;03;01;01;003;Beban Penyusutan Jalan Kabupaten
+8;2;03;01;01;004;Beban Penyusutan Jalan Kota
+8;2;03;01;01;005;Beban Penyusutan Jalan Desa
+8;2;03;01;01;006;Beban Penyusutan Jalan Tol
+8;2;03;01;01;008;"Beban
+Terbang"
+8;2;03;01;02;001;"Beban
+Nasional"
+8;2;03;01;02;002;"Beban
+Provinsi"
+8;2;03;01;02;007;"Beban
+Kereta"
+8;2;03;01;02;008;Beban
+8;2;03;01;02;009;"Beban
+Khusus"
+8;2;03;01;02;011;Beban
+8;2;03;02;01;002;"Beban
+Irigasi"
+8;2;03;02;01;008;"Beban
+Lainnya"
+8;2;03;02;02;;"Beban
+Pasang"
+8;2;03;02;02;001;"Beban
+Surut"
+8;2;03;02;02;002;"Beban
+Pasang"
+8;2;03;02;02;004;"Beban
+Surut"
+8;2;03;02;02;005;"Beban
+Pasang"
+8;2;03;02;02;006;"Beban
+Pasang"
+8;2;03;02;02;007;"Beban
+Surut"
+8;2;03;02;02;008;Beban
+8;2;03;02;03;;Beban
+8;2;03;02;03;008;Beban
+8;2;03;02;04;002;Beban
+8;2;03;02;04;003;Beban
+8;2;03;02;04;005;"Beban Penyusutan Bangunan Pengaman
+Pengamanan Sungai/Pantai"
+8;2;03;02;04;006;"Beban Penyusutan Bangunan Pelengkap
+Pengaman Sungai"
+8;2;03;02;04;007;"Beban Penyusutan Bangunan Pengaman
+Sungai/Pantai dan Penanggulangan Bencana
+Alam Lainnya"
+8;2;03;02;05;;"Beban Penyusutan Bangunan Pengembangan
+Sumber Air dan Air Tanah"
+8;2;03;02;05;001;"Beban Penyusutan Bangunan Waduk
+Pengembangan Sumber Air"
+8;2;03;02;05;002;"Beban Penyusutan Bangunan Pengambilan
+Pengembangan Sumber Air"
+8;2;03;02;05;003;"Beban Penyusutan Bangunan Pembawa
+Pengembangan Sumber Air"
+8;2;03;02;05;004;Beban
+8;2;03;02;05;005;Beban
+8;2;03;02;05;006;Beban
+8;2;03;02;05;008;Beban
+8;2;03;02;06;;"Beban
+Baku"
+8;2;03;02;06;001;"Beban
+Bersih"
+8;2;03;02;06;003;"Beban
+Bersih"
+8;2;03;02;06;004;"Beban
+Bersih"
+8;2;03;02;06;005;"Beban
+Bersih"
+8;2;03;02;06;006;Beban
+8;2;03;02;07;001;"Beban
+Kotor"
+8;2;03;02;07;003;"Beban
+Kotor"
+8;2;03;02;07;004;"Beban
+Kotor"
+8;2;03;02;07;005;"Beban
+Kotor"
+8;2;03;03;01;;"Beban
+Baku"
+8;2;03;03;01;002;"Beban
+Air"
+8;2;03;03;01;005;Beban
+8;2;03;03;02;001;"Beban
+Domestik"
+8;2;03;03;02;002;"Beban
+Industri"
+8;2;03;03;03;;"Beban
+Sampah"
+8;2;03;03;03;001;"Beban
+Sampah"
+8;2;03;03;03;002;"Beban
+Sampah"
+8;2;03;03;03;003;"Beban
+Sampah"
+8;2;03;03;03;004;"Beban
+Sampah"
+8;2;03;03;05;003;Instalasi
+8;2;03;03;05;004;"Beban Penyusutan Instalasi Pembangkit Listrik
+Tenaga Angin (PLTAN)"
+8;2;03;03;05;005;"Beban Penyusutan Instalasi Pembangkit Listrik
+Tenaga Uap (PLTU)"
+8;2;03;03;05;006;"Beban Penyusutan Instalasi Pembangkit Listrik
+Tenaga Nuklir (PLTN)"
+8;2;03;03;05;007;"Beban Penyusutan Instalasi Pembangkit Listrik
+Tenaga Gas (PLTG)"
+8;2;03;03;05;008;"Beban Penyusutan Instalasi Pembangkit Listrik
+Tenaga Panas Bumi (PLTP)"
+8;2;03;03;05;009;"Beban Penyusutan Instalasi Pembangkit Listrik
+Tenaga Surya (PLTS)"
+8;2;03;03;06;001;"Beban
+Induk"
+8;2;03;03;06;003;"Beban
+Listrik"
+8;2;03;03;06;004;Beban
+8;2;03;03;07;001;"Beban
+Darat"
+8;2;03;03;07;002;"Beban
+Lainnya"
+8;2;03;03;09;003;"Beban
+Limbah"
+8;2;03;04;01;004;"Beban
+Rumah"
+8;2;03;04;01;005;"Beban
+Lainnya"
+8;2;03;04;03;001;"Beban
+Tanah"
+8;2;03;04;03;002;"Beban
+Tanah"
+8;2;03;04;03;003;"Beban
+Air"
+8;2;03;04;03;004;"Beban
+Udara"
+8;2;03;04;04;003;Beban Penyusutan Jaringan Pipa Dinas
+8;2;03;04;04;004;Beban Penyusutan Jaringan BBM
+8;2;03;04;04;005;Beban Penyusutan Jaringan Gas Lainnya
+8;2;04;;;;Beban Penyusutan Aset Tetap Lainnya
+8;2;04;01;;;"Beban Penyusutan Barang Bercorak
+Kesenian/Kebudayaan/Olahraga"
+8;2;04;01;01;;Beban Penyusutan Barang Bercorak Kesenian
+8;2;04;01;01;001;Beban Penyusutan Alat Musik
+8;2;04;02;;;Beban Penyusutan Aset Tetap Dalam Renovasi
+8;2;04;02;01;;Beban Penyusutan Aset Tetap Dalam Renovasi
+8;2;04;02;01;001;Beban Penyusutan Aset Tetap Dalam Renovasi
+8;2;05;;;;Beban Penyusutan Aset Lainnya
+8;2;05;01;;;Beban Penyusutan Aset Lainnya
+8;2;05;01;01;;"Beban
+Ketiga"
+8;2;05;01;01;01;"Beban
+Ketiga-Sewa"
+8;2;05;01;01;02;Beban
+8;2;05;01;01;03;Beban
+8;2;05;01;01;04;Beban
+8;2;06;;;;Beban Amortisasi Aset Tidak Berwujud
+8;2;06;01;;;Beban Amortisasi Aset Tidak Berwujud
+8;2;06;01;01;;Beban Amortisasi Aset Tidak Berwujud
+8;2;06;01;01;001;"Beban Amortisasi Aset Tidak Berwujud-Lisensi
+dan Frenchise"
+8;2;06;01;01;002;"Beban
+Cipta"
+8;2;06;01;01;003;"Beban
+Paten"
+8;2;02;01;01;004;"Beban
+Software"
+8;2;06;01;01;005;Beban Amortisasi Aset Tidak Berwujud-Kajian
+8;3;;;;;BEBAN TRANSFER
+8;3;01;;;;Beban Bagi Hasil
+8;3;01;01;;;"Beban Bagi Hasil Pajak Daerah Kepada
+Pemerintahan Kabupaten/Kota dan Desa"
+8;3;01;01;01;;"Beban Bagi Hasil Pajak Daerah Kepada
+Pemerintahan Kabupaten"
+8;3;01;01;01;001;"Beban Bagi Hasil Pajak Daerah Kepada
+Pemerintahan Kabupaten"
+8;3;01;01;01;002;Dst …
+8;3;01;01;02;;"Beban Bagi Hasil Pajak Daerah Kepada
+Pemerintahan Kota"
+8;3;01;01;02;001;"Beban Bagi Hasil Pajak Daerah Kepada
+Pemerintahan Kota"
+8;3;01;01;02;002;Dst …
+8;3;01;01;03;;"Beban
+Pemerintahan Desa"
+8;3;01;01;03;001;"Beban
+Pemerintahan Desa"
+8;3;01;01;03;002;Dst …
+8;3;02;;;;Beban Bantuan Keuangan
+8;3;02;01;;;"Beban
+Provinsi"
+8;3;02;01;01;;"Beban Bantuan Keuangan Umum antar Daerah
+Provinsi"
+8;3;02;01;01;001;"Beban Bantuan Keuangan Umum antar Daerah
+Provinsi …"
+8;3;02;01;01;002;Dst …
+8;3;02;01;02;;"Beban
+Daerah"
+8;3;02;01;02;001;"Beban
+Daerah"
+8;3;02;01;02;002;Dst …
+8;3;02;02;;;"Beban Bantuan Keuangan antar Daerah
+Kabupaten/Kota"
+8;3;02;02;01;;"Beban Bantuan Keuangan Umum antar Daerah
+Kabupaten/Kota"
+8;3;02;02;01;001;"Beban Bantuan Keuangan Umum antar Daerah
+Kabupaten/Kota …"
+8;3;02;02;01;002;Dst …
+8;3;02;02;02;;"Beban Bantuan Keuangan Khusus antar
+Daerah Kabupaten /Kota"
+8;3;02;02;02;001;"Beban Bantuan Keuangan Khusus antar
+Daerah Kabupaten /Kota …"
+8;3;02;02;02;002;Dst …
+8;3;02;03;01;;Beban
+8;3;02;03;01;001;Beban
+8;3;02;03;01;002;Dst …
+8;3;02;03;02;;Beban
+8;3;02;03;02;001;Beban
+8;3;02;03;02;002;Dst …
+8;3;02;04;;;"Beban
+Daerah"
+8;3;02;04;01;;Beban
+8;3;02;04;01;001;"Beban Bantuan Keuangan Umum
+Kabupaten/Kota ke Daerah Provinsi …"
+8;3;02;04;01;002;Dst …
+8;3;02;04;02;;"Beban Bantuan Keuangan Khusus
+Kabupaten/Kota ke Daerah Provinsi"
+8;3;02;04;02;001;"Beban Bantuan Keuangan Khusus
+Kabupaten/Kota ke Daerah Provinsi ..."
+8;3;02;04;02;002;Dst …
+8;3;02;05;;;"Beban Bantuan Keuangan Daerah Provinsi atau
+Kabupaten/Kota ke Desa"
+8;3;02;05;01;;"Beban Bantuan Keuangan Umum Daerah
+Provinsi atau Kabupaten/Kota ke Desa"
+8;3;02;05;01;001;"Beban Bantuan Keuangan Umum Daerah
+Provinsi atau Kabupaten/Kota ke Desa ..."
+8;3;02;05;01;002;Dst …
+8;3;02;05;02;;"Beban Bantuan Keuangan Khusus Daerah
+Provinsi atau Kabupaten/Kota ke Desa"
+8;3;02;05;02;001;"Beban Bantuan Keuangan Khusus Daerah
+Provinsi atau Kabupaten/Kota ke Desa …"
+8;3;02;05;02;002;Dst …
+8;3;02;06;;;"Beban Transfer Dana Otonomi Khusus Provinsi
+kepada Kabupaten/Kota"
+8;3;02;06;01;;"Beban Transfer Dana Otonomi Khusus Provinsi
+kepada Kabupaten/Kota"
+8;3;02;06;01;001;"Beban Transfer Dana Otonomi Khusus Provinsi
+kepada Kabupaten/Kota"
+8;3;02;06;01;002;Dst …
+8;4;;;;;BEBAN TAK TERDUGA
+8;4;01;;;;Beban Tak Terduga
+8;4;01;01;;;Beban Tak Terduga
+8;4;01;01;01;;Beban Tak Terduga
+8;4;01;01;01;001;Beban Tak Terduga
+8;5;;;;;DEFISIT NON OPERASIONAL-LO
+8;5;01;;;;"Defisit Penjualan/Pertukaran/Pelepasan Aset
+Non Lancar-LO"
+8;5;01;01;;;Defisit Penjualan BMD yang Tidak Dipisahkan-LO
+8;5;01;01;01;;Defisit Penjualan Tanah-LO
+8;5;01;01;01;001;Defisit Penjualan Tanah-LO
+8;5;01;01;02;;Defisit Penjualan Peralatan dan Mesin-LO
+8;5;01;01;02;001;Defisit Penjualan Alat Besar-LO
+8;5;01;01;02;002;Defisit Penjualan Alat Angkutan-LO
+8;5;01;01;02;003;"Defisit
+LO"
+8;5;01;01;02;010;Defisit Penjualan Komputer-LO
+8;5;01;01;02;011;Defisit Penjualan Alat Eksplorasi-LO
+8;5;01;01;02;012;Defisit Penjualan Alat Pengeboran-LO
+8;5;01;01;02;013;"Defisit Penjualan Alat Produksi, Pengolahan,
+dan Pemurnian-LO"
+8;5;01;01;02;014;Defisit Penjualan Alat Bantu Eksplorasi-LO
+8;5;01;01;02;015;Defisit Penjualan Alat Keselamatan Kerja-LO
+8;5;01;01;02;016;Defisit Penjualan Alat Peraga-LO
+8;5;01;01;02;017;Defisit Penjualan Peralatan Proses/Produksi-LO
+8;5;01;01;02;018;Defisit Penjualan Rambu-Rambu-LO
+8;5;01;01;02;019;Defisit Penjualan Peralatan Olahraga-LO
+8;5;01;01;03;;Defisit Penjualan Gedung dan Bangunan–LO
+8;5;01;01;03;001;Defisit Penjualan Bangunan Gedung-LO
+8;5;01;01;03;002;Defisit Penjualan Monumen-LO
+8;5;01;01;03;003;Defisit Penjualan Bangunan Menara-LO
+8;5;01;01;04;;"Defisit
+LO"
+8;5;01;01;05;007;"Defisit
+LO"
+8;5;01;01;06;002;"Defisit
+LO"
+8;5;01;02;02;003;"Defisit Tukar Menukar Alat Bengkel dan Alat
+Ukur-LO"
+8;5;01;02;02;004;Defisit Tukar Menukar Alat Pertanian-LO
+8;5;01;02;02;005;"Defisit Tukar Menukar Alat Kantor dan Rumah
+Tangga-LO"
+8;5;01;02;02;006;"Defisit Tukar Menukar Alat Studio,
+Komunikasi, dan Pemancar-LO"
+8;5;01;02;02;007;"Defisit Tukar Menukar Alat Kedokteran dan
+Kesehatan-LO"
+8;5;01;02;02;008;Defisit Tukar Menukar Alat Laboratorium-LO
+8;5;01;02;02;013;Defisit
+8;5;01;02;02;014;"Defisit
+LO"
+8;5;01;02;02;016;Defisit Tukar Menukar Alat Peraga-LO
+8;5;01;02;02;017;"Defisit Tukar Menukar Peralatan
+Proses/Produksi-LO"
+8;5;01;02;02;018;Defisit Tukar Menukar Rambu-Rambu-LO
+8;5;01;02;02;019;Defisit Tukar Menukar Peralatan Olahraga-LO
+8;5;01;02;03;;Defisit Tukar Menukar Gedung dan Bangunan-LO
+8;5;01;02;03;001;Defisit Tukar Menukar Bangunan Gedung-LO
+8;5;01;02;03;002;Defisit Tukar Menukar Monumen-LO
+8;5;01;02;03;003;Defisit Tukar Menukar Bangunan Menara-LO
+8;5;01;02;03;004;"Defisit Tukar Menukar Tugu Titik
+Kontrol /Pasti-LO"
+8;5;01;02;04;;"Defisit Tukar Menukar Jalan, Jaringan dan
+Irigasi-LO"
+8;5;01;02;04;001;Defisit Tukar Menukar Jalan dan Jembatan-LO
+8;5;01;02;04;002;Defisit Tukar Menukar Bangunan Air-LO
+8;5;01;02;04;003;Defisit Tukar Menukar Instalasi-LO
+8;5;01;02;04;004;Defisit Tukar Menukar Jaringan-LO
+8;5;01;02;05;;Defisit Tukar Menukar Aset Tetap Lainnya-LO
+8;5;01;02;05;001;Defisit Tukar Menukar Bahan Perpustakaan-LO
+8;5;01;02;05;002;"Defisit Tukar Menukar Barang Bercorak
+Kesenian/Kebudayaan/Olahraga-LO"
+8;5;01;02;05;003;Defisit Tukar Menukar Hewan-LO
+8;5;01;02;05;004;Defisit Tukar Menukar Biota Perairan-LO
+8;5;01;02;05;005;Defisit Tukar Menukar Tanaman-LO
+8;5;01;02;05;006;"Defisit Tukar Menukar Barang Koleksi Non
+Budaya-LO"
+8;5;01;02;05;007;"Defisit Tukar Menukar Aset Tetap Dalam
+Renovasi-LO"
+8;5;01;02;06;;Defisit Tukar Menukar Aset Lainnya-LO
+8;5;01;02;06;001;"Defisit Tukar Menukar Aset Lainnya-Aset Tidak
+Berwujud-LO"
+8;5;01;02;06;002;Defisit Tukar Menukar Aset Lainnya-Aset Lain-Lain-LO
+8;5;01;03;;;Defisit Pelepasan Investasi Jangka Panjang-LO
+8;5;01;03;01;;"Defisit Pelepasan Investasi Jangka Panjang Non
+Permanen-LO"
+8;5;01;03;01;001;"Defisit Pelepasan Investasi kepada Badan
+Usaha Milik Negara-LO"
+8;5;01;03;01;002;"Defisit Pelepasan Investasi kepada Badan
+Usaha Milik Daerah-LO"
+8;5;01;03;01;003;Defisit Pelepasan Investasi dalam Obligasi-LO
+8;5;02;01;;;"Defisit
+Pusat-LO"
+8;5;02;01;01;;Defisit
+8;5;02;01;01;001;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Menengah …-LO"
+8;5;02;01;01;002;Dst …
+8;5;02;01;02;;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang-LO"
+8;5;02;01;02;001;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang …-LO"
+8;5;02;01;02;002;Dst …
+8;5;02;01;03;;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Luar Negeri-Jangka
+Menengah-LO"
+8;5;02;01;03;001;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Luar Negeri-Jangka"
+8;5;02;01;03;002;Dst …
+8;5;02;01;04;;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Luar Negeri-Jangka
+Panjang-LO"
+8;5;02;01;04;001;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Penerusan Pinjaman Luar Negeri-Jangka
+Panjang …-LO"
+8;5;02;01;04;002;Dst …
+8;5;02;01;05;;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Sumber Lainnya sesuai dengan
+Ketentuan Peraturan Perundang-Undangan-Jangka Menengah-LO"
+8;5;02;01;05;001;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Sumber Lainnya sesuai dengan
+Ketentuan Peraturan Perundang-Undangan-Jangka Menengah …-LO"
+8;5;02;01;05;002;Dst …
+8;5;02;01;06;;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Sumber Lainnya sesuai dengan
+Ketentuan Peraturan Perundang-Undangan-Jangka Panjang-LO"
+8;5;02;01;06;001;"Defisit Penyelesaian Utang kepada Pemerintah
+Pusat-Sumber Lainnya sesuai dengan
+Ketentuan Peraturan Perundang-Undangan-Jangka Panjang …-LO"
+8;5;02;01;06;002;Dst …
+8;5;02;02;;;"Defisit Penyelesaian Utang kepada Lembaga
+Keuangan Bank (LKB)-LO"
+8;5;02;02;01;;Defisit Penyelesaian Utang kepada LKB-BUMN-Jangka Menengah-LO
+8;5;02;02;01;001;Defisit Penyelesaian Utang kepada LKB-BUMN-Jangka Menengah …-LO
+8;5;02;02;01;002;Dst …
+8;5;02;02;02;;Defisit Penyelesaian Utang kepada LKB-BUMN-Jangka Panjang-LO
+8;5;02;02;02;001;Defisit Penyelesaian Utang kepada LKB-BUMN-Jangka Panjang …-LO
+8;5;02;02;02;002;Dst …
+8;5;02;02;03;;Defisit Penyelesaian Utang kepada LKB-BUMD-Jangka Menengah-LO
+8;5;02;02;03;001;Defisit Penyelesaian Utang kepada LKB-BUMD-Jangka Menengah …-LO
+8;5;02;02;03;002;Dst …
+8;5;02;02;04;;Defisit Penyelesaian Utang kepada LKB-BUMD-Jangka Panjang-LO
+8;5;02;02;04;001;Defisit Penyelesaian Utang kepada LKB-BUMD-Jangka Panjang …-LO
+8;5;02;02;04;002;Dst …
+8;5;02;02;05;;Defisit Penyelesaian Utang kepada LKB-Swasta-Jangka Menengah-LO
+8;5;02;02;05;001;Defisit Penyelesaian Utang kepada LKB-Swasta-Jangka Menengah …-LO
+8;5;02;02;05;002;Dst …
+8;5;02;02;06;;Defisit Penyelesaian Utang kepada LKB-Swasta-
+8;5;02;02;06;001;Defisit Penyelesaian Utang kepada LKB-Swasta-Jangka Panjang …-LO
+8;5;02;02;06;002;Dst …
+8;5;02;03;;;"Defisit Penyelesaian Utang kepada Lembaga
+Keuangan Bukan Bank (LKBB)-LO"
+8;5;02;03;01;;Defisit Penyelesaian Utang kepada LKBB-BUMN-Jangka Menengah-LO
+8;5;02;03;01;001;Defisit Penyelesaian Utang kepada LKBB-BUMN-Jangka Menengah …-LO
+8;5;02;03;01;002;Dst …
+8;5;02;03;02;;Defisit Penyelesaian Utang kepada LKBB-BUMN-Jangka Panjang-LO
+8;5;02;03;02;001;Defisit Penyelesaian Utang kepada LKBB-BUMN-Jangka Panjang …-LO
+8;5;02;03;02;002;Dst …
+8;5;02;03;03;;Defisit Penyelesaian Utang kepada LKBB-BUMD-Jangka Menengah-LO
+8;5;02;03;03;001;Defisit Penyelesaian Utang kepada LKBB-BUMD-Jangka Menengah …-LO
+8;5;02;03;03;002;Dst …
+8;5;02;03;04;;Defisit Penyelesaian Utang kepada LKBB-BUMD-Jangka Panjang-LO
+8;5;02;03;04;001;Defisit Penyelesaian Utang kepada LKBB-BUMD-Jangka Panjang …-LO
+8;5;02;03;04;002;Dst …
+8;5;02;03;05;;Defisit Penyelesaian Utang kepada LKBB-Swasta-Jangka Menengah-LO
+8;5;02;03;05;001;Defisit Penyelesaian Utang kepada LKBB-Swasta-Jangka Menengah …-LO
+8;5;02;03;05;002;Dst …
+8;5;02;03;06;;Defisit Penyelesaian Utang kepada LKBB-Swasta-Jangka Panjang-LO
+8;5;02;03;06;001;Defisit Penyelesaian Utang kepada LKBB-Swasta-Jangka Panjang …-LO
+8;5;02;03;06;002;Dst …
+8;5;02;04;;;Defisit Penyelesaian Obligasi-LO
+8;5;02;04;01;;Defisit Penyelesaian Obligasi-LO
+8;5;02;04;01;001;Defisit Penyelesaian Obligasi–LO
