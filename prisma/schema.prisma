@@ -1,0 +1,115 @@
+model BaganAkun_All {
+    id                Int      @id @default(autoincrement())
+    akun              String?
+    kelompok          String?
+    objek             String?
+    rincian_objek     String?
+    sub_rincian_objek String?
+    uraian_akun       String
+}
+
+model BaganAkun_Akun {
+    id                String      @id
+    uraian_akun       String
+
+    Kelompok          BaganAkun_Kelompok[]
+    Objek             BaganAkun_Objek[]
+    RinianObjek       BaganAkun_RincianObjek[]
+    subRincianObjek   BaganAkun_SubRincianObjek[]
+}
+
+model BaganAkun_Kelompok {
+    id                String      @id 
+    akun_id           String
+    uraian_akun       String
+
+    Objek             BaganAkun_Objek[]
+    RincianObjek      BaganAkun_RincianObjek[]
+    SubRincianObjek   BaganAkun_SubRincianObjek[]
+
+    Akun              BaganAkun_Akun @relation(fields: [akun_id], references: [id])
+}
+
+model BaganAkun_Objek {
+    id                String      @id
+    akun_id           String
+    kelompok_id       String
+    uraian_akun       String
+
+    RincianObjek      BaganAkun_RincianObjek[]
+    SubRincianObjek   BaganAkun_SubRincianObjek[]
+    JurnalDebit       JurnalDebit[]
+    JurnalKredit      JurnalKredit[]
+
+    Kelompok          BaganAkun_Kelompok @relation(fields: [kelompok_id], references: [id])
+    Akun              BaganAkun_Akun @relation(fields: [akun_id], references: [id])
+}
+
+model BaganAkun_RincianObjek {
+    id                String      @id
+    akun_id           String
+    kelompok_id       String
+    objek_id          String
+    uraian_akun       String
+
+    SubRincianObjek   BaganAkun_SubRincianObjek[]
+    JurnalDebit       JurnalDebit[]
+    JurnalKredit      JurnalKredit[]
+
+    Objek             BaganAkun_Objek @relation(fields: [objek_id], references: [id])
+    Kelompok          BaganAkun_Kelompok @relation(fields: [kelompok_id], references: [id])
+    Akun              BaganAkun_Akun @relation(fields: [akun_id], references: [id])
+}
+
+model BaganAkun_SubRincianObjek {
+    id                String      @id
+    akun_id           String
+    kelompok_id       String
+    objek_id          String
+    rincian_objek_id  String
+    uraian_akun       String
+
+    JurnalDebit       JurnalDebit[]
+    JurnalKredit      JurnalKredit[]
+
+    RincianObjek      BaganAkun_RincianObjek @relation(fields: [rincian_objek_id], references: [id])
+    Objek             BaganAkun_Objek @relation(fields: [objek_id], references: [id])
+    Kelompok          BaganAkun_Kelompok @relation(fields: [kelompok_id], references: [id])
+    Akun              BaganAkun_Akun @relation(fields: [akun_id], references: [id])
+}
+
+// Bonus modul jurnal
+
+model JurnalDebit {
+    id             Int            @id @default(autoincrement())
+    objek_pajak_id Int
+    akun_objek_id         String
+    akun_rincian_objek_id String?
+    akun_sub_rincian_objek_id String?
+    debit          BigInt?
+    keterangan     String? 
+    TerbayarAt     DateTime
+    createdAt      DateTime       @default(now())
+    updatedAt      DateTime       @updatedAt
+    kode_bayar_id  String
+    AkunObjek   BaganAkun_Objek @relation(fields: [akun_objek_id], references: [id])
+    AkunRincianObjek BaganAkun_RincianObjek? @relation(fields: [akun_rincian_objek_id], references: [id])
+    AkunSubRincianObjek BaganAkun_SubRincianObjek? @relation(fields: [akun_sub_rincian_objek_id], references: [id])
+    jurnalKredit   JurnalKredit[]
+}
+
+model JurnalKredit {
+    id              Int         @id @default(autoincrement())
+    jurnal_debit_id Int
+    akun_objek_id         String
+    akun_rincian_objek_id String?
+    akun_sub_rincian_objek_id String?
+    kredit          BigInt?
+    keterangan      String? 
+    createdAt       DateTime    @default(now())
+    updatedAt       DateTime    @updatedAt
+    AkunObjek   BaganAkun_Objek @relation(fields: [akun_objek_id], references: [id])
+    AkunRincianObjek BaganAkun_RincianObjek? @relation(fields: [akun_rincian_objek_id], references: [id])
+    AkunSubRincianObjek BaganAkun_SubRincianObjek? @relation(fields: [akun_sub_rincian_objek_id], references: [id])
+    jurnalDebit     JurnalDebit @relation(fields: [jurnal_debit_id], references: [id])
+}
