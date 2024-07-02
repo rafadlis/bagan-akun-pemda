@@ -1,4 +1,4 @@
-Akun;Kelompok;Jenis;Objek;Rincian Objek;Sub Rincian Objek;Uraian Akun
+ï»¿Akun;Kelompok;Jenis;Objek;Rincian Objek;Sub Rincian Objek;Uraian Akun
 1;;;;;;DANA UMUM
 1;1;;;;;PENDAPATAN ASLI DAERAH (PAD)
 1;1;1;;;;Pajak Daerah
@@ -718,43 +718,43 @@ BUMN"
 BUMN"
 1;1;05;01;01;001;"Piutang Bagian Laba atas Penyertaan Modal pada
 BUMN ..."
-1;1;05;01;01;002;Dst …
+1;1;05;01;01;002;Dst â€¦
 1;1;05;02;;;"Piutang Bagian Laba atas Penyertaan Modal pada
 BUMD"
 1;1;05;02;01;;"Piutang Bagian Laba atas Penyertaan Modal pada
 BUMD (Lembaga Keuangan)"
 1;1;05;02;01;001;"Piutang Bagian Laba atas Penyertaan Modal pada
-BUMD (Lembaga Keuangan) …"
-1;1;05;02;01;002;Dst …
+BUMD (Lembaga Keuangan) â€¦"
+1;1;05;02;01;002;Dst â€¦
 1;1;05;02;02;;"Piutang Bagian Laba atas Penyertaan Modal pada
 BUMD (Aneka Usaha)"
 1;1;05;02;02;001;"Piutang Bagian Laba atas Penyertaan Modal pada
 Perusahaan Milik Daerah/BUMD (Aneka Usaha)
-…"
-1;1;05;02;02;002;Dst …
+â€¦"
+1;1;05;02;02;002;Dst â€¦
 1;1;05;02;03;;"Bagian Laba yang Dibagikan kepada Pemerintah
 Daerah atas Penyertaan Modal pada (Dividen)
 BUMD (Bidang Air Minum)"
 1;1;05;02;03;001;"Bagian Laba yang Dibagikan kepada Pemerintah
 Daerah atas Penyertaan Modal pada (Dividen)
-BUMD (Bidang Air Minum) …"
-1;1;05;02;03;002;Dst …
+BUMD (Bidang Air Minum) â€¦"
+1;1;05;02;03;002;Dst â€¦
 1;1;05;02;04;;"Bagian Laba yang Dibagikan kepada Pemerintah
 Daerah atas Penyertaan Modal pada (Dividen)
 BUMD (Bidang Limbah)"
 1;1;05;02;04;001;"Bagian Laba yang Dibagikan kepada Pemerintah
 atas Penyertaan Modal Daerah pada (Dividen)
 Milik Daerah/BUMD (Bidang Perusahaan
-Limbah) …"
-1;1;05;02;04;002;Dst …
+Limbah) â€¦"
+1;1;05;02;04;002;Dst â€¦
 1;1;05;02;05;;"Bagian Laba yang Dibagikan kepada Pemerintah
 Daerah atas Penyertaan Modal pada (Dividen)
 BUMD (Bidang Sanitasi)"
 1;1;05;02;05;001;"Bagian Laba yang Dibagikan kepada Pemerintah
 atas Penyertaan Modal Daerah pada (Dividen)
 Milik Daerah/BUMD (Bidang Perusahaan
-Sanitasi) …"
-1;1;05;02;05;002;Dst …
+Sanitasi) â€¦"
+1;1;05;02;05;002;Dst â€¦
 1;1;06;;;;Piutang Lain-lain PAD yang Sah
 1;1;06;01;;;"Piutang Hasil Penjualan BMD yang Tidak
 Dipisahkan"
@@ -1117,7 +1117,7 @@ Bergulir"
 1;1;06;20;;;Piutang
 1;1;06;20;01;;Piutang
 1;1;06;21;01;001;Piutang
-1;1;06;21;01;002;Dst …
+1;1;06;21;01;002;Dst â€¦
 1;1;07;01;01;006;"Piutang
 Bumi"
 1;1;07;01;01;012;"Piutang
@@ -1253,23 +1253,23 @@ Kendaraan Bermotor"
 1;1;08;02;01;;"Piutang Bantuan Keuangan Umum dari
 Pemerintah Provinsi"
 1;1;08;02;01;001;"Piutang Bantuan Keuangan Umum dari
-Pemerintah Provinsi …"
-1;1;08;02;01;002;Dst …
+Pemerintah Provinsi â€¦"
+1;1;08;02;01;002;Dst â€¦
 1;1;08;02;02;;"Piutang Bantuan Keuangan Khusus dari
 Pemerintah Provinsi"
 1;1;08;02;02;001;"Piutang Bantuan Keuangan Khusus dari
-Pemerintah Provinsi …"
-1;1;08;02;02;002;Dst …
+Pemerintah Provinsi â€¦"
+1;1;08;02;02;002;Dst â€¦
 1;1;08;02;03;;"Piutang Bantuan Keuangan Umum dari
 Pemerintah Kabupaten/Kota"
 1;1;08;02;03;001;"Piutang Bantuan Keuangan Umum dari
-Pemerintah Kabupaten/Kota …"
-1;1;08;02;03;002;Dst …
+Pemerintah Kabupaten/Kota â€¦"
+1;1;08;02;03;002;Dst â€¦
 1;1;08;02;04;;"Piutang Bantuan Keuangan Khusus dari
 Pemerintah Kabupaten/Kota"
 1;1;08;02;04;001;"Piutang Bantuan Keuangan Khusus dari
-Pemerintah Kabupaten/Kota …"
-1;1;08;02;04;002;Dst …
+Pemerintah Kabupaten/Kota â€¦"
+1;1;08;02;04;002;Dst â€¦
 1;1;09;;;;Piutang Lainnya
 1;1;09;01;;;Bagian Lancar Tagihan Jangka Panjang
 1;1;09;01;01;;"Bagian Lancar Tagihan Jangka Panjang-Investasi
@@ -1453,7 +1453,7 @@ Lainnya"
 1;1;13;;;;Aset Untuk Dikonsolidasikan
 1;1;13;01;;;RK SKPD
 1;1;13;01;01;;RK SKPD
-1;1;13;01;01;001;RK SKPD …
+1;1;13;01;01;001;RK SKPD â€¦
 1;1;13;01;01;002;Dst ...
 1;2;;;;;INVESTASI JANGKA PANJANG
 1;2;01;;;;Investasi Jangka Panjang Non Permanen
@@ -1471,15 +1471,15 @@ Lainnya"
 1;2;01;04;;;Investasi dalam Proyek Pembangunan
 1;2;01;04;01;;"Investasi dalam Proyek Pembangunan kepada
 Pemerintah Pusat"
-1;2;01;04;01;001;Investasi dalam Proyek Pembangunan …
-1;2;01;04;01;002;Dst …
+1;2;01;04;01;001;Investasi dalam Proyek Pembangunan â€¦
+1;2;01;04;01;002;Dst â€¦
 1;2;01;04;02;;"Investasi dalam Proyek Pembangunan kepada
 Pemerintah Daerah"
-1;2;01;04;02;001;Investasi dalam Proyek Pembangunan …
-1;2;01;04;02;002;Dst …
+1;2;01;04;02;001;Investasi dalam Proyek Pembangunan â€¦
+1;2;01;04;02;002;Dst â€¦
 1;2;01;05;;;Dana Bergulir
 1;2;01;05;01;;Dana Bergulir kepada Koperasi
-1;2;01;05;01;001;Dana Bergulir …
+1;2;01;05;01;001;Dana Bergulir â€¦
 1;2;01;05;01;002;Dst ...
 1;2;01;05;02;;Dana Bergulir kepada Masyarakat
 1;2;01;05;01;001;Dana Bergulir kepada Masyarakat
@@ -3266,7 +3266,7 @@ Distribusi"
 Listrik Lainnya"
 1;3;07;03;04;009;Akumulasi Penyusutan Jaringan Telepon-Jaringan Telepon di atas Tanah
 1;3;07;03;04;010;Akumulasi Penyusutan Jaringan Telepon-Jaringan Telepon di bawah Tanah
-1;4;01;01;01;002;Dst …
+1;4;01;01;01;002;Dst â€¦
 1;5;01;01;01;;"Tagihan
 Golongan"
 1;5;01;01;01;001;"Tagihan
@@ -6362,7 +6362,7 @@ Diterima oleh Satdiksus Swasta"
 2;1;06;05;07;;"Utang Belanja Hibah Bantuan Keuangan kepada
 Partai Politik"
 2;1;06;05;07;001;"Utang Belanja Hibah berupa Bantuan Keuangan
-kepada Partai Politik …"
+kepada Partai Politik â€¦"
 2;1;06;06;;;Utang Belanja Modal Tanah
 2;1;06;06;01;;Utang Belanja Modal Tanah
 2;1;06;06;01;001;"Utang Belanja Modal Tanah Persil-Tanah
@@ -7638,50 +7638,50 @@ Pemerintahan Desa ..."
 2;1;06;13;01;;"Utang Belanja Bantuan Keuangan Umum antar
 Daerah Provinsi"
 2;1;06;13;01;001;"Utang Belanja Bantuan Keuangan Umum kepada
-Pemerintah Provinsi …"
-2;1;06;13;01;002;Dst …
+Pemerintah Provinsi â€¦"
+2;1;06;13;01;002;Dst â€¦
 2;1;06;13;02;;"Utang Belanja Bantuan Keuangan Khusus antar
 Daerah Provinsi"
 2;1;06;13;02;001;"Utang Belanja Bantuan Keuangan Khusus
-kepada Pemerintah Provinsi …"
-2;2;06;13;02;002;Dst …
+kepada Pemerintah Provinsi â€¦"
+2;2;06;13;02;002;Dst â€¦
 2;1;06;13;03;;"Utang Belanja Bantuan Keuangan Umum antar
 Daerah Kabupaten/Kota"
 2;1;06;13;03;001;"Utang Belanja Bantuan Keuangan Umum kepada
-Pemerintah Kabupaten/Kota …"
-2;1;06;13;03;002;Dst …
+Pemerintah Kabupaten/Kota â€¦"
+2;1;06;13;03;002;Dst â€¦
 2;1;06;13;04;;"Utang Belanja Bantuan Keuangan Khusus antar
 Pemerintah Kabupaten/Kota"
 2;1;06;13;04;001;"Utang Bantuan Keuangan Khusus kepada
-Pemerintah Kabupaten/Kota …"
-2;1;06;13;04;002;Dst …
-2;1;06;13;05;002;Dst …
+Pemerintah Kabupaten/Kota â€¦"
+2;1;06;13;04;002;Dst â€¦
+2;1;06;13;05;002;Dst â€¦
 2;1;06;13;06;;Utang
 2;1;06;13;06;001;Utang
-2;2;06;13;06;002;Dst …
-2;1;06;13;07;002;Dst …
+2;2;06;13;06;002;Dst â€¦
+2;1;06;13;07;002;Dst â€¦
 2;1;06;13;08;;"Utang Belanja Bantuan Keuangan Khusus
 Daerah Kabupaten/Kota kepada Provinsi"
 2;1;06;13;08;001;"Utang Belanja Bantuan Keuangan Khusus
-Daerah Kabupaten/Kota kepada Provinsi …"
-2;2;06;13;08;002;Dst …
+Daerah Kabupaten/Kota kepada Provinsi â€¦"
+2;2;06;13;08;002;Dst â€¦
 2;1;06;13;09;;"Utang Belanja Bantuan Keuangan Umum Daerah
 Provinsi atau Kabupaten/Kota kepada Desa"
 2;1;06;13;09;001;"Utang Belanja Bantuan Keuangan Umum Daerah
-Provinsi atau Kabupaten/Kota kepada Desa …"
-2;1;06;13;09;002;Dst …
+Provinsi atau Kabupaten/Kota kepada Desa â€¦"
+2;1;06;13;09;002;Dst â€¦
 2;1;06;13;10;;"Utang Belanja Bantuan Keuangan Khusus
 Daerah Provinsi atau Kabupaten/Kota kepada
 Desa"
 2;1;06;13;10;001;"Utang Belanja Bantuan Keuangan Khusus
 Daerah Provinsi atau Kabupaten/Kota kepada
-Desa …"
-2;2;06;13;10;002;Dst …
+Desa â€¦"
+2;2;06;13;10;002;Dst â€¦
 2;1;06;13;11;;"Utang Belanja Transfer Dana Otonomi Khusus
 Provinsi kepada Kabupaten/Kota"
 2;1;06;13;11;001;"Utang Belanja Transfer Dana Otonomi Khusus
-Provinsi kepada Kabupaten/Kota …"
-2;2;06;13;11;002;Dst …
+Provinsi kepada Kabupaten/Kota â€¦"
+2;2;06;13;11;002;Dst â€¦
 2;1;07;;;;Utang Jangka Pendek Lainnya
 2;1;07;01;;;Utang Kelebihan Pembayaran PAD
 2;1;07;01;01;;Utang Kelebihan Pembayaran Pajak
@@ -8342,8 +8342,8 @@ Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada BUMN"
 4;1;03;01;01;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
-Modal pada BUMN …"
-4;1;03;01;01;002;Dst …
+Modal pada BUMN â€¦"
+4;1;03;01;01;002;Dst â€¦
 4;1;03;02;;;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada BUMD"
@@ -8352,37 +8352,37 @@ Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada BUMD (Lembaga Keuangan)"
 4;1;03;02;01;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
-Modal pada BUMD (Lembaga Keuangan) …"
-4;1;03;02;01;002;Dst …
+Modal pada BUMD (Lembaga Keuangan) â€¦"
+4;1;03;02;01;002;Dst â€¦
 4;1;03;02;02;;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada BUMD (Aneka Usaha)"
 4;1;03;02;02;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
-Modal pada BUMD (Aneka Usaha) …"
-4;1;03;02;02;002;Dst …
+Modal pada BUMD (Aneka Usaha) â€¦"
+4;1;03;02;02;002;Dst â€¦
 4;1;03;02;03;;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada BUMD (Bidang Air Minum)"
 4;1;03;02;03;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada Perusahaan Milik Daerah/BUMD
-(Bidang Air Minum) …"
-4;1;03;02;03;002;Dst …
+(Bidang Air Minum) â€¦"
+4;1;03;02;03;002;Dst â€¦
 4;1;03;02;04;;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada BUMD (Bidang Limbah)"
 4;1;03;02;04;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
-Modal pada BUMD (Bidang Limbah) …"
-4;1;03;02;04;002;Dst …
+Modal pada BUMD (Bidang Limbah) â€¦"
+4;1;03;02;04;002;Dst â€¦
 4;1;03;02;05;;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada BUMD (Bidang Sanitasi)"
 4;1;03;02;05;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
-Modal pada BUMD (Bidang Sanitasi) …"
-4;1;03;02;05;002;Dst …
+Modal pada BUMD (Bidang Sanitasi) â€¦"
+4;1;03;02;05;002;Dst â€¦
 4;1;04;;;;Lain-lain PAD yang Sah
 4;1;04;01;;;Hasil Penjualan BMD yang Tidak Dipisahkan
 4;1;04;01;01;;Hasil Penjualan Tanah
@@ -8523,8 +8523,8 @@ Infrastruktur"
 4;1;04;05;04;001;Jasa Giro pada BLUD ...
 4;1;04;05;04;002;Dst ...
 4;1;04;05;05;;Jasa Giro pada Rekening Dana BOS
-4;1;04;05;05;001;Jasa Giro pada Rekening Dana BOS …
-4;1;04;05;05;002;Dst …
+4;1;04;05;05;001;Jasa Giro pada Rekening Dana BOS â€¦
+4;1;04;05;05;002;Dst â€¦
 4;1;04;05;06;;Jasa Giro Dana Kapitasi pada FKTP
 4;1;04;05;06;001;Jasa Giro Dana Kapitasi pada FKTP
 4;1;04;05;06;002;Jasa Giro Dana Kapitasi pada FKTP
@@ -8752,7 +8752,7 @@ Pembayaran Jaminan Kesehatan"
 Pembayaran Gaji dan Tunjangan"
 4;1;04;15;03;001;"Pendapatan dari Pengembalian Kelebihan
 Pembayaran Gaji dan Tunjangan"
-4;1;04;16;01;002;Dst…
+4;1;04;16;01;002;Dstâ€¦
 4;1;04;17;;;"Pendapatan Denda Pemanfaatan BMD yang
 tidak Dipisahkan"
 4;1;04;17;01;;Pendapatan Denda Pengakhiran Sewa BMD
@@ -8916,37 +8916,37 @@ Bermotor"
 4;2;02;02;01;;"Bantuan
 Provinsi"
 4;2;02;02;01;001;"Keuangan Bantuan
-Daerah Provinsi …"
-4;2;02;02;01;002;Dst …
+Daerah Provinsi â€¦"
+4;2;02;02;01;002;Dst â€¦
 4;2;02;02;02;;"Bantuan Keuangan Khusus dari Pemerintah
 Provinsi"
 4;2;02;02;02;001;"Bantuan Keuangan Khusus dari Pemerintah
-Daerah Provinsi …"
-4;2;02;02;02;002;Dst …
+Daerah Provinsi â€¦"
+4;2;02;02;02;002;Dst â€¦
 4;2;02;02;03;;"Bantuan Keuangan Umum dari Pemerintah
 Kabupaten/Kota"
 4;2;02;02;03;001;"Bantuan Keuangan Umum dari Pemerintah
-Daerah Kabupaten/Kota …"
-4;2;02;02;03;002;Dst …
+Daerah Kabupaten/Kota â€¦"
+4;2;02;02;03;002;Dst â€¦
 4;2;02;02;04;;"Bantuan Keuangan Khusus dari Pemerintah
 Kabupaten/Kota"
 4;2;02;02;04;001;"Bantuan Keuangan Khusus dari Pemerintah
-Daerah Kabupaten/Kota …"
-4;2;02;02;04;002;Dst …
+Daerah Kabupaten/Kota â€¦"
+4;2;02;02;04;002;Dst â€¦
 4;3;;;;;"LAIN-LAIN
 SAH"
 4;3;01;;;;Pendapatan Hibah
 4;3;01;01;;;Pendapatan Hibah dari Pemerintah Pusat
 4;3;01;01;01;;Pendapatan Hibah dari Pemerintah Pusat
-4;3;01;01;01;001;Pendapatan Hibah dari Pemerintah Pusat …
-4;3;01;01;01;002;Dst …
+4;3;01;01;01;001;Pendapatan Hibah dari Pemerintah Pusat â€¦
+4;3;01;01;01;002;Dst â€¦
 4;3;01;02;;;"Pendapatan
 Lainnya"
 4;3;01;02;01;;"Pendapatan
 Lainnya"
 4;3;01;02;01;001;"Pendapatan
-…"
-4;3;01;02;01;002;Dst …
+â€¦"
+4;3;01;02;01;002;Dst â€¦
 4;3;01;03;;;"Pendapatan Hibah dari Kelompok
 Masyarakat/Perorangan Dalam Negeri"
 4;3;01;03;01;;"Pendapatan Hibah dari Kelompok
@@ -8954,33 +8954,33 @@ Masyarakat/Perorangan Dalam Negeri"
 4;3;01;03;01;001;"Pendapatan Hibah dari Kelompok
 Masyarakat Dalam Negeri/Perorangan dalam
 Negeri ..."
-4;3;01;03;01;002;Dst …
+4;3;01;03;01;002;Dst â€¦
 4;3;01;04;;;"Pendapatan Hibah dari Badan/Lembaga/
 Organisasi Dalam Negeri/Luar Negeri"
 4;3;01;04;01;;"Pendapatan Hibah dari Badan/Lembaga/
 Organisasi Dalam Negeri"
 4;3;01;04;01;001;"Pendapatan Hibah dari Badan/Lembaga/
 Organisasi Dalam Negeri ..."
-4;3;01;04;01;002;Dst …
+4;3;01;04;01;002;Dst â€¦
 4;3;01;04;02;;"Pendapatan Hibah dari Badan/Lembaga/
 Organisasi Luar Negeri"
 4;3;01;04;02;001;"Pendapatan Hibah dari Badan/Lembaga/
 Organisasi Luar Negeri ..."
-4;3;01;04;02;002;Dst …
+4;3;01;04;02;002;Dst â€¦
 4;3;01;04;03;;"Pendapatan Hibah dari Lembaga/Organisasi
 Swasta Dalam Negeri"
 4;3;01;04;03;001;"Pendapatan Hibah dari Lembaga/Organisasi
-Swasta Dalam Negeri …"
-4;3;01;04;03;002;Dst …
+Swasta Dalam Negeri â€¦"
+4;3;01;04;03;002;Dst â€¦
 4;3;01;04;04;;"Pendapatan Hibah dari Lembaga/Organisasi
 Swasta Luar Negeri"
 4;3;01;04;04;001;"Pendapatan Hibah dari Lembaga/Organisasi
-Swasta Luar Negeri …"
-4;3;01;04;04;002;Dst …
+Swasta Luar Negeri â€¦"
+4;3;01;04;04;002;Dst â€¦
 4;3;01;05;;;Sumbangan Pihak Ketiga/Sejenis
 4;3;01;05;01;;Sumbangan Pihak Ketiga/Sejenis
-4;3;01;05;01;001;Sumbangan Pihak Ketiga/Sejenis …
-4;3;01;05;01;002;Dst …
+4;3;01;05;01;001;Sumbangan Pihak Ketiga/Sejenis â€¦
+4;3;01;05;01;002;Dst â€¦
 4;3;02;;;;Dana Darurat
 4;3;02;01;;;Dana Darurat
 4;3;02;01;01;;Dana Darurat
@@ -11695,8 +11695,8 @@ Partai Politik"
 5;1;05;07;01;;"Belanja Hibah Bantuan Keuangan kepada
 Partai Politik"
 5;1;05;07;01;001;"Belanja Hibah berupa Bantuan Keuangan
-kepada Partai Politik …"
-5;1;05;07;01;002;Dst …
+kepada Partai Politik â€¦"
+5;1;05;07;01;002;Dst â€¦
 5;1;06;;;;Belanja Bantuan Sosial
 5;1;06;01;;;Belanja Bantuan Sosial kepada Individu
 5;1;06;01;01;;"Belanja Bantuan Sosial Uang yang
@@ -12897,62 +12897,62 @@ Provinsi"
 5;4;02;01;01;;"Belanja
 Daerah"
 5;4;02;01;01;001;"Bantuan Belanja
-Pemerintah Provinsi …"
-5;4;02;01;01;002;Dst …
+Pemerintah Provinsi â€¦"
+5;4;02;01;01;002;Dst â€¦
 5;4;02;01;02;;"Belanja
 Daerah"
 5;4;02;01;02;001;"Bantuan Belanja
-Pemerintah Provinsi …"
-5;4;02;01;02;002;Dst …
+Pemerintah Provinsi â€¦"
+5;4;02;01;02;002;Dst â€¦
 5;4;02;02;;;"Bantuan Belanja
 Kabupaten/Kota"
 5;4;02;02;01;;"Belanja
 Daerah"
 5;4;02;02;01;001;Belanja
-5;4;02;02;01;002;Dst …
+5;4;02;02;01;002;Dst â€¦
 5;4;02;02;02;;"Belanja Bantuan Keuangan Khusus kepada
 Pemerintah Kabupaten/Kota"
 5;4;02;02;02;001;"Belanja Bantuan Keuangan Khusus antar
-Daerah Kabupaten/Kota …"
-5;4;02;02;02;002;Dst …
+Daerah Kabupaten/Kota â€¦"
+5;4;02;02;02;002;Dst â€¦
 5;4;02;03;;;"Belanja Bantuan Keuangan Daerah Provinsi
 ke Kabupaten/Kota"
 5;4;02;03;01;;"Belanja Bantuan Keuangan Umum Daerah
 Provinsi ke Kabupaten/Kota"
 5;4;02;03;01;001;"Belanja Bantuan Keuangan Umum Daerah
 Provinsi ke Kabupaten/Kota ..."
-5;4;02;03;01;002;Dst …
+5;4;02;03;01;002;Dst â€¦
 5;4;02;03;02;;"Belanja Bantuan Keuangan Khusus Daerah
 Provinsi ke Kabupaten/Kota"
 5;4;02;03;02;001;"Belanja Bantuan Keuangan Khusus Daerah
 Provinsi ke Kabupaten/Kota ..."
-5;4;02;03;02;002;Dst …
+5;4;02;03;02;002;Dst â€¦
 5;4;02;04;;;"Belanja Bantuan Keuangan Kabupaten/Kota
 ke Daerah Provinsi"
 5;4;02;04;01;;"Belanja Bantuan Keuangan Umum Daerah
 Kabupaten/Kota ke Provinsi"
 5;4;02;04;01;001;"Belanja Bantuan Keuangan Umum Daerah
-Kabupaten/Kota ke Provinsi …"
-5;4;02;04;01;002;Dst …
+Kabupaten/Kota ke Provinsi â€¦"
+5;4;02;04;01;002;Dst â€¦
 5;4;02;04;02;;"Belanja Bantuan Keuangan Khusus Daerah
 Kabupaten/Kota ke Provinsi"
 5;4;02;04;02;001;"Belanja Bantuan Keuangan Khusus Daerah
-Kabupaten/Kota ke Provinsi …"
-5;4;02;04;02;002;Dst …
+Kabupaten/Kota ke Provinsi â€¦"
+5;4;02;04;02;002;Dst â€¦
 5;4;02;05;;;"Belanja Bantuan Keuangan Daerah Provinsi
 atau Kabupaten/Kota kepada Desa"
 5;4;02;05;01;;"Belanja Bantuan Keuangan Umum Daerah
 Provinsi atau Kabupaten/Kota kepada Desa"
 5;4;02;05;01;001;"Belanja Bantuan Keuangan Umum Daerah
 Provinsi atau Kabupaten/Kota kepada Desa
-…"
-5;4;02;05;01;002;Dst …
+â€¦"
+5;4;02;05;01;002;Dst â€¦
 5;4;02;05;02;;"Belanja Bantuan Keuangan Khusus Daerah
 Provinsi atau Kabupaten/Kota kepada Desa"
 5;4;02;05;02;001;"Belanja Bantuan Keuangan Khusus Daerah
 Provinsi atau Kabupaten/Kota kepada Desa
-…"
-5;4;02;05;02;002;Dst …
+â€¦"
+5;4;02;05;02;002;Dst â€¦
 5;4;02;06;;;"Belanja Transfer Dana Otonomi Khusus
 Provinsi kepada Kabupaten/Kota"
 5;4;02;06;01;;"Belanja Transfer Dana Otonomi Khusus
@@ -13249,8 +13249,8 @@ Target Kinerja"
 6;1;02;;;;Pencairan Dana Cadangan
 6;1;02;01;;;Pencairan Dana Cadangan
 6;1;02;01;01;;Pencairan Dana Cadangan
-6;1;02;01;01;001;Pencairan Dana Cadangan Nomor …
-6;1;02;01;01;002;Dst …
+6;1;02;01;01;001;Pencairan Dana Cadangan Nomor â€¦
+6;1;02;01;01;002;Dst â€¦
 6;1;03;;;;"Hasil Penjualan Kekayaan Daerah yang
 Dipisahkan"
 6;1;03;01;;;"Hasil Penjualan Kekayaan Daerah yang
@@ -13268,7 +13268,7 @@ Dipisahkan pada Badan Usaha Milik Daerah
 Dipisahkan pada BUMD"
 6;1;03;02;01;001;"Hasil Penjualan Kekayaan Daerah yang
 Dipisahkan pada BUMD ..."
-6;1;03;02;01;002;Dst …
+6;1;03;02;01;002;Dst â€¦
 6;1;04;;;;Penerimaan Pinjaman Daerah
 6;1;04;01;;;Pinjaman Daerah dari Pemerintah Pusat
 6;1;04;01;01;;"Pinjaman Daerah dari Pemerintah Pusat-Penerusan Pinjaman Dalam Negeri-Jangka
@@ -13691,13 +13691,13 @@ Akun;Kelompok;Jenis;Objek;Rincian Objek;Sub Rincian Objek;Uraian Akun
 7;1;01;01;01;001;PKB-Mobil Penumpang-Sedan-Pribadi-LO
 7;1;01;01;01;002;PKB-Mobil Penumpang-Sedan-Umum-LO
 7;1;01;01;01;003;"PKB-Mobil Penumpang-Sedan-Pemerintah
-Pusat–LO"
+Pusatâ€“LO"
 7;1;01;01;01;004;"PKB-Mobil Penumpang-Sedan-Pemerintah
 Daerah-LO"
 7;1;01;01;02;;PKB-Mobil Penumpang-Jeep-LO
 7;1;01;01;02;001;PKB-Mobil Penumpang-Jeep-Pribadi-LO
 7;1;01;01;02;002;PKB-Mobil Penumpang-Jeep-Umum-LO
-7;1;01;01;02;003;"PKB-Mobil Penumpang-Jeep-Pemerintah Pusat–
+7;1;01;01;02;003;"PKB-Mobil Penumpang-Jeep-Pemerintah Pusatâ€“
 LO"
 7;1;01;01;02;004;"PKB-Mobil Penumpang-Jeep-Pemerintah
 Daerah-LO"
@@ -13705,7 +13705,7 @@ Daerah-LO"
 7;1;01;01;03;001;PKB-Mobil Penumpang-Minibus-Pribadi-LO
 7;1;01;01;03;002;PKB-Mobil Penumpang-Minibus-Umum-LO
 7;1;01;01;03;003;"PKB-Mobil Penumpang-Minibus-Pemerintah
-Pusat –LO"
+Pusat â€“LO"
 7;1;01;01;03;004;"PKB-Mobil Penumpang-Minibus-Pemerintah
 Daerah-LO"
 7;1;01;01;04;;PKB-Mobil Bus-Microbus-LO
@@ -13716,7 +13716,7 @@ Daerah-LO"
 LO"
 7;1;01;01;05;;PKB-Mobil Bus-Bus-LO
 7;1;01;01;05;001;PKB-Mobil Bus-Bus-Pribadi-LO
-7;1;01;01;05;002;PKB–Mobil Bus-Bus-Umum-LO
+7;1;01;01;05;002;PKBâ€“Mobil Bus-Bus-Umum-LO
 7;1;01;01;05;003;PKB-Mobil Bus-Bus-Pemerintah Pusat-LO
 7;1;01;01;05;004;PKB-Mobil Bus-Bus-Pemerintah Daerah-LO
 7;1;01;01;06;;PKB-Mobil Barang/Beban-Pick Up-LO
@@ -13724,31 +13724,31 @@ LO"
 7;1;01;01;08;001;PKB-Mobil Barang/Beban-Truck-Pribadi-LO
 7;1;01;01;08;002;PKB-Mobil Barang/Beban-Truck-Umum-LO
 7;1;01;01;08;003;"PKB-Mobil
-Pusat–LO"
+Pusatâ€“LO"
 7;1;01;01;08;004;"PKB-Mobil
 Daerah-LO"
 7;1;01;01;09;;PKB-Mobil Barang/Beban-Blind Van-LO
 7;1;01;01;09;001;"PKB-Mobil
 LO"
-7;1;01;01;09;002;PKB-Mobil Barang/Beban-Blind Van-Umum–LO
+7;1;01;01;09;002;PKB-Mobil Barang/Beban-Blind Van-Umumâ€“LO
 7;1;01;01;09;003;PKB-Mobil
 7;1;01;01;09;004;PKB-Mobil
-7;1;01;01;10;;PKB-Sepeda Motor-Sepeda Motor Roda Dua–LO
+7;1;01;01;10;;PKB-Sepeda Motor-Sepeda Motor Roda Duaâ€“LO
 7;1;01;01;10;001;"PKB-Sepeda
 Pribadi-LO"
 7;1;01;01;10;002;"PKB-Sepeda
 Umum-LO"
 7;1;01;01;10;003;PKB-Sepeda
 7;1;01;01;10;004;PKB-Sepeda
-7;1;01;01;11;;PKB-Sepeda Motor-Sepeda Motor Roda Tiga–LO
+7;1;01;01;11;;PKB-Sepeda Motor-Sepeda Motor Roda Tigaâ€“LO
 7;1;01;01;11;001;"PKB-Sepeda
-Pribadi–LO"
+Pribadiâ€“LO"
 7;1;01;01;11;002;"PKB-Sepeda
 Umum-LO"
 7;1;01;01;11;003;PKB-Sepeda
 7;1;01;01;11;004;PKB-Sepeda
 7;1;01;01;12;;"PKB-Kendaraan Bermotor yang Dioperasikan di
-Air–LO"
+Airâ€“LO"
 7;1;01;01;12;001;"PKB-Kendaraan Bermotor yang Dioperasikan di
 Air-Pribadi-LO"
 7;1;01;01;12;002;"PKB-Kendaraan Bermotor yang Dioperasikan di
@@ -13757,18 +13757,18 @@ Air-Umum-LO"
 Air-Pemerintah Pusat-LO"
 7;1;01;01;12;004;"PKB-Kendaraan Bermotor yang Dioperasikan di
 Air-Pemerintah Daerah-LO"
-7;1;01;01;13;;"PKB-Kendaraan Khusus Alat Berat/Alat Besar–
+7;1;01;01;13;;"PKB-Kendaraan Khusus Alat Berat/Alat Besarâ€“
 LO"
-7;1;01;01;13;001;PKB-Kendaraan Khusus Alat Berat/Alat Besar-Pribadi–LO
-7;1;01;01;13;002;PKB-Kendaraan Khusus Alat Berat/Alat Besar-Umum–LO
+7;1;01;01;13;001;PKB-Kendaraan Khusus Alat Berat/Alat Besar-Pribadiâ€“LO
+7;1;01;01;13;002;PKB-Kendaraan Khusus Alat Berat/Alat Besar-Umumâ€“LO
 7;1;01;01;13;003;PKB-Kendaraan Khusus Alat Berat/Alat Besar-Pemerintah Pusat-LO
 7;1;01;01;13;004;PKB-Kendaraan Khusus Alat Berat/Alat Besar-Pemerintah Daerah-LO
-7;1;01;01;14;;PKB-Mobil Roda Tiga–LO
+7;1;01;01;14;;PKB-Mobil Roda Tigaâ€“LO
 7;1;01;01;14;001;PKB-Mobil Roda Tiga-Pribadi-LO
 7;1;01;01;14;002;PKB-Mobil Roda Tiga-Umum-LO
 7;1;01;01;14;003;PKB-Mobil Roda Tiga-Pemerintah Pusat-LO
 7;1;01;01;14;004;PKB-Mobil Roda Tiga-Pemerintah Daerah-LO
-7;1;01;02;;;"Bea Balik Nama Kendaraan Bermotor (BBNKB)–
+7;1;01;02;;;"Bea Balik Nama Kendaraan Bermotor (BBNKB)â€“
 LO"
 7;1;01;02;01;;BBNKB-Mobil Penumpang-Sedan -LO
 7;1;01;02;01;001;BBNKB-Mobil Penumpang-Sedan-LO
@@ -13778,7 +13778,7 @@ LO"
 7;1;01;02;03;01;BBNKB-Mobil Penumpang-Minibus-LO
 7;1;01;02;04;;BBNKB-Mobil Bus-Microbus-LO
 7;1;01;02;04;001;BBNKB-Mobil Bus-Microbus-LO
-7;1;01;02;05;;BBNKB-Mobil Bus-Bus–LO
+7;1;01;02;05;;BBNKB-Mobil Bus-Busâ€“LO
 7;1;01;02;05;001;BBNKB-Mobil Bus-Bus-LO
 7;1;01;02;06;;BBNKB-Mobil Barang/Beban-Pick Up-LO
 7;1;01;02;06;001;BBNKB-Mobil Barang/Beban-Pick Up-LO
@@ -13792,7 +13792,7 @@ LO"
 7;1;01;02;10;001;BBNKB-Sepeda Motor-Sepeda Motor Roda Dua-LO
 7;1;01;02;11;;BBNKB-Sepeda Motor-Sepeda Motor Roda Tiga-LO
 7;1;01;02;11;001;BBNKB-Sepeda Motor-Sepeda Motor Roda Tiga-LO
-7;1;01;03;02;;PBBKB Bahan Bakar Solar–LO
+7;1;01;03;02;;PBBKB Bahan Bakar Solarâ€“LO
 7;1;01;03;02;001;PBBKB Bahan Bakar Solar-LO
 7;1;01;03;03;;PBBKB Bahan Bakar Gas-LO
 7;1;01;03;03;001;PBBKB Bahan Bakar Gas-LO
@@ -13801,7 +13801,7 @@ LO"
 7;1;01;04;;;Pajak Air Permukaan-LO
 7;1;01;04;01;;Pajak Air Permukaan-LO
 7;1;01;04;01;001;Pajak Air Permukaan-LO
-7;1;01;05;;;Pajak Rokok–LO
+7;1;01;05;;;Pajak Rokokâ€“LO
 7;1;01;05;01;;Pajak Rokok-LO
 7;1;01;05;01;001;Pajak Rokok-LO
 7;1;01;06;;;Pajak Hotel-LO
@@ -13820,10 +13820,10 @@ LO"
 7;1;01;06;07;;Pajak Rumah Penginapan dan Sejenisnya-LO
 7;1;01;06;07;001;Pajak Rumah Penginapan dan Sejenisnya-LO
 7;1;01;06;08;;"Pajak Rumah Kos dengan Jumlah Kamar Lebih
-dari 10 (Sepuluh)–LO"
+dari 10 (Sepuluh)â€“LO"
 7;1;01;06;08;001;"Pajak Rumah Kos dengan Jumlah Kamar Lebih
-dari 10 (Sepuluh)–LO"
-7;1;01;07;;;Pajak Restoran–LO
+dari 10 (Sepuluh)â€“LO"
+7;1;01;07;;;Pajak Restoranâ€“LO
 7;1;01;07;01;;Pajak Restoran dan Sejenisnya-LO
 7;1;01;07;01;001;Pajak Restoran dan Sejenisnya-LO
 7;1;01;07;02;;Pajak Rumah Makan dan Sejenisnya-LO
@@ -13834,13 +13834,13 @@ dari 10 (Sepuluh)–LO"
 7;1;01;07;04;001;Pajak Kantin dan Sejenisnya-LO
 7;1;01;07;05;;Pajak Warung dan Sejenisnya-LO
 7;1;01;07;05;001;Pajak Warung dan Sejenisnya-LO
-7;1;01;07;06;;Pajak Bar dan Sejenisnya–LO
+7;1;01;07;06;;Pajak Bar dan Sejenisnyaâ€“LO
 7;1;01;07;06;001;Pajak Bar dan Sejenisnya-LO
 7;1;01;07;07;;Pajak Jasa Boga/Katering dan Sejenisnya-LO
 7;1;01;07;07;001;Pajak Jasa Boga/Katering dan Sejenisnya-LO
 7;1;01;08;;;Pajak Hiburan-LO
-7;1;01;08;01;;Pajak Tontonan Film–LO
-7;1;01;08;01;001;Pajak Tontonan Film–LO
+7;1;01;08;01;;Pajak Tontonan Filmâ€“LO
+7;1;01;08;01;001;Pajak Tontonan Filmâ€“LO
 7;1;01;08;02;;"Pajak Pagelaran Kesenian/Musik/Tari/
 Busana-LO"
 7;1;01;08;02;001;Pajak Pagelaran Kesenian/Musik/Tari/Busana-LO
@@ -13848,8 +13848,8 @@ Busana-LO"
 Sejenisnya-LO"
 7;1;01;08;03;001;"Pajak Kontes Kecantikan, Binaraga, dan
 Sejenisnya-LO"
-7;1;01;08;04;;Pajak Pameran–LO
-7;1;01;08;04;001;Pajak Pameran–LO
+7;1;01;08;04;;Pajak Pameranâ€“LO
+7;1;01;08;04;001;Pajak Pameranâ€“LO
 7;1;01;08;05;;"Pajak Diskotik, Karaoke, Klub Malam, dan
 Sejenisnya-LO"
 7;1;01;08;05;001;"Pajak Diskotik, Karaoke, Klub Malam, dan
@@ -13859,9 +13859,9 @@ Sejenisnya-LO"
 7;1;01;08;07;;Pajak Permainan Biliar dan Bowling-LO
 7;1;01;08;07;001;Pajak Permainan Biliar dan Bowling-LO
 7;1;01;08;08;;"Pajak Pacuan Kuda, Kendaraan Bermotor, dan
-Permainan Ketangkasan–LO"
+Permainan Ketangkasanâ€“LO"
 7;1;01;08;08;001;"Pajak Pacuan Kuda, Kendaraan Bermotor, dan
-Permainan Ketangkasan–LO"
+Permainan Ketangkasanâ€“LO"
 7;1;01;08;09;;"Pajak Panti Pijat, Refleksi, Mandi Uap/Spa, dan
 Pusat Kebugaran (Fitness Center)-LO"
 7;1;01;08;09;001;"Pajak Panti Pijat, Refleksi, Mandi Uap/Spa, dan
@@ -14127,8 +14127,8 @@ Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada BUMN-LO"
 7;1;03;01;01;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) Penyertaan atas
-Modal pada BUMN …-LO"
-7;1;03;01;01;002;Dst …
+Modal pada BUMN â€¦-LO"
+7;1;03;01;01;002;Dst â€¦
 7;1;03;02;;;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) Penyertaan atas
 Modal pada BUMD-LO"
@@ -14137,29 +14137,29 @@ Pemerintah Daerah (Dividen) Penyertaan atas
 Modal pada BUMD (Lembaga Keuangan)-LO"
 7;1;03;02;01;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) Penyertaan atas
-Modal pada BUMD (Lembaga Keuangan) … -LO"
-7;1;03;02;01;002;Dst … -LO
+Modal pada BUMD (Lembaga Keuangan) â€¦ -LO"
+7;1;03;02;01;002;Dst â€¦ -LO
 7;1;03;02;02;;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) Penyertaan atas
 Modal pada BUMD (Aneka Usaha)-LO"
 7;1;03;02;02;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) Penyertaan atas
-Modal pada BUMD (Aneka Usaha) …-LO"
-7;1;03;02;02;002;Dst …-LO
+Modal pada BUMD (Aneka Usaha) â€¦-LO"
+7;1;03;02;02;002;Dst â€¦-LO
 7;1;03;02;03;;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada BUMD (Bidang Air Minum)-LO"
 7;1;03;02;03;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
-Modal pada BUMD (Bidang Air Minum) …-LO"
-7;1;03;02;03;002;Dst …-LO
+Modal pada BUMD (Bidang Air Minum) â€¦-LO"
+7;1;03;02;03;002;Dst â€¦-LO
 7;1;03;02;04;;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
 Modal pada BUMD (Bidang Limbah)-LO"
 7;1;03;02;04;001;"Bagian Laba yang Dibagikan kepada
 Pemerintah Daerah (Dividen) atas Penyertaan
-Modal pada BUMD (Bidang Limbah) …-LO"
-7;1;03;02;04;002;Dst …-LO
+Modal pada BUMD (Bidang Limbah) â€¦-LO"
+7;1;03;02;04;002;Dst â€¦-LO
 7;1;03;06;05;;Bagian
 7;1;03;06;05;001;Bagian
 7;1;04;01;;;"Hasil
@@ -14268,17 +14268,17 @@ Infrastruktur-LO"
 7;1;04;05;02;;Jasa Giro pada Kas di Bendahara-LO
 7;1;04;05;02;001;Jasa Giro pada Kas di Bendahara-LO
 7;1;04;05;03;;Jasa Giro pada Rekening Dana Cadangan-LO
-7;1;04;05;03;001;Jasa Giro pada Rekening Dana Cadangan …-LO
-7;1;04;05;03;002;Dst …
+7;1;04;05;03;001;Jasa Giro pada Rekening Dana Cadangan â€¦-LO
+7;1;04;05;03;002;Dst â€¦
 7;1;04;05;04;;Jasa Giro pada BLUD-LO
-7;1;04;05;04;001;Jasa Giro pada BLUD …-LO
-7;1;04;05;04;002;Dst …
+7;1;04;05;04;001;Jasa Giro pada BLUD â€¦-LO
+7;1;04;05;04;002;Dst â€¦
 7;1;04;05;05;;Jasa Giro pada Rekening Dana BOS-LO
-7;1;04;05;05;001;Jasa Giro pada Rekening Dana BOS …-LO
-7;1;04;05;05;002;Dst …
+7;1;04;05;05;001;Jasa Giro pada Rekening Dana BOS â€¦-LO
+7;1;04;05;05;002;Dst â€¦
 7;1;04;05;06;;Jasa Giro Dana Kapitasi pada FKTP-LO
-7;1;04;05;06;001;Jasa Giro Dana Kapitasi pada FKTP …-LO
-7;1;04;05;06;002;Dst …
+7;1;04;05;06;001;Jasa Giro Dana Kapitasi pada FKTP â€¦-LO
+7;1;04;05;06;002;Dst â€¦
 7;1;04;06;;;Hasil Pengelolaan Dana Bergulir-LO
 7;1;04;06;01;;Hasil Pengelolaan Dana Bergulir-LO
 7;1;04;06;01;001;Hasil Pengelolaan Dana Bergulir-LO
@@ -14413,7 +14413,7 @@ Perdesaan dan Perkotaan (PBBP2)-LO"
 7;1;04;15;04;;Pendapatan
 7;1;04;15;04;001;Pendapatan
 7;1;04;15;05;;Pendapatan
-7;1;04;16;01;002;Dst …
+7;1;04;16;01;002;Dst â€¦
 7;1;04;17;;;"Pendapatan Denda Pemanfaatan BMD yang
 Tidak Dipisahkan-LO"
 7;1;04;17;01;;Pendapatan Denda Pengakhiran Sewa BMD-LO
@@ -14438,14 +14438,14 @@ LO"
 7;2;01;01;01;008;DBH SDA Mineral dan Batubara-Royalty-LO
 7;2;01;01;01;009;DBH SDA Kehutanan-PSDH-LO
 7;2;01;01;01;010;DBH SDA Kehutanan-IIUPH-LO
-7;2;01;01;01;011;DBH SDA Kehutanan–DR-LO
+7;2;01;01;01;011;DBH SDA Kehutananâ€“DR-LO
 7;2;01;01;01;012;DBH SDA Perikanan-LO
 7;2;01;01;01;013;DBH SDA Panas Bumi-LO
 7;2;01;01;02;001;DAU-LO
 7;2;01;01;03;;"Dana
 (DAK)"
 7;2;01;01;03;004;DAK Fisik-Bidang Pendidikan-Reguler-SDLB/SMPLB/SMALB-LO
-7;2;01;01;03;005;DAK Fisik–Bidang Pendidikan-Reguler-SKB-LO
+7;2;01;01;03;005;DAK Fisikâ€“Bidang Pendidikan-Reguler-SKB-LO
 7;2;01;01;03;006;DAK Fisik-Bidang Pendidikan-Reguler-Perpustakaan Daerah-LO
 7;2;01;01;03;007;DAK Fisik-Bidang Pendidikan-Reguler-Olahraga-LO
 7;2;01;01;03;008;DAK Fisik-Bidang Air Minum-Reguler-LO
@@ -14458,15 +14458,15 @@ Permukiman-Reguler-LO"
 7;2;01;01;03;014;"DAK Fisik-Bidang Kesehatan-Reguler-Pelayanan Kefarmasian dan Perbekalan
 Kesehatan-LO"
 7;2;01;01;03;015;DAK Fisik-Bidang Kesehatan-Reguler-KB-LO
-7;2;01;01;03;016;DAK Fisik–Bidang Pertanian-Reguler-LO
+7;2;01;01;03;016;DAK Fisikâ€“Bidang Pertanian-Reguler-LO
 7;2;01;01;03;017;DAK Fisik-Bidang Kelautan dan Perikanan-Reguler-LO
 7;2;01;01;03;018;DAK Fisik-Bidang Pariwisata-Reguler-LO
 7;2;01;01;03;019;DAK Fisik-Bidang Industri Kecil dan Menengah-Reguler-LO
-7;2;01;01;03;020;DAK Fisik–Bidang Pendidikan-Penugasan-SMK-LO
+7;2;01;01;03;020;DAK Fisikâ€“Bidang Pendidikan-Penugasan-SMK-LO
 7;2;01;01;03;021;DAK Fisik-Bidang Kesehatan-Penugasan-Peningkatan Pelayanan Rujukan-LO
 7;2;01;01;03;022;DAK Fisik-Bidang Kesehatan-Penugasan-Penurunan Stunting-LO
 7;2;01;01;03;023;DAK Fisik-Bidang Kesehatan-Penugasan-Pengendalian Penyakit-LO
-7;2;01;01;03;024;"DAK Fisik-Bidang Kesehatan-Penugasan–Balai
+7;2;01;01;03;024;"DAK Fisik-Bidang Kesehatan-Penugasanâ€“Balai
 Pelatihan Kesehatan-LO"
 7;2;01;01;03;025;DAK Fisik-Bidang Air Minum-Penugasan-LO
 7;2;01;01;03;026;DAK Fisik-Bidang Pariwisata-Penugasan-LO
@@ -14528,43 +14528,43 @@ Yogyakarta-LO"
 7;2;02;02;03;;"Bantuan Keuangan Umum dari Pemerintah
 Kabupaten/Kota"
 7;2;02;02;03;001;"Bantuan Keuangan Umum dari Pemerintah
-Kabupaten/Kota …"
-7;2;02;02;03;002;Dst …
+Kabupaten/Kota â€¦"
+7;2;02;02;03;002;Dst â€¦
 7;2;02;02;04;;"Bantuan Keuangan Khusus dari Pemerintah
 Kabupaten/Kota"
 7;2;02;02;04;001;"Bantuan Keuangan Khusus dari Pemerintah
-Kabupaten/Kota …"
-7;2;02;02;04;002;Dst …
+Kabupaten/Kota â€¦"
+7;2;02;02;04;002;Dst â€¦
 7;3;;;;;LAIN-LAIN PENDAPATAN DAERAH YANG SAH-LO
 7;3;01;;;;Pendapatan Hibah-LO
-7;3;01;01;01;002;Dst …
-7;3;01;02;01;002;Dst …
+7;3;01;01;01;002;Dst â€¦
+7;3;01;02;01;002;Dst â€¦
 7;3;01;03;;;"Pendapatan Hibah dari Kelompok
 Masyarakat/Perorangan Dalam Negeri-LO"
 7;3;01;03;01;;"Pendapatan Hibah dari Kelompok
 Masyarakat/Perorangan Dalam Negeri-LO"
 7;3;01;03;01;001;"Pendapatan Hibah dari Kelompok
-Masyarakat/Perorangan Dalam Negeri …-LO"
-7;3;01;03;01;002;Dst …
+Masyarakat/Perorangan Dalam Negeri â€¦-LO"
+7;3;01;03;01;002;Dst â€¦
 7;3;01;04;;;"Pendapatan Hibah dari Badan/Lembaga/
 Organisasi Dalam Negeri/Luar Negeri-LO"
 7;3;01;04;01;;"Pendapatan Hibah dari Badan/Lembaga/
 Organisasi Dalam Negeri-LO"
 7;3;01;04;01;001;"Pendapatan Hibah dari Badan/Lembaga/
-Organisasi Dalam Negeri …-LO"
-7;3;01;04;01;002;Dst …
+Organisasi Dalam Negeri â€¦-LO"
+7;3;01;04;01;002;Dst â€¦
 7;3;01;04;02;;"Pendapatan Hibah dari Badan/Lembaga/
 Organisasi Luar Negeri-LO"
 7;3;01;04;02;001;"Pendapatan Hibah dari Badan/Lembaga/
-Organisasi Luar Negeri …-LO"
-7;3;01;04;02;002;Dst …
+Organisasi Luar Negeri â€¦-LO"
+7;3;01;04;02;002;Dst â€¦
 7;3;01;04;03;;"Pendapatan Hibah dari Lembaga/Organisasi
 Swasta Dalam Negeri-LO"
 7;3;01;04;03;001;"Pendapatan Hibah dari Lembaga/Organisasi
-Swasta Dalam Negeri …-LO"
-7;3;01;04;03;002;Dst …
-7;3;01;04;04;002;Dst …
-7;3;01;05;01;002;Dst …
+Swasta Dalam Negeri â€¦-LO"
+7;3;01;04;03;002;Dst â€¦
+7;3;01;04;04;002;Dst â€¦
+7;3;01;05;01;002;Dst â€¦
 7;3;02;;;;Dana Darurat-LO
 7;3;02;01;;;Dana Darurat-LO
 7;3;02;01;01;;Dana Darurat-LO
@@ -14581,7 +14581,7 @@ Pemerintah-LO"
 Non Lancar-LO"
 7;4;01;01;;;"Surplus Penjualan BMD yang Tidak
 Dipisahkan-LO"
-7;4;01;01;01;;Surplus Penjualan Tanah–LO
+7;4;01;01;01;;Surplus Penjualan Tanahâ€“LO
 7;4;01;01;01;001;Surplus Penjualan Tanah-LO
 7;4;01;01;02;;Surplus Penjualan Peralatan dan Mesin-LO
 7;4;01;01;02;001;Surplus Penjualan Alat Besar-LO
@@ -14602,7 +14602,7 @@ Kesehatan-LO"
 7;4;01;01;02;017;"Surplus
 LO"
 7;4;01;01;04;004;Surplus Penjualan Jaringan-LO
-7;4;01;01;05;;Surplus Penjualan Aset Tetap Lainnya–LO
+7;4;01;01;05;;Surplus Penjualan Aset Tetap Lainnyaâ€“LO
 7;4;01;01;05;001;Surplus Penjualan Bahan Perpustakaan-LO
 7;4;01;01;05;002;"Surplus Penjualan Barang Bercorak
 Kesenian/Kebudayaan/Olahraga-LO"
@@ -14652,76 +14652,76 @@ Pusat-LO"
 7;4;02;01;01;;"Surplus Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Menengah-LO"
 7;4;02;01;01;001;"Surplus Penyelesaian Utang kepada Pemerintah
-Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Menengah …-LO"
-7;4;02;01;01;002;Dst …
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Menengah â€¦-LO"
+7;4;02;01;01;002;Dst â€¦
 7;4;02;01;02;;"Surplus Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang-LO"
 7;4;02;01;02;001;"Surplus Penyelesaian Utang kepada Pemerintah
-Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang …-LO"
-7;4;02;01;02;002;Dst …
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang â€¦-LO"
+7;4;02;01;02;002;Dst â€¦
 7;4;02;01;03;;"Surplus Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Luar Negeri-Jangka
 Menengah-LO"
 7;4;02;01;03;001;"Surplus Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Luar Negeri-Jangka
-Menengah …-LO"
-7;4;02;01;03;002;Dst …
+Menengah â€¦-LO"
+7;4;02;01;03;002;Dst â€¦
 7;4;02;01;04;;"Surplus Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Luar Negeri-Jangka
 Panjang-LO"
 7;4;02;01;04;001;"Surplus Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Luar Negeri-Jangka
-Panjang …-LO"
-7;4;02;01;04;002;Dst …
+Panjang â€¦-LO"
+7;4;02;01;04;002;Dst â€¦
 7;4;02;01;06;002;"Surplus Penyelesaian Utang kepada Pemerintah
 Pusat-Sumber Lainnya sesuai dengan
-Ketentuan Peraturan Perundang-Undangan-Jangka Panjang …-LO"
+Ketentuan Peraturan Perundang-Undangan-Jangka Panjang â€¦-LO"
 7;4;02;02;;;"Surplus Penyelesaian Utang kepada Lembaga
 Keuangan Bank (LKB)-LO"
 7;4;02;02;01;;Surplus Penyelesaian Utang kepada LKB-BUMN-Jangka Menengah-LO
-7;4;02;02;01;001;Surplus Penyelesaian Utang kepada LKB-BUMN-Jangka Menengah …-LO
-7;4;02;02;01;002;Dst …
+7;4;02;02;01;001;Surplus Penyelesaian Utang kepada LKB-BUMN-Jangka Menengah â€¦-LO
+7;4;02;02;01;002;Dst â€¦
 7;4;02;02;02;;Surplus Penyelesaian Utang kepada LKB-BUMN-Jangka Panjang-LO
-7;4;02;02;02;001;Surplus Penyelesaian Utang kepada LKB-BUMN-Jangka Panjang …-LO
-7;4;02;02;02;002;Dst …
+7;4;02;02;02;001;Surplus Penyelesaian Utang kepada LKB-BUMN-Jangka Panjang â€¦-LO
+7;4;02;02;02;002;Dst â€¦
 7;4;02;02;03;;Surplus Penyelesaian Utang kepada LKB-BUMD-Jangka Menengah-LO
-7;4;02;02;03;001;Surplus Penyelesaian Utang kepada LKB-BUMD-Jangka Menengah …-LO
-7;4;02;02;03;002;Dst …
+7;4;02;02;03;001;Surplus Penyelesaian Utang kepada LKB-BUMD-Jangka Menengah â€¦-LO
+7;4;02;02;03;002;Dst â€¦
 7;4;02;02;04;;Surplus Penyelesaian Utang kepada LKB-BUMD-Jangka Panjang-LO
-7;4;02;02;04;001;Surplus Penyelesaian Utang kepada LKB-BUMD-Jangka Panjang …-LO
-7;4;02;02;04;002;Dst …
+7;4;02;02;04;001;Surplus Penyelesaian Utang kepada LKB-BUMD-Jangka Panjang â€¦-LO
+7;4;02;02;04;002;Dst â€¦
 7;4;02;02;05;;Surplus Penyelesaian Utang kepada LKB-Swasta-Jangka Menengah-LO
-7;4;02;02;05;001;Surplus Penyelesaian Utang kepada LKB-Swasta-Jangka Menengah …-LO
-7;4;02;02;05;002;Dst …
+7;4;02;02;05;001;Surplus Penyelesaian Utang kepada LKB-Swasta-Jangka Menengah â€¦-LO
+7;4;02;02;05;002;Dst â€¦
 7;4;02;02;06;;Surplus Penyelesaian Utang kepada LKB-Swasta-Jangka Panjang-LO
-7;4;02;02;06;001;Surplus Penyelesaian Utang kepada LKB-Swasta-Jangka Panjang …-LO
-7;4;02;02;06;002;Dst …
+7;4;02;02;06;001;Surplus Penyelesaian Utang kepada LKB-Swasta-Jangka Panjang â€¦-LO
+7;4;02;02;06;002;Dst â€¦
 7;4;02;03;;;"Surplus Penyelesaian Utang kepada Lembaga
 Keuangan Bukan Bank (LKBB)-LO"
 7;4;02;03;01;;Surplus
 7;4;02;03;01;001;Surplus
-7;4;02;03;01;002;Dst …
+7;4;02;03;01;002;Dst â€¦
 7;4;02;03;02;;Surplus
 7;4;02;03;02;001;Surplus
-7;4;02;03;02;002;Dst …
+7;4;02;03;02;002;Dst â€¦
 7;4;02;03;03;;Surplus
 7;4;02;03;03;001;Surplus
-7;4;02;03;03;002;Dst …
+7;4;02;03;03;002;Dst â€¦
 7;4;02;03;04;;Surplus Penyelesaian Utang kepada LKBB-BUMD-Jangka Panjang-LO
-7;4;02;03;04;001;Surplus Penyelesaian Utang kepada LKBB-BUMD-Jangka Panjang …-LO
-7;4;02;03;04;002;Dst …
+7;4;02;03;04;001;Surplus Penyelesaian Utang kepada LKBB-BUMD-Jangka Panjang â€¦-LO
+7;4;02;03;04;002;Dst â€¦
 7;4;02;03;05;;Surplus Penyelesaian Utang kepada LKBB-Swasta-Jangka Menengah-LO
-7;4;02;03;05;001;Surplus Penyelesaian Utang kepada LKBB-Swasta-Jangka Menengah …-LO
-7;4;02;03;05;002;Dst …
+7;4;02;03;05;001;Surplus Penyelesaian Utang kepada LKBB-Swasta-Jangka Menengah â€¦-LO
+7;4;02;03;05;002;Dst â€¦
 7;4;02;03;06;;Surplus Penyelesaian Utang kepada LKBB-Swasta-Jangka Panjang-LO
-7;4;02;03;06;001;Surplus Penyelesaian Utang kepada LKBB-Swasta-Jangka Panjang …-LO
-7;4;02;03;06;002;Dst …
+7;4;02;03;06;001;Surplus Penyelesaian Utang kepada LKBB-Swasta-Jangka Panjang â€¦-LO
+7;4;02;03;06;002;Dst â€¦
 7;4;02;04;;;"Surplus Penyelesaian Premium (Diskonto)
 Obligasi-LO"
 7;4;02;04;01;;"Surplus Penyelesaian Premium (Diskonto)
 Obligasi-LO"
 7;4;02;04;01;001;"Surplus Penyelesaian Premium (Diskonto)
-Obligasi –LO"
+Obligasi â€“LO"
 8;;;;;;BEBAN DAERAH
 8;1;;;;;BEBAN OPERASI
 8;1;01;;;;Beban Pegawai
@@ -17020,32 +17020,32 @@ Pihak Ketiga"
 atas Penerusan Pinjaman Dalam Negeri-Jangka
 Menengah"
 8;1;03;01;01;001;"Beban Bunga Utang kepada Pemerintah Pusat
-… atas Penerusan Pinjaman Dalam Negeri-Jangka Menengah"
+â€¦ atas Penerusan Pinjaman Dalam Negeri-Jangka Menengah"
 8;1;03;01;01;002;Dst ...
 8;1;03;01;02;;"Beban Bunga Utang kepada Pemerintah Pusat
 atas Penerusan Pinjaman Dalam Negeri-Jangka
 Panjang"
 8;1;03;01;02;001;"Beban Bunga Utang kepada Pemerintah Pusat
-… atas Penerusan Pinjaman Dalam Negeri-Jangka Panjang"
+â€¦ atas Penerusan Pinjaman Dalam Negeri-Jangka Panjang"
 8;1;03;01;02;002;Dst ...
 8;1;03;01;03;;"Beban Bunga Utang kepada Pemerintah Pusat
 atas Penerusan Pinjaman Luar Negeri-Jangka
 Menengah"
 8;1;03;01;03;001;"Beban Bunga Utang kepada Pemerintah Pusat
-… atas Penerusan Pinjaman Luar Negeri-Jangka Menengah"
+â€¦ atas Penerusan Pinjaman Luar Negeri-Jangka Menengah"
 8;1;03;01;03;002;Dst ...
 8;1;03;01;04;;"Beban Bunga Utang kepada Pemerintah Pusat
 atas Penerusan Pinjaman Luar Negeri-Jangka
 Panjang"
 8;1;03;01;04;001;"Beban Bunga Utang kepada Pemerintah Pusat
-atas Pinjaman Luar Negeri …- Penerusan
+atas Pinjaman Luar Negeri â€¦- Penerusan
 Jangka Panjang"
 8;1;03;01;04;002;Dst ...
 8;1;03;01;05;;"Beban Bunga Utang kepada Pemerintah Pusat
 atas Pinjaman Sumber Lainnya sesuai
 Ketentuan Peraturan Perundang-Undangan-Jangka Menengah"
 8;1;03;01;05;001;"Beban Bunga Utang kepada Pemerintah Pusat
-atas Pinjaman Sumber Lainnya … sesuai
+atas Pinjaman Sumber Lainnya â€¦ sesuai
 Ketentuan Peraturan Perundang-Undangan-Jangka Menengah"
 8;1;03;01;05;002;Dst ...
 8;1;03;01;06;;"Beban Bunga Utang Pinjaman Sumber Lainnya
@@ -17174,64 +17174,64 @@ Panjang"
 8;1;03;06;03;002;Dst ...
 8;1;04;;;;Beban Subsidi
 8;1;04;01;;;Beban Subsidi kepada BUMN
-8;1;04;01;01;;Beban Subsidi kepada BUMN …
-8;1;04;01;01;001;Beban Subsidi kepada BUMN …
-8;1;04;01;02;;Dst …
-8;1;04;01;02;001;Dst …
+8;1;04;01;01;;Beban Subsidi kepada BUMN â€¦
+8;1;04;01;01;001;Beban Subsidi kepada BUMN â€¦
+8;1;04;01;02;;Dst â€¦
+8;1;04;01;02;001;Dst â€¦
 8;1;04;02;;;Beban Subsidi kepada BUMD
-8;1;04;02;01;;Beban Subsidi kepada BUMD …
-8;1;04;02;01;001;Beban Subsidi BUMD …
-8;1;04;02;02;;Dst …
-8;1;04;02;02;001;Dst …
+8;1;04;02;01;;Beban Subsidi kepada BUMD â€¦
+8;1;04;02;01;001;Beban Subsidi BUMD â€¦
+8;1;04;02;02;;Dst â€¦
+8;1;04;02;02;001;Dst â€¦
 8;1;04;03;;;"Beban
 Swasta"
 8;1;04;03;01;;"Beban
 Swasta"
 8;1;04;03;01;001;"Beban
 Swasta"
-8;1;04;03;02;;Dst …
-8;1;04;03;02;001;Dst …
+8;1;04;03;02;;Dst â€¦
+8;1;04;03;02;001;Dst â€¦
 8;1;05;01;;;Beban Hibah kepada Pemerintah Pusat
 8;1;05;01;01;;Beban Hibah Uang kepada Pemerintah Pusat
-8;1;05;01;01;001;Beban Hibah Uang kepada Pemerintah Pusat …
-8;1;05;01;01;001;Dst …
+8;1;05;01;01;001;Beban Hibah Uang kepada Pemerintah Pusat â€¦
+8;1;05;01;01;001;Dst â€¦
 8;1;05;01;02;;Beban Hibah Barang kepada Pemerintah Pusat
 8;1;05;01;02;001;"Beban Hibah Barang kepada Pemerintah Pusat
-…"
-8;1;05;01;02;002;Dst …
-8;1;05;01;02;002;Dst …
+â€¦"
+8;1;05;01;02;002;Dst â€¦
+8;1;05;01;02;002;Dst â€¦
 8;1;05;02;;;"Beban
 Lainnya"
-8;1;05;02;01;002;Dst …
+8;1;05;02;01;002;Dst â€¦
 8;1;05;02;02;;"Beban
 Daerah"
 8;1;05;02;02;001;"Beban
 Daerah"
-8;1;05;02;02;002;Dst …
+8;1;05;02;02;002;Dst â€¦
 8;1;05;02;03;;"Beban Hibah Jasa kepada Pemerintah Daerah
 Lainnya"
-8;1;05;02;03;001;Beban Hibah Jasa kepada Pemerintah Pusat …
-8;1;05;02;03;002;Dst …
+8;1;05;02;03;001;Beban Hibah Jasa kepada Pemerintah Pusat â€¦
+8;1;05;02;03;002;Dst â€¦
 8;1;05;03;;;Beban Hibah kepada BUMN
 8;1;05;03;01;;Beban Hibah Uang kepada BUMN
-8;1;05;03;01;001;Beban Hibah Uang kepada BUMN …
-8;1;05;03;01;002;Dst …
-8;1;05;03;02;;Beban Hibah Barang kepada BUMN …
-8;1;05;03;02;001;Beban Hibah Barang kepada BUMN …
-8;1;05;03;02;002;Dst …
-8;1;05;03;03;;Beban Hibah Jasa kepada BUMN …
-8;1;05;03;03;001;Beban Hibah Jasa kepada BUMN …
-8;1;05;03;03;002;Dst …
+8;1;05;03;01;001;Beban Hibah Uang kepada BUMN â€¦
+8;1;05;03;01;002;Dst â€¦
+8;1;05;03;02;;Beban Hibah Barang kepada BUMN â€¦
+8;1;05;03;02;001;Beban Hibah Barang kepada BUMN â€¦
+8;1;05;03;02;002;Dst â€¦
+8;1;05;03;03;;Beban Hibah Jasa kepada BUMN â€¦
+8;1;05;03;03;001;Beban Hibah Jasa kepada BUMN â€¦
+8;1;05;03;03;002;Dst â€¦
 8;1;05;04;;;Beban Hibah Uang kepada BUMD
-8;1;05;04;01;;Beban Hibah Uang kepada BUMD …
-8;1;05;04;01;001;Beban Hibah Uang kepada BUMD …
-8;1;05;04;01;002;Dst …
-8;1;05;04;02;;Beban Hibah Barang kepada BUMD …
-8;1;05;04;02;001;Beban Hibah Barang kepada BUMD …
-8;1;05;04;02;002;Dst …
-8;1;05;04;03;;Beban Hibah Jasa kepada BUMD …
-8;1;05;04;03;001;Beban Hibah Jasa kepada BUMD …
-8;1;05;04;03;002;Dst …
+8;1;05;04;01;;Beban Hibah Uang kepada BUMD â€¦
+8;1;05;04;01;001;Beban Hibah Uang kepada BUMD â€¦
+8;1;05;04;01;002;Dst â€¦
+8;1;05;04;02;;Beban Hibah Barang kepada BUMD â€¦
+8;1;05;04;02;001;Beban Hibah Barang kepada BUMD â€¦
+8;1;05;04;02;002;Dst â€¦
+8;1;05;04;03;;Beban Hibah Jasa kepada BUMD â€¦
+8;1;05;04;03;001;Beban Hibah Jasa kepada BUMD â€¦
+8;1;05;04;03;002;Dst â€¦
 8;1;05;05;;;"Beban Hibah kepada Badan, Lembaga,
 Organisasi Kemasyarakatan yang Berbadan
 Hukum Indonesia"
@@ -17239,113 +17239,113 @@ Hukum Indonesia"
 yang Berbadan Hukum Indonesia"
 8;1;05;05;01;001;"Belanja Hibah Uang kepada Badan/Lembaga ...
 yang Berbadan Hukum Indonesia"
-8;1;05;05;01;001;Dst …
+8;1;05;05;01;001;Dst â€¦
 8;1;05;05;02;;"Beban Hibah Barang kepada Badan/Lembaga
 yang Berbadan Hukum Indonesia"
 8;1;05;05;02;001;"Beban Hibah Barang kepada Badan/Lembaga
 ... yang Berbadan Hukum Indonesia"
-8;1;05;05;02;002;Dst …
+8;1;05;05;02;002;Dst â€¦
 8;1;05;05;03;;"Beban Hibah Jasa kepada Badan/Lembaga
 yang Berbadan Hukum Indonesia"
 8;1;05;05;03;001;"Beban Hibah Jasa kepada Badan/Lembaga ...
 yang Berbadan Hukum Indonesia"
-8;1;05;05;03;002;Dst …
+8;1;05;05;03;002;Dst â€¦
 8;1;05;05;04;;"Beban Hibah Uang kepada Organisasi
 Kemasyarakatan yang Berbadan Hukum
 Indonesia"
 8;1;05;05;04;001;"Beban Hibah Uang kepada Organisasi
 Kemasyarakatan ... yang Berbadan Hukum
 Indonesia"
-8;1;05;05;04;002;Dst …
+8;1;05;05;04;002;Dst â€¦
 8;1;05;05;05;;"Beban Hibah Barang kepada Organisasi
 Kemasyarakatan yang Berbadan Hukum
 Indonesia"
 8;1;05;05;05;001;"Beban Hibah Barang kepada Organisasi
 Kemasyarakatan ... yang Berbadan Hukum
 Indonesia"
-8;1;05;05;05;002;Dst …
+8;1;05;05;05;002;Dst â€¦
 8;1;05;05;06;;"Beban Hibah Jasa kepada Organisasi
 Kemasyarakatan yang Berbadan Hukum
 Indonesia"
 8;1;05;05;06;001;"Beban Hibah Jasa kepada Organisasi
 Kemasyarakatan ... yang Berbadan Hukum
 Indonesia"
-8;1;05;05;06;002;Dst …
+8;1;05;05;06;002;Dst â€¦
 8;1;05;06;;;Beban Hibah Dana BOS
 8;1;05;06;01;;"Beban Hibah Uang Dana BOS yang Diterima
 oleh Satdikdas Negeri"
 8;1;5;06;01;001;"Beban Hibah Uang Dana BOS yang Diterima
-oleh Satdikdas Negeri …"
-8;1;5;06;01;002;Dst …
+oleh Satdikdas Negeri â€¦"
+8;1;5;06;01;002;Dst â€¦
 8;1;05;06;02;;"Beban Hibah Uang Dana BOS yang Diterima
 oleh Satdikdas Swasta"
 8;1;05;06;02;001;"Beban Hibah Uang Dana BOS yang Diterima
-oleh Satdikdas Swasta …"
-8;1;05;06;02;002;Dst …
+oleh Satdikdas Swasta â€¦"
+8;1;05;06;02;002;Dst â€¦
 8;1;05;06;03;;"Beban Hibah Uang Dana BOS yang Diterima
-oleh Satdikmen Swasta …"
+oleh Satdikmen Swasta â€¦"
 8;1;05;06;03;001;"Beban Hibah Uang Dana BOS yang Diterima
-oleh Satdikmen Swasta …"
-8;1;05;06;03;002;Dst …
+oleh Satdikmen Swasta â€¦"
+8;1;05;06;03;002;Dst â€¦
 8;1;05;06;04;;"Beban Hibah Uang Dana BOS yang Diterima
 oleh Satdiksus Swasta"
 8;1;05;06;04;001;"Beban Hibah Uang Dana BOS yang Diterima
-oleh Satdiksus Swasta …"
-8;1;05;06;04;002;Dst …
+oleh Satdiksus Swasta â€¦"
+8;1;05;06;04;002;Dst â€¦
 8;1;05;07;;;"Beban Hibah Bantuan Keuangan Kepada Partai
 Politik"
 8;1;05;07;01;;"Beban Hibah Bantuan Keuangan Kepada Partai
-Politik …"
+Politik â€¦"
 8;1;05;07;01;001;"Beban Hibah berupa Bantuan Keuangan
-Kepada Partai Politik …"
-8;1;05;07;01;002;Dst …
+Kepada Partai Politik â€¦"
+8;1;05;07;01;002;Dst â€¦
 8;1;06;;;;Beban Bantuan Sosial
 8;1;06;01;;;Beban Bantuan Sosial Uang kepada Individu
 8;1;06;01;01;;"Beban Bantuan Sosial Uang yang
 Direncanakan kepada Individu"
 8;1;06;01;01;001;"Beban Bantuan Sosial Uang yang
-Direncanakan kepada Individu …"
-8;1;06;01;01;002;Dst …
+Direncanakan kepada Individu â€¦"
+8;1;06;01;01;002;Dst â€¦
 8;1;06;01;02;;"Beban Bantuan Sosial Barang yang
 Direncanakan kepada Individu"
 8;1;06;01;02;001;"Beban Bantuan Sosial Barang kepada Individu
-yang Direncanakan …"
-8;1;06;01;02;002;Dst …
+yang Direncanakan â€¦"
+8;1;06;01;02;002;Dst â€¦
 8;1;06;02;;;Beban Bantuan Sosial Uang kepada Keluarga
 8;1;06;02;01;;"Beban Bantuan Sosial Uang yang
 Direncanakan kepada Keluarga"
 8;1;06;02;01;001;"Beban Bantuan Sosial Uang yang
-Direncanakan kepada Keluarga …"
-8;1;06;02;01;002;Dst …
+Direncanakan kepada Keluarga â€¦"
+8;1;06;02;01;002;Dst â€¦
 8;1;06;02;02;;"Beban Bantuan Sosial Barang yang
-Direncanakan kepada Keluarga …"
+Direncanakan kepada Keluarga â€¦"
 8;1;06;02;02;001;"Beban Bantuan Sosial Barang yang
-Direncanakan kepada Keluarga …"
-8;1;06;02;02;002;Dst …
+Direncanakan kepada Keluarga â€¦"
+8;1;06;02;02;002;Dst â€¦
 8;1;06;03;;;"Beban Bantuan Sosial Uang kepada Kelompok
 Masyarakat"
 8;1;06;03;01;;"Beban Bantuan Sosial Uang yang
 Direncanakan kepada Kelompok Masyarakat"
 8;1;06;03;01;001;"Beban Bantuan Sosial Uang yang
-Direncanakan kepada Kelompok Masyarakat …"
-8;1;06;03;01;002;Dst …
+Direncanakan kepada Kelompok Masyarakat â€¦"
+8;1;06;03;01;002;Dst â€¦
 8;1;06;03;02;;"Beban Bantuan Sosial Barang kepada
 Kelompok Masyarakat"
 8;1;06;03;02;001;"Beban Bantuan Sosial Barang yang
-Direncanakan kepada Kelompok Masyarakat …"
-8;1;06;03;02;002;Dst …
+Direncanakan kepada Kelompok Masyarakat â€¦"
+8;1;06;03;02;002;Dst â€¦
 8;1;06;04;;;"Beban Bantuan Sosial Uang kepada Lembaga
 Non Pemerintahan (Bidang Pendidikan,
 Keagamaan dan Bidang Lainnya)"
 8;1;06;04;01;;"Beban Bantuan Sosial Uang yang
 Direncanakan kepada Lembaga Non
 Pemerintahan (Bidang Pendidikan, Keag amaan
-dan Bidang Lainnya) …"
+dan Bidang Lainnya) â€¦"
 8;1;06;04;01;001;"Beban Bantuan Sosial Uang yang
 Direncanakan kepada Lembaga Non
 Pemerintahan Bidang (Pendidikan, Keagamaan
-dan Bidang Lainnya) …"
-8;1;06;04;01;001;Dst …
+dan Bidang Lainnya) â€¦"
+8;1;06;04;01;001;Dst â€¦
 8;1;06;04;02;;"Beban Bantuan Sosial Barang yang
 Direncanakan kepada Lembaga Non
 Pemerintahan (Bidang Pendidikan, Keagamaan
@@ -17353,8 +17353,8 @@ dan Bidang Lainnya)"
 8;1;06;04;02;001;"Beban Bantuan Sosial Barang yang
 Direncanakan kepada Lembaga Non
 Pemerintahan Bidang (Pendidikan, Keagamaan
-dan Bidang Lainnya) …"
-8;1;06;04;02;001;Dst …
+dan Bidang Lainnya) â€¦"
+8;1;06;04;02;001;Dst â€¦
 8;2;;;;;Beban Penyusutan dan Amortisasi
 8;2;01;;;;Beban Penyusutan Peralatan dan Mesin
 8;2;01;01;;;Beban Penyusutan Alat Besar
@@ -18068,78 +18068,78 @@ Pemerintahan Kabupaten/Kota dan Desa"
 Pemerintahan Kabupaten"
 8;3;01;01;01;001;"Beban Bagi Hasil Pajak Daerah Kepada
 Pemerintahan Kabupaten"
-8;3;01;01;01;002;Dst …
+8;3;01;01;01;002;Dst â€¦
 8;3;01;01;02;;"Beban Bagi Hasil Pajak Daerah Kepada
 Pemerintahan Kota"
 8;3;01;01;02;001;"Beban Bagi Hasil Pajak Daerah Kepada
 Pemerintahan Kota"
-8;3;01;01;02;002;Dst …
+8;3;01;01;02;002;Dst â€¦
 8;3;01;01;03;;"Beban
 Pemerintahan Desa"
 8;3;01;01;03;001;"Beban
 Pemerintahan Desa"
-8;3;01;01;03;002;Dst …
+8;3;01;01;03;002;Dst â€¦
 8;3;02;;;;Beban Bantuan Keuangan
 8;3;02;01;;;"Beban
 Provinsi"
 8;3;02;01;01;;"Beban Bantuan Keuangan Umum antar Daerah
 Provinsi"
 8;3;02;01;01;001;"Beban Bantuan Keuangan Umum antar Daerah
-Provinsi …"
-8;3;02;01;01;002;Dst …
+Provinsi â€¦"
+8;3;02;01;01;002;Dst â€¦
 8;3;02;01;02;;"Beban
 Daerah"
 8;3;02;01;02;001;"Beban
 Daerah"
-8;3;02;01;02;002;Dst …
+8;3;02;01;02;002;Dst â€¦
 8;3;02;02;;;"Beban Bantuan Keuangan antar Daerah
 Kabupaten/Kota"
 8;3;02;02;01;;"Beban Bantuan Keuangan Umum antar Daerah
 Kabupaten/Kota"
 8;3;02;02;01;001;"Beban Bantuan Keuangan Umum antar Daerah
-Kabupaten/Kota …"
-8;3;02;02;01;002;Dst …
+Kabupaten/Kota â€¦"
+8;3;02;02;01;002;Dst â€¦
 8;3;02;02;02;;"Beban Bantuan Keuangan Khusus antar
 Daerah Kabupaten /Kota"
 8;3;02;02;02;001;"Beban Bantuan Keuangan Khusus antar
-Daerah Kabupaten /Kota …"
-8;3;02;02;02;002;Dst …
+Daerah Kabupaten /Kota â€¦"
+8;3;02;02;02;002;Dst â€¦
 8;3;02;03;01;;Beban
 8;3;02;03;01;001;Beban
-8;3;02;03;01;002;Dst …
+8;3;02;03;01;002;Dst â€¦
 8;3;02;03;02;;Beban
 8;3;02;03;02;001;Beban
-8;3;02;03;02;002;Dst …
+8;3;02;03;02;002;Dst â€¦
 8;3;02;04;;;"Beban
 Daerah"
 8;3;02;04;01;;Beban
 8;3;02;04;01;001;"Beban Bantuan Keuangan Umum
-Kabupaten/Kota ke Daerah Provinsi …"
-8;3;02;04;01;002;Dst …
+Kabupaten/Kota ke Daerah Provinsi â€¦"
+8;3;02;04;01;002;Dst â€¦
 8;3;02;04;02;;"Beban Bantuan Keuangan Khusus
 Kabupaten/Kota ke Daerah Provinsi"
 8;3;02;04;02;001;"Beban Bantuan Keuangan Khusus
 Kabupaten/Kota ke Daerah Provinsi ..."
-8;3;02;04;02;002;Dst …
+8;3;02;04;02;002;Dst â€¦
 8;3;02;05;;;"Beban Bantuan Keuangan Daerah Provinsi atau
 Kabupaten/Kota ke Desa"
 8;3;02;05;01;;"Beban Bantuan Keuangan Umum Daerah
 Provinsi atau Kabupaten/Kota ke Desa"
 8;3;02;05;01;001;"Beban Bantuan Keuangan Umum Daerah
 Provinsi atau Kabupaten/Kota ke Desa ..."
-8;3;02;05;01;002;Dst …
+8;3;02;05;01;002;Dst â€¦
 8;3;02;05;02;;"Beban Bantuan Keuangan Khusus Daerah
 Provinsi atau Kabupaten/Kota ke Desa"
 8;3;02;05;02;001;"Beban Bantuan Keuangan Khusus Daerah
-Provinsi atau Kabupaten/Kota ke Desa …"
-8;3;02;05;02;002;Dst …
+Provinsi atau Kabupaten/Kota ke Desa â€¦"
+8;3;02;05;02;002;Dst â€¦
 8;3;02;06;;;"Beban Transfer Dana Otonomi Khusus Provinsi
 kepada Kabupaten/Kota"
 8;3;02;06;01;;"Beban Transfer Dana Otonomi Khusus Provinsi
 kepada Kabupaten/Kota"
 8;3;02;06;01;001;"Beban Transfer Dana Otonomi Khusus Provinsi
 kepada Kabupaten/Kota"
-8;3;02;06;01;002;Dst …
+8;3;02;06;01;002;Dst â€¦
 8;4;;;;;BEBAN TAK TERDUGA
 8;4;01;;;;Beban Tak Terduga
 8;4;01;01;;;Beban Tak Terduga
@@ -18167,7 +18167,7 @@ dan Pemurnian-LO"
 8;5;01;01;02;017;Defisit Penjualan Peralatan Proses/Produksi-LO
 8;5;01;01;02;018;Defisit Penjualan Rambu-Rambu-LO
 8;5;01;01;02;019;Defisit Penjualan Peralatan Olahraga-LO
-8;5;01;01;03;;Defisit Penjualan Gedung dan Bangunan–LO
+8;5;01;01;03;;Defisit Penjualan Gedung dan Bangunanâ€“LO
 8;5;01;01;03;001;Defisit Penjualan Bangunan Gedung-LO
 8;5;01;01;03;002;Defisit Penjualan Monumen-LO
 8;5;01;01;03;003;Defisit Penjualan Bangunan Menara-LO
@@ -18234,80 +18234,80 @@ Usaha Milik Daerah-LO"
 Pusat-LO"
 8;5;02;01;01;;Defisit
 8;5;02;01;01;001;"Defisit Penyelesaian Utang kepada Pemerintah
-Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Menengah …-LO"
-8;5;02;01;01;002;Dst …
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Menengah â€¦-LO"
+8;5;02;01;01;002;Dst â€¦
 8;5;02;01;02;;"Defisit Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang-LO"
 8;5;02;01;02;001;"Defisit Penyelesaian Utang kepada Pemerintah
-Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang …-LO"
-8;5;02;01;02;002;Dst …
+Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang â€¦-LO"
+8;5;02;01;02;002;Dst â€¦
 8;5;02;01;03;;"Defisit Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Luar Negeri-Jangka
 Menengah-LO"
 8;5;02;01;03;001;"Defisit Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Luar Negeri-Jangka"
-8;5;02;01;03;002;Dst …
+8;5;02;01;03;002;Dst â€¦
 8;5;02;01;04;;"Defisit Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Luar Negeri-Jangka
 Panjang-LO"
 8;5;02;01;04;001;"Defisit Penyelesaian Utang kepada Pemerintah
 Pusat-Penerusan Pinjaman Luar Negeri-Jangka
-Panjang …-LO"
-8;5;02;01;04;002;Dst …
+Panjang â€¦-LO"
+8;5;02;01;04;002;Dst â€¦
 8;5;02;01;05;;"Defisit Penyelesaian Utang kepada Pemerintah
 Pusat-Sumber Lainnya sesuai dengan
 Ketentuan Peraturan Perundang-Undangan-Jangka Menengah-LO"
 8;5;02;01;05;001;"Defisit Penyelesaian Utang kepada Pemerintah
 Pusat-Sumber Lainnya sesuai dengan
-Ketentuan Peraturan Perundang-Undangan-Jangka Menengah …-LO"
-8;5;02;01;05;002;Dst …
+Ketentuan Peraturan Perundang-Undangan-Jangka Menengah â€¦-LO"
+8;5;02;01;05;002;Dst â€¦
 8;5;02;01;06;;"Defisit Penyelesaian Utang kepada Pemerintah
 Pusat-Sumber Lainnya sesuai dengan
 Ketentuan Peraturan Perundang-Undangan-Jangka Panjang-LO"
 8;5;02;01;06;001;"Defisit Penyelesaian Utang kepada Pemerintah
 Pusat-Sumber Lainnya sesuai dengan
-Ketentuan Peraturan Perundang-Undangan-Jangka Panjang …-LO"
-8;5;02;01;06;002;Dst …
+Ketentuan Peraturan Perundang-Undangan-Jangka Panjang â€¦-LO"
+8;5;02;01;06;002;Dst â€¦
 8;5;02;02;;;"Defisit Penyelesaian Utang kepada Lembaga
 Keuangan Bank (LKB)-LO"
 8;5;02;02;01;;Defisit Penyelesaian Utang kepada LKB-BUMN-Jangka Menengah-LO
-8;5;02;02;01;001;Defisit Penyelesaian Utang kepada LKB-BUMN-Jangka Menengah …-LO
-8;5;02;02;01;002;Dst …
+8;5;02;02;01;001;Defisit Penyelesaian Utang kepada LKB-BUMN-Jangka Menengah â€¦-LO
+8;5;02;02;01;002;Dst â€¦
 8;5;02;02;02;;Defisit Penyelesaian Utang kepada LKB-BUMN-Jangka Panjang-LO
-8;5;02;02;02;001;Defisit Penyelesaian Utang kepada LKB-BUMN-Jangka Panjang …-LO
-8;5;02;02;02;002;Dst …
+8;5;02;02;02;001;Defisit Penyelesaian Utang kepada LKB-BUMN-Jangka Panjang â€¦-LO
+8;5;02;02;02;002;Dst â€¦
 8;5;02;02;03;;Defisit Penyelesaian Utang kepada LKB-BUMD-Jangka Menengah-LO
-8;5;02;02;03;001;Defisit Penyelesaian Utang kepada LKB-BUMD-Jangka Menengah …-LO
-8;5;02;02;03;002;Dst …
+8;5;02;02;03;001;Defisit Penyelesaian Utang kepada LKB-BUMD-Jangka Menengah â€¦-LO
+8;5;02;02;03;002;Dst â€¦
 8;5;02;02;04;;Defisit Penyelesaian Utang kepada LKB-BUMD-Jangka Panjang-LO
-8;5;02;02;04;001;Defisit Penyelesaian Utang kepada LKB-BUMD-Jangka Panjang …-LO
-8;5;02;02;04;002;Dst …
+8;5;02;02;04;001;Defisit Penyelesaian Utang kepada LKB-BUMD-Jangka Panjang â€¦-LO
+8;5;02;02;04;002;Dst â€¦
 8;5;02;02;05;;Defisit Penyelesaian Utang kepada LKB-Swasta-Jangka Menengah-LO
-8;5;02;02;05;001;Defisit Penyelesaian Utang kepada LKB-Swasta-Jangka Menengah …-LO
-8;5;02;02;05;002;Dst …
+8;5;02;02;05;001;Defisit Penyelesaian Utang kepada LKB-Swasta-Jangka Menengah â€¦-LO
+8;5;02;02;05;002;Dst â€¦
 8;5;02;02;06;;Defisit Penyelesaian Utang kepada LKB-Swasta-
-8;5;02;02;06;001;Defisit Penyelesaian Utang kepada LKB-Swasta-Jangka Panjang …-LO
-8;5;02;02;06;002;Dst …
+8;5;02;02;06;001;Defisit Penyelesaian Utang kepada LKB-Swasta-Jangka Panjang â€¦-LO
+8;5;02;02;06;002;Dst â€¦
 8;5;02;03;;;"Defisit Penyelesaian Utang kepada Lembaga
 Keuangan Bukan Bank (LKBB)-LO"
 8;5;02;03;01;;Defisit Penyelesaian Utang kepada LKBB-BUMN-Jangka Menengah-LO
-8;5;02;03;01;001;Defisit Penyelesaian Utang kepada LKBB-BUMN-Jangka Menengah …-LO
-8;5;02;03;01;002;Dst …
+8;5;02;03;01;001;Defisit Penyelesaian Utang kepada LKBB-BUMN-Jangka Menengah â€¦-LO
+8;5;02;03;01;002;Dst â€¦
 8;5;02;03;02;;Defisit Penyelesaian Utang kepada LKBB-BUMN-Jangka Panjang-LO
-8;5;02;03;02;001;Defisit Penyelesaian Utang kepada LKBB-BUMN-Jangka Panjang …-LO
-8;5;02;03;02;002;Dst …
+8;5;02;03;02;001;Defisit Penyelesaian Utang kepada LKBB-BUMN-Jangka Panjang â€¦-LO
+8;5;02;03;02;002;Dst â€¦
 8;5;02;03;03;;Defisit Penyelesaian Utang kepada LKBB-BUMD-Jangka Menengah-LO
-8;5;02;03;03;001;Defisit Penyelesaian Utang kepada LKBB-BUMD-Jangka Menengah …-LO
-8;5;02;03;03;002;Dst …
+8;5;02;03;03;001;Defisit Penyelesaian Utang kepada LKBB-BUMD-Jangka Menengah â€¦-LO
+8;5;02;03;03;002;Dst â€¦
 8;5;02;03;04;;Defisit Penyelesaian Utang kepada LKBB-BUMD-Jangka Panjang-LO
-8;5;02;03;04;001;Defisit Penyelesaian Utang kepada LKBB-BUMD-Jangka Panjang …-LO
-8;5;02;03;04;002;Dst …
+8;5;02;03;04;001;Defisit Penyelesaian Utang kepada LKBB-BUMD-Jangka Panjang â€¦-LO
+8;5;02;03;04;002;Dst â€¦
 8;5;02;03;05;;Defisit Penyelesaian Utang kepada LKBB-Swasta-Jangka Menengah-LO
-8;5;02;03;05;001;Defisit Penyelesaian Utang kepada LKBB-Swasta-Jangka Menengah …-LO
-8;5;02;03;05;002;Dst …
+8;5;02;03;05;001;Defisit Penyelesaian Utang kepada LKBB-Swasta-Jangka Menengah â€¦-LO
+8;5;02;03;05;002;Dst â€¦
 8;5;02;03;06;;Defisit Penyelesaian Utang kepada LKBB-Swasta-Jangka Panjang-LO
-8;5;02;03;06;001;Defisit Penyelesaian Utang kepada LKBB-Swasta-Jangka Panjang …-LO
-8;5;02;03;06;002;Dst …
+8;5;02;03;06;001;Defisit Penyelesaian Utang kepada LKBB-Swasta-Jangka Panjang â€¦-LO
+8;5;02;03;06;002;Dst â€¦
 8;5;02;04;;;Defisit Penyelesaian Obligasi-LO
 8;5;02;04;01;;Defisit Penyelesaian Obligasi-LO
-8;5;02;04;01;001;Defisit Penyelesaian Obligasi–LO
+8;5;02;04;01;001;Defisit Penyelesaian Obligasiâ€“LO
