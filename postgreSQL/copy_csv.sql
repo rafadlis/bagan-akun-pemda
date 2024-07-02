@@ -1,2 +1,2 @@
 -- pastikan file csv sudah benar 
-COPY BaganAkun_All FROM '../csv/Gabungan.csv' DELIMITER ';' CSV HEADER;
+\\copy public.\"BaganAkun_All\" (id, akun, kelompok, objek, rincian_objek, sub_rincian_objek, uraian_akun) FROM 'D:/bagan-akun-pemda/csv/Gabungan.csv' DELIMITER ';' CSV HEADER
